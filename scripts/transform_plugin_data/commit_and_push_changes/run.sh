@@ -13,8 +13,8 @@ fi
 # 添加和提交文件
 git add plugin_cache_original.json
 
-# 获取统计信息用于提交信息
-total_plugins=$(jq '.data | keys | length' plugin_cache_original.json 2>/dev/null || echo "0")
+# 获取统计信息用于提交信息（与转换输出对齐：扁平对象）
+total_plugins=$(jq 'keys | length' plugin_cache_original.json 2>/dev/null || echo "0")
 success_repos=$(jq '[.[] | select(.status == "success")] | length' repo_info.json 2>/dev/null || echo "0")
 
 commit_message="🔄 Update plugin cache: $total_plugins plugins, $success_repos fresh updates - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
