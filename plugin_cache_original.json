@@ -260,7 +260,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 11,
-    "updated_at": "2025-08-26T09:15:06Z",
+    "updated_at": "2025-08-26T09:51:00Z",
     "version": "0.2.2"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -330,8 +330,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 14,
-    "updated_at": "2025-08-24T13:34:14Z",
-    "version": "1.2.2"
+    "updated_at": "2025-08-26T09:51:00Z",
+    "version": "1.2.3"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -4772,7 +4772,7 @@
       "定时任务"
     ],
     "stars": 20,
-    "updated_at": "2025-08-26T02:30:02Z",
+    "updated_at": "2025-08-26T09:45:02Z",
     "version": "v2.3.4"
   },
   "astrbot_sowing_discord": {
