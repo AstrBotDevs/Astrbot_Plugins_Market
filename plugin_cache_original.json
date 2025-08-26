@@ -330,8 +330,8 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 14,
-    "updated_at": "2025-08-26T10:43:49Z",
-    "version": "1.2.3"
+    "updated_at": "2025-08-26T13:26:30Z",
+    "version": "1.2.4"
   },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
@@ -392,8 +392,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 11,
-    "updated_at": "2025-08-26T11:42:08Z",
-    "version": "v1.0.6"
+    "updated_at": "2025-08-26T13:34:33Z",
+    "version": "v1.0.7"
   },
   "astrbot_plugin_memora_connect": {
     "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -634,7 +634,7 @@
       "增强"
     ],
     "stars": 10,
-    "updated_at": "2025-08-26T12:07:20Z",
+    "updated_at": "2025-08-26T13:19:34Z",
     "version": "2.9.6"
   },
   "astrbot_plugin_Group-Verification_PRO": {
@@ -746,8 +746,8 @@
       "屏幕控制"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 6,
-    "updated_at": "2025-08-24T16:24:58Z",
+    "stars": 7,
+    "updated_at": "2025-08-26T13:03:02Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_error_pro": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T12:51:30Z",
+    "updated_at": "2025-08-26T13:35:24Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
