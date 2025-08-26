@@ -330,7 +330,7 @@
     ],
     "social_link": "https://github.com/NickCharlie",
     "stars": 14,
-    "updated_at": "2025-08-26T09:51:00Z",
+    "updated_at": "2025-08-26T10:43:49Z",
     "version": "1.2.3"
   },
   "astrbot_plugin_baiduocr": {
@@ -392,8 +392,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 11,
-    "updated_at": "2025-08-26T05:09:17Z",
-    "version": "v1.0.4"
+    "updated_at": "2025-08-26T10:47:16Z",
+    "version": "v1.0.5"
   },
   "astrbot_plugin_memora_connect": {
     "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T10:25:39Z",
+    "updated_at": "2025-08-26T11:20:32Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4783,8 +4783,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 287,
-    "updated_at": "2025-08-25T11:43:49Z",
+    "stars": 288,
+    "updated_at": "2025-08-26T11:07:40Z",
     "version": "v0.912"
   },
   "astrbot_plugin_superpoke": {
