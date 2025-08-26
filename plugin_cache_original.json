@@ -91,8 +91,8 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-25T12:13:01Z",
-    "version": "v3.4.1"
+    "updated_at": "2025-08-26T15:35:15Z",
+    "version": "v3.5.0"
   },
   "astrbot_plugin_urldb": {
     "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
@@ -174,8 +174,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 26,
-    "updated_at": "2025-08-26T14:24:48Z",
+    "stars": 27,
+    "updated_at": "2025-08-26T15:50:39Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T15:24:57Z",
+    "updated_at": "2025-08-26T16:28:27Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -5616,8 +5616,8 @@
     "desc": "过滤消息段中的think",
     "repo": "https://github.com/zgojin/astrbot_plugin_thinkTags",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-08-24T16:15:59Z",
-    "version": "v1.4"
+    "stars": 3,
+    "updated_at": "2025-08-26T16:25:22Z",
+    "version": "v1.4.1"
   }
 }
