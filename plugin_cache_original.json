@@ -982,8 +982,8 @@
       "服务器",
       "监控"
     ],
-    "stars": 2,
-    "updated_at": "2025-07-29T09:49:39Z",
+    "stars": 3,
+    "updated_at": "2025-08-26T08:08:19Z",
     "version": "v1.1"
   },
   "astrbot_plugin_scheduler": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T07:22:59Z",
+    "updated_at": "2025-08-26T08:32:37Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
