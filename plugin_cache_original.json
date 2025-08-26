@@ -2628,8 +2628,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 22,
-    "updated_at": "2025-08-24T02:14:55Z",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-26T06:52:39Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_jm_cosmos": {
     "author": "GEMILUXVII",
@@ -2791,7 +2791,7 @@
     "repo": "https://github.com/monbed/astrbot_plugin_animewifex",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-26T06:43:11Z",
+    "updated_at": "2025-08-26T06:46:23Z",
     "version": "v1.6.1"
   },
   "astrbot_plugin_emojimix": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T06:35:45Z",
+    "updated_at": "2025-08-26T07:22:59Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
