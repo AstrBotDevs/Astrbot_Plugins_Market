@@ -245,8 +245,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/danfong1104",
-    "stars": 0,
-    "updated_at": "2025-08-25T03:48:42Z",
+    "stars": 1,
+    "updated_at": "2025-08-26T08:43:09Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_tts_emotion_router": {
@@ -260,7 +260,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 11,
-    "updated_at": "2025-08-26T01:40:32Z",
+    "updated_at": "2025-08-26T09:15:06Z",
     "version": "0.2.2"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T08:32:37Z",
+    "updated_at": "2025-08-26T09:25:54Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3363,8 +3363,8 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 12,
-    "updated_at": "2025-08-12T09:31:43Z",
+    "stars": 13,
+    "updated_at": "2025-08-26T09:19:19Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_sensoji_pro": {
@@ -3813,8 +3813,8 @@
       "lorebook",
       "世界书"
     ],
-    "stars": 8,
-    "updated_at": "2025-07-27T10:57:42Z",
+    "stars": 9,
+    "updated_at": "2025-08-26T08:54:35Z",
     "version": "v0.1.8"
   },
   "daily_limit": {
