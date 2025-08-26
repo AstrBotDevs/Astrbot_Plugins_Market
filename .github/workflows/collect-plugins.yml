@@ -21,137 +21,27 @@ jobs:
         node-version: '18'
 
     - name: Install dependencies
-      run: |
-        npm init -y
-        npm install @octokit/rest
+      run: bash "scripts/collect_plugin_information/install_dependencies/run.sh"
 
     - name: Collect plugin information
       id: collect
       env:
         PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-      run: |
-        node <<'NODE'
-        const fs = require('fs');
-
-        (async function main() {
-          const { Octokit } = await import('@octokit/rest');
-
-          const octokit = new Octokit({
-            auth: process.env.PAT_TOKEN,
-            userAgent: 'AstrBot Plugin Collector v1.0',
-            baseUrl: 'https://api.github.com',
-          });
-
-          try {
-            console.log('Fetching issues with plugin-publish label from astrbotdevs/astrbot...');
-            let page = 1;
-            let allIssues = [];
-            while (true) {
-              const { data } = await octokit.rest.issues.listForRepo({
-                owner: 'astrbotdevs',
-                repo: 'astrbot',
-                labels: 'plugin-publish',
-                state: 'open',
-                per_page: 100,
-                page
-              });
-              if (!data.length) break;
-              allIssues = allIssues.concat(data);
-              console.log('Fetched page', page, '- found', data.length, 'issues');
-              page++;
-            }
-
-            console.log('Total found', allIssues.length, 'issues with plugin-publish label');
-
-            const plugins = [];
-            const codeBlockRegex = /```(?:json)?\s*([\s\S]*?)\s*```/i;
-
-            for (const issue of allIssues) {
-              console.log('Processing issue #' + issue.number + ':', issue.title);
-              const body = issue.body || '';
-              const jsonMatch = body.match(codeBlockRegex);
-              if (jsonMatch) {
-                try {
-                  const jsonStr = jsonMatch[1].trim();
-                  const pluginInfo = JSON.parse(jsonStr);
-                  if (pluginInfo.name && pluginInfo.desc && pluginInfo.author && pluginInfo.repo) {
-                    pluginInfo.issue_number = issue.number;
-                    pluginInfo.issue_url = issue.html_url;
-                    pluginInfo.created_at = issue.created_at;
-                    pluginInfo.updated_at = issue.updated_at;
-                    if (!pluginInfo.tags) pluginInfo.tags = [];
-                    if (!pluginInfo.social_link) pluginInfo.social_link = '';
-                    plugins.push(pluginInfo);
-                    console.log('✓ Extracted plugin:', pluginInfo.name);
-                  } else {
-                    console.log('✗ Missing required fields in issue #' + issue.number);
-                  }
-                } catch (parseError) {
-                  console.log('✗ Failed to parse JSON in issue #' + issue.number + ':', parseError.message);
-                }
-              } else {
-                console.log('✗ No JSON block found in issue #' + issue.number);
-              }
-            }
-
-            const result = {
-              updated_at: new Date().toISOString(),
-              total_plugins: plugins.length,
-              plugins: plugins.sort((a, b) => a.name.localeCompare(b.name))
-            };
-
-            // 写到仓库根目录 plugin-issue.json
-            fs.writeFileSync('plugin-issue.json', JSON.stringify(result, null, 2));
-            console.log('✓ Created plugin-issue.json with', plugins.length, 'plugins');
-
-            if (process.env.GITHUB_OUTPUT) {
-              fs.appendFileSync(process.env.GITHUB_OUTPUT, `plugins_count=${plugins.length}\n`);
-            } else {
-              console.log(`plugins_count=${plugins.length}`);
-            }
-          } catch (error) {
-            console.error('Error:', error);
-            process.exit(1);
-          }
-        })();
-        NODE
+      run: bash "scripts/collect_plugin_information/collect_plugin_information/run.sh"
 
     - name: Stage file and Check for changes (handles new file case)
       id: check_changes
-      run: |
-        # stage the generated file (ensures new/untracked files are considered)
-        git add plugin-issue.json || true
-
-        # If there are staged changes compared to HEAD, exit code will be non-zero
-        if git diff --staged --quiet --exit-code; then
-          echo "has_changes=false" >> $GITHUB_OUTPUT
-          echo "No changes detected (no staged changes)"
-        else
-          echo "has_changes=true" >> $GITHUB_OUTPUT
-          echo "Staged changes detected"
-        fi
+      run: bash "scripts/collect_plugin_information/stage_file_and_check_for_changes/run.sh"
 
     - name: Commit and push changes
       if: steps.check_changes.outputs.has_changes == 'true'
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add plugin-issue.json
-        git commit -m "🔄 Update plugin-issue.json - ${{ steps.collect.outputs.plugins_count }} plugins collected" || echo "No changes to commit"
-        git push
+      run: bash "scripts/collect_plugin_information/commit_and_push_changes/run.sh"
+      env:
+        PLUGINS_COUNT: ${{ steps.collect.outputs.plugins_count }}
 
     - name: Create summary
       if: always()
-      run: |
-        echo "## Plugin Collection Summary" >> $GITHUB_STEP_SUMMARY
-        echo "- **Total plugins collected:** ${{ steps.collect.outputs.plugins_count }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **Changes detected:** ${{ steps.check_changes.outputs.has_changes }}" >> $GITHUB_STEP_SUMMARY
-        echo "- **Timestamp:** $(date --iso-8601=seconds)" >> $GITHUB_STEP_SUMMARY
-
-        if [ -f "plugin-issue.json" ]; then
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "### Latest plugin-issue.json preview:" >> $GITHUB_STEP_SUMMARY
-          echo '```json' >> $GITHUB_STEP_SUMMARY
-          head -40 plugin-issue.json >> $GITHUB_STEP_SUMMARY
-          echo '```' >> $GITHUB_STEP_SUMMARY
-        fi
+      run: bash "scripts/collect_plugin_information/create_summary/run.sh"
+      env:
+        PLUGINS_COUNT: ${{ steps.collect.outputs.plugins_count }}
+        HAS_CHANGES: ${{ steps.check_changes.outputs.has_changes }}
