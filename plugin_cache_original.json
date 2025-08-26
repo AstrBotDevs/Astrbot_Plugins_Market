@@ -25,8 +25,8 @@
     "author": "furryhm",
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_mzxyy",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-08-26T01:56:02Z",
+    "stars": 3,
+    "updated_at": "2025-08-26T18:27:58Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_auto_ban_new": {
@@ -2799,8 +2799,8 @@
     "desc": "一个用于 AstrBot 的插件，实现类似Google Emoji Kitchen(合成emoji)的效果。",
     "repo": "https://github.com/Flartiny/astrbot_plugin_emojimix",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-07-14T11:49:53Z",
+    "stars": 4,
+    "updated_at": "2025-08-26T17:43:47Z",
     "version": "v1.0.2"
   },
   "astrBot_plugin_0721galgame": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T17:20:09Z",
+    "updated_at": "2025-08-26T18:32:21Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
