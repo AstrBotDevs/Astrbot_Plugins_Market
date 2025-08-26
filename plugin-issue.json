@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-26T03:10:25.140Z",
+  "updated_at": "2025-08-26T10:20:32.245Z",
   "total_plugins": 16,
   "plugins": [
     {
@@ -110,7 +110,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-08-25T12:42:17Z"
+      "updated_at": "2025-08-26T04:52:54Z"
     },
     {
       "name": "astrbot_plugin_zfile",
