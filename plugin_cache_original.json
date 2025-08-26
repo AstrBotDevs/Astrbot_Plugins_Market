@@ -259,8 +259,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 11,
-    "updated_at": "2025-08-26T09:51:00Z",
+    "stars": 12,
+    "updated_at": "2025-08-26T10:21:47Z",
     "version": "0.2.2"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -634,8 +634,8 @@
       "增强"
     ],
     "stars": 10,
-    "updated_at": "2025-08-25T18:42:06Z",
-    "version": "2.9.3"
+    "updated_at": "2025-08-26T10:07:23Z",
+    "version": "2.9.4"
   },
   "astrbot_plugin_Group-Verification_PRO": {
     "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -2549,8 +2549,8 @@
       "game",
       "fish"
     ],
-    "stars": 33,
-    "updated_at": "2025-08-13T17:27:05Z",
+    "stars": 34,
+    "updated_at": "2025-08-26T10:03:36Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-26T09:25:54Z",
+    "updated_at": "2025-08-26T10:25:39Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
