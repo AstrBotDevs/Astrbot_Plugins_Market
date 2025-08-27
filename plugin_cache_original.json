@@ -854,7 +854,7 @@
     ],
     "social_link": "https://astrbot.uk",
     "stars": 3,
-    "updated_at": "2025-08-24T16:27:32Z",
+    "updated_at": "2025-08-27T15:06:31Z",
     "version": "v1.2"
   },
   "astrbot_plugin_lanzoucloud": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T14:22:05Z",
+    "updated_at": "2025-08-27T15:24:25Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3363,8 +3363,8 @@
       "图库"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_gallery",
-    "stars": 13,
-    "updated_at": "2025-08-26T09:19:19Z",
+    "stars": 14,
+    "updated_at": "2025-08-27T15:26:06Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_sensoji_pro": {
