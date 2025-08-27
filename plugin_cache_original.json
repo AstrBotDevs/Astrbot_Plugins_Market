@@ -151,8 +151,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 8,
-    "updated_at": "2025-08-26T05:13:42Z",
+    "stars": 9,
+    "updated_at": "2025-08-27T09:27:04Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -174,8 +174,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
-    "updated_at": "2025-08-27T08:10:18Z",
+    "stars": 30,
+    "updated_at": "2025-08-27T10:21:26Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T09:24:35Z",
+    "updated_at": "2025-08-27T10:23:23Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
