@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-08-26T10:20:32.245Z",
-  "total_plugins": 16,
+  "updated_at": "2025-08-27T03:03:35.033Z",
+  "total_plugins": 17,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -53,6 +53,22 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2521",
       "created_at": "2025-08-21T11:08:32Z",
       "updated_at": "2025-08-25T10:49:59Z"
+    },
+    {
+      "name": "astrbot_plugin_mememaker_api",
+      "author": "jmt059",
+      "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
+      "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
+      "tags": [
+        "meme",
+        "api",
+        "表情包"
+      ],
+      "social_link": "",
+      "issue_number": 2566,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2566",
+      "created_at": "2025-08-26T15:08:37Z",
+      "updated_at": "2025-08-27T02:57:48Z"
     },
     {
       "name": "astrbot_plugin_qun_album",
