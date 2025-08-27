@@ -151,8 +151,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 9,
-    "updated_at": "2025-08-27T09:27:04Z",
+    "stars": 10,
+    "updated_at": "2025-08-27T10:45:30Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -429,8 +429,8 @@
       "工具"
     ],
     "social_link": "astrbot.uk",
-    "stars": 1,
-    "updated_at": "2025-08-24T06:19:16Z",
+    "stars": 2,
+    "updated_at": "2025-08-27T10:45:28Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_outputpro": {
@@ -442,8 +442,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 3,
-    "updated_at": "2025-08-21T03:57:46Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-08-27T10:52:23Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_image_summary": {
     "desc": "[仅aiocqhttp] 图片外显插件, 将群外显示的“图片”二字替换成更丰富的句子",
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T10:23:23Z",
+    "updated_at": "2025-08-27T11:18:55Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
