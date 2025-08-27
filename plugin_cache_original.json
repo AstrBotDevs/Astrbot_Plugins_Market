@@ -174,8 +174,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 27,
-    "updated_at": "2025-08-26T15:50:39Z",
+    "stars": 29,
+    "updated_at": "2025-08-27T08:10:18Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -567,8 +567,8 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 2,
-    "updated_at": "2025-08-22T06:35:56Z",
+    "stars": 3,
+    "updated_at": "2025-08-27T08:26:45Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_spark_tts": {
@@ -759,8 +759,8 @@
       "屏蔽",
       "轮询"
     ],
-    "stars": 3,
-    "updated_at": "2025-08-25T13:32:26Z",
+    "stars": 4,
+    "updated_at": "2025-08-27T07:48:00Z",
     "version": "v1.2.0"
   },
   "astrbot_plugin_silent": {
@@ -769,8 +769,8 @@
     "repo": "https://github.com/chris95743/astrbot_plugin_silent",
     "social_link": "https://wickh.cn",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-08-01T05:01:41Z",
+    "stars": 2,
+    "updated_at": "2025-08-27T07:48:18Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_random_likes": {
@@ -1206,8 +1206,8 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_file",
     "author": null,
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-08-20T10:57:06Z",
+    "stars": 6,
+    "updated_at": "2025-08-27T07:48:02Z",
     "version": "v1.2.0"
   },
   "astrobot_plugin_code_executor": {
@@ -1249,8 +1249,8 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 6,
-    "updated_at": "2025-08-24T16:21:07Z",
+    "stars": 7,
+    "updated_at": "2025-08-27T07:48:05Z",
     "version": "v1.4.0"
   },
   "astrbot_plugin_mp": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T07:21:50Z",
+    "updated_at": "2025-08-27T08:30:30Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
