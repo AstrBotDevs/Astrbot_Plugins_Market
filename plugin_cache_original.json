@@ -199,8 +199,8 @@
       "LLM",
       "RAG"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-24T05:58:57Z",
+    "stars": 2,
+    "updated_at": "2025-08-27T16:35:18Z",
     "version": "2.2.2"
   },
   "astrbot_plugin_pic_search": {
@@ -329,8 +329,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 15,
-    "updated_at": "2025-08-27T05:33:18Z",
+    "stars": 16,
+    "updated_at": "2025-08-27T16:36:28Z",
     "version": "1.2.4"
   },
   "astrbot_plugin_baiduocr": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T16:29:05Z",
+    "updated_at": "2025-08-27T17:19:34Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
