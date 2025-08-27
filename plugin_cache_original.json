@@ -392,8 +392,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 13,
-    "updated_at": "2025-08-27T13:35:44Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-08-27T19:27:48Z",
+    "version": "v1.1.1"
   },
   "astrbot_plugin_memora_connect": {
     "desc": "一个模仿人类记忆方式的记忆插件。",
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-27T19:18:39Z",
+    "updated_at": "2025-08-27T20:25:07Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
