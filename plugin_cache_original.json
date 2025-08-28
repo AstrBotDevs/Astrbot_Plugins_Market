@@ -2270,8 +2270,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 58,
-    "updated_at": "2025-08-26T02:26:05Z",
+    "stars": 59,
+    "updated_at": "2025-08-28T15:37:31Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-28T15:24:17Z",
+    "updated_at": "2025-08-28T16:28:58Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
