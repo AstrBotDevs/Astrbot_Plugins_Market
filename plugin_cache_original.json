@@ -404,8 +404,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 6,
-    "updated_at": "2025-08-27T13:37:04Z",
+    "stars": 7,
+    "updated_at": "2025-08-28T07:30:25Z",
     "version": "v0.2.1"
   },
   "astrbot_plugin_iearning_style": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-28T07:22:35Z",
+    "updated_at": "2025-08-28T08:30:47Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4987,8 +4987,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-08-24T05:07:02Z",
-    "version": "v1.2.4"
+    "updated_at": "2025-08-28T07:34:50Z",
+    "version": "v1.2.5"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
@@ -5185,8 +5185,8 @@
     "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-08-21T10:32:08Z",
-    "version": "v1.3.0"
+    "updated_at": "2025-08-28T08:11:41Z",
+    "version": "v1.4.0"
   },
   "astrbot_plugin_memes": {
     "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
