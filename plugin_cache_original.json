@@ -2711,8 +2711,8 @@
       "表情包"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 34,
-    "updated_at": "2025-08-22T17:50:19Z",
+    "stars": 35,
+    "updated_at": "2025-08-28T10:38:24Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_voiceprint": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-28T10:24:32Z",
+    "updated_at": "2025-08-28T11:18:38Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4987,8 +4987,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-08-28T07:34:50Z",
-    "version": "v1.2.5"
+    "updated_at": "2025-08-28T10:49:47Z",
+    "version": "v1.2.7"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
