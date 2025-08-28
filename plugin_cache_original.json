@@ -246,7 +246,7 @@
     ],
     "social_link": "https://github.com/danfong1104",
     "stars": 1,
-    "updated_at": "2025-08-26T08:43:09Z",
+    "updated_at": "2025-08-28T04:38:49Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_tts_emotion_router": {
@@ -2190,7 +2190,7 @@
     "tags": [],
     "stars": 0,
     "updated_at": "2025-05-26T01:08:27Z",
-    "version": "1.0.0"
+    "version": "v2.0.0"
   },
   "astrbot_plugin_gemini_artist": {
     "author": "nichinichisou0609",
@@ -2221,7 +2221,7 @@
     "tags": [],
     "stars": 2,
     "updated_at": "2025-05-23T13:02:36Z",
-    "version": "1.0.0"
+    "version": "v1.0.0"
   },
   "astrbot_plugin_angus": {
     "author": "angus-fw",
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-28T04:27:10Z",
+    "updated_at": "2025-08-28T05:22:14Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
