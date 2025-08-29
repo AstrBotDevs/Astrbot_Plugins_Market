@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-08-28T03:03:28.443Z",
-  "total_plugins": 17,
+  "updated_at": "2025-08-29T03:03:22.428Z",
+  "total_plugins": 19,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -53,6 +53,20 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2521",
       "created_at": "2025-08-21T11:08:32Z",
       "updated_at": "2025-08-25T10:49:59Z"
+    },
+    {
+      "name": "astrbot_plugin_jojo_stand_panel",
+      "desc": "一个用于AstrBot的JOJO替身面板生成插件，调用TripleYing的API生成JOJO风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
+      "author": "Dogend",
+      "repo": "https://github.com/Dogend233/astrbot_plugin_jojo_stand_panel",
+      "tags": [
+        "JOJO"
+      ],
+      "social_link": "http://www.tripleying.com/jojo",
+      "issue_number": 2573,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2573",
+      "created_at": "2025-08-28T17:26:26Z",
+      "updated_at": "2025-08-28T17:37:09Z"
     },
     {
       "name": "astrbot_plugin_mememaker_api",
@@ -126,7 +140,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-08-26T04:52:54Z"
+      "updated_at": "2025-08-28T12:53:40Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -157,6 +171,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2551",
       "created_at": "2025-08-24T14:17:00Z",
       "updated_at": "2025-08-25T08:05:04Z"
+    },
+    {
+      "name": "favorpro",
+      "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
+      "author": "天各一方",
+      "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
+      "issue_number": 2575,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2575",
+      "created_at": "2025-08-29T01:27:16Z",
+      "updated_at": "2025-08-29T01:35:10Z",
+      "tags": [],
+      "social_link": ""
     },
     {
       "name": "gemini_tokens_limit",
