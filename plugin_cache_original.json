@@ -82,8 +82,8 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-20T13:51:01Z",
-    "version": "v2.0"
+    "updated_at": "2025-08-29T08:39:14Z",
+    "version": "v2.1"
   },
   "asbot_plugin_furry-API-hy": {
     "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
@@ -2515,8 +2515,8 @@
       "聊天体验增强"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 4,
-    "updated_at": "2025-07-19T15:03:32Z",
+    "stars": 3,
+    "updated_at": "2025-08-29T08:42:49Z",
     "version": "v1.7.1"
   },
   "astrbot_plugin_lanraragi": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T08:30:15Z",
+    "updated_at": "2025-08-29T09:24:38Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4987,7 +4987,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-08-29T08:01:09Z",
+    "updated_at": "2025-08-29T08:58:08Z",
     "version": "v1.2.8"
   },
   "ai_memory": {
