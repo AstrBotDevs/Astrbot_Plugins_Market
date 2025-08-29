@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_favourpro": {
+    "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
+    "author": "天各一方",
+    "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
+    "tags": [],
+    "stars": 1,
+    "updated_at": "2025-08-29T15:20:18Z",
+    "version": "v1.0.1"
+  },
+  "astrbot_plugin_vtb_adapter": {
+    "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_vtb_adapter",
+    "tags": [
+      "适配器"
+    ],
+    "stars": 0,
+    "updated_at": "2025-08-24T07:03:08Z",
+    "version": "v0.0.1"
+  },
   "xfbank": {
     "desc": "一个简易的银行插件",
     "author": "XiaoFu1025",
@@ -151,8 +171,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 12,
-    "updated_at": "2025-08-29T13:45:59Z",
+    "stars": 13,
+    "updated_at": "2025-08-29T14:47:23Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -246,8 +266,8 @@
     ],
     "social_link": "https://github.com/danfong1104",
     "stars": 1,
-    "updated_at": "2025-08-28T04:38:49Z",
-    "version": "v2.0.1"
+    "updated_at": "2025-08-29T14:29:33Z",
+    "version": "v2.0.2"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -2202,8 +2222,8 @@
       "函数工具"
     ],
     "stars": 9,
-    "updated_at": "2025-08-27T09:02:29Z",
-    "version": "v1.4.1"
+    "updated_at": "2025-08-29T14:53:37Z",
+    "version": "v1.5.0"
   },
   "astrbot_plugin_dzmm": {
     "author": "VincentHo",
@@ -3163,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T14:21:19Z",
+    "updated_at": "2025-08-29T15:20:50Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
