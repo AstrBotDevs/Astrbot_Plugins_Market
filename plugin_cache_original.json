@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T07:21:59Z",
+    "updated_at": "2025-08-29T08:30:15Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4987,8 +4987,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-08-28T10:49:47Z",
-    "version": "v1.2.7"
+    "updated_at": "2025-08-29T08:01:09Z",
+    "version": "v1.2.8"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
