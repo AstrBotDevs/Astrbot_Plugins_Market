@@ -1159,8 +1159,8 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-07-21T03:45:55Z",
-    "version": "v1.0.6"
+    "updated_at": "2025-08-29T03:15:03Z",
+    "version": "v1.0.7"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T03:04:34Z",
+    "updated_at": "2025-08-29T04:27:23Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
