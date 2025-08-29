@@ -174,8 +174,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 33,
-    "updated_at": "2025-08-28T18:24:24Z",
+    "stars": 34,
+    "updated_at": "2025-08-29T04:48:48Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 7,
-    "updated_at": "2025-08-28T07:30:25Z",
-    "version": "v0.2.1"
+    "updated_at": "2025-08-29T05:07:11Z",
+    "version": "v0.2.2"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -442,7 +442,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 3,
-    "updated_at": "2025-08-27T10:52:23Z",
+    "updated_at": "2025-08-29T04:52:57Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_image_summary": {
@@ -3163,7 +3163,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T04:27:23Z",
+    "updated_at": "2025-08-29T05:21:33Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -5050,8 +5050,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 28,
-    "updated_at": "2025-08-02T08:25:31Z",
-    "version": "v1.4.9"
+    "updated_at": "2025-08-29T05:20:09Z",
+    "version": "v1.4.10"
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
