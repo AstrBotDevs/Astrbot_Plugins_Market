@@ -1811,8 +1811,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 16,
-    "updated_at": "2025-08-23T05:49:09Z",
+    "stars": 17,
+    "updated_at": "2025-08-30T03:50:57Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-30T02:58:44Z",
+    "updated_at": "2025-08-30T04:25:32Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
