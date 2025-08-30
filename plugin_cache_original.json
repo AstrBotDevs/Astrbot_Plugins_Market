@@ -15,8 +15,8 @@
     "tags": [
       "适配器"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-29T23:54:14Z",
+    "stars": 2,
+    "updated_at": "2025-08-30T19:14:04Z",
     "version": "v0.0.1"
   },
   "xfbank": {
@@ -280,8 +280,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 13,
-    "updated_at": "2025-08-30T15:01:13Z",
-    "version": "0.2.2"
+    "updated_at": "2025-08-30T19:05:23Z",
+    "version": "0.3.0"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-30T18:28:58Z",
+    "updated_at": "2025-08-30T19:16:09Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3240,8 +3240,8 @@
     "tags": [
       "ccb"
     ],
-    "stars": 3,
-    "updated_at": "2025-08-24T04:24:57Z",
+    "stars": 4,
+    "updated_at": "2025-08-30T18:52:00Z",
     "version": "v0.1.0"
   },
   "astrbot-gold-plugin": {
