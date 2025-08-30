@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-08-29T03:03:22.428Z",
-  "total_plugins": 19,
+  "updated_at": "2025-08-30T02:56:53.014Z",
+  "total_plugins": 21,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -29,6 +29,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2559",
       "created_at": "2025-08-25T15:58:52Z",
       "updated_at": "2025-08-25T16:06:20Z"
+    },
+    {
+      "name": "astrbot_plugin_boss_notifier",
+      "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
+      "author": "Alent7",
+      "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2579,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2579",
+      "created_at": "2025-08-29T09:10:11Z",
+      "updated_at": "2025-08-29T09:11:01Z"
     },
     {
       "name": "astrbot_plugin_furry_cg",
@@ -66,7 +78,7 @@
       "issue_number": 2573,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2573",
       "created_at": "2025-08-28T17:26:26Z",
-      "updated_at": "2025-08-28T17:37:09Z"
+      "updated_at": "2025-08-29T15:59:46Z"
     },
     {
       "name": "astrbot_plugin_mememaker_api",
@@ -99,6 +111,18 @@
       "updated_at": "2025-08-26T02:39:21Z"
     },
     {
+      "name": "astrbot_plugin_restrict_syscmd",
+      "desc": "限制仅管理员可用某些指令（支持自定义），防止bot被测，防止被恶意new、reset等",
+      "author": "木有知",
+      "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2577,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2577",
+      "created_at": "2025-08-29T08:19:36Z",
+      "updated_at": "2025-08-29T09:00:46Z"
+    },
+    {
       "name": "astrbot_plugin_stock",
       "desc": "基于AkShare和Binance的股市行情查询插件，支持数字货币、A股、港股、美股及指数的实时行情、历史数据和K线图表",
       "author": "anchor",
@@ -114,20 +138,6 @@
       "updated_at": "2025-07-16T05:18:31Z"
     },
     {
-      "name": "astrbot_plugin_vtb_adapter",
-      "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改Open LLM Vtuber中的相关文件",
-      "author": "YakumoAki",
-      "repo": "https://github.com/murphys7017/astrbot_plugin_vtb_adapter",
-      "tags": [
-        "适配器"
-      ],
-      "social_link": "",
-      "issue_number": 2547,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2547",
-      "created_at": "2025-08-24T06:52:26Z",
-      "updated_at": "2025-08-24T06:57:43Z"
-    },
-    {
       "name": "astrbot_plugin_xiuxian",
       "desc": "基于astrbot框架的文字修仙游戏",
       "author": "oldPeter616",
@@ -140,7 +150,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-08-28T12:53:40Z"
+      "updated_at": "2025-08-29T06:58:06Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -154,6 +164,23 @@
       "updated_at": "2025-07-25T11:05:11Z",
       "tags": [],
       "social_link": ""
+    },
+    {
+      "name": "astrbot-qq-group-daily-analysis",
+      "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
+      "author": "SXP-Simon",
+      "repo": "https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis",
+      "tags": [
+        "QQ",
+        "群聊",
+        "分析",
+        "总结"
+      ],
+      "social_link": "https://github.com/SXP-Simon",
+      "issue_number": 2582,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2582",
+      "created_at": "2025-08-29T15:32:07Z",
+      "updated_at": "2025-08-29T16:13:02Z"
     },
     {
       "name": "daily_checkin",
@@ -171,18 +198,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2551",
       "created_at": "2025-08-24T14:17:00Z",
       "updated_at": "2025-08-25T08:05:04Z"
-    },
-    {
-      "name": "favorpro",
-      "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
-      "author": "天各一方",
-      "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
-      "issue_number": 2575,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2575",
-      "created_at": "2025-08-29T01:27:16Z",
-      "updated_at": "2025-08-29T01:35:10Z",
-      "tags": [],
-      "social_link": ""
     },
     {
       "name": "gemini_tokens_limit",
@@ -258,6 +273,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
+    },
+    {
+      "name": "wxauto_repost",
+      "desc": "微信消息转发框架插件 - 基于wxauto库和OneBotV11协议，支持微信消息与OneBotV11协议的双向转发",
+      "author": "汐灿",
+      "repo": "https://github.com/luosheng520qaq/wxauto-repost-onebotv11",
+      "tags": [
+        "wechat",
+        "wxauto"
+      ],
+      "social_link": "blog.isla.ltd",
+      "issue_number": 2580,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2580",
+      "created_at": "2025-08-29T13:59:30Z",
+      "updated_at": "2025-08-29T14:29:56Z"
     },
     {
       "name": "群聊检测刷屏",
