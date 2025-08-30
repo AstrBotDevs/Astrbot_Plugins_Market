@@ -4,9 +4,9 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-08-30T05:34:19Z",
-    "version": "v1.0.2"
+    "stars": 6,
+    "updated_at": "2025-08-30T08:13:51Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -2278,8 +2278,8 @@
     "desc": "[仅 napcat] 使用Onnx检测发送的图片是否包含_百合园圣娅_并且有特定回复。",
     "repo": "https://github.com/orchidsziyou/astrbot_plugin_seiadetect",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-06-27T03:18:29Z",
+    "stars": 2,
+    "updated_at": "2025-08-30T07:50:16Z",
     "version": "v1.0"
   },
   "astrbot_plugin_knowledge_base": {
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-30T07:18:58Z",
+    "updated_at": "2025-08-30T08:26:27Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
