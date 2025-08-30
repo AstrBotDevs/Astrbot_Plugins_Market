@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-30T08:26:27Z",
+    "updated_at": "2025-08-30T09:20:31Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3583,8 +3583,8 @@
       "复读"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_reread",
-    "stars": 17,
-    "updated_at": "2025-08-25T09:07:57Z",
+    "stars": 18,
+    "updated_at": "2025-08-30T08:57:10Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_csbaoyan": {
@@ -5385,8 +5385,8 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
     "tags": [],
     "stars": 10,
-    "updated_at": "2025-08-14T08:39:05Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-08-30T09:08:39Z",
+    "version": "v1.1.1"
   },
   "astrbot_plugin_sign": {
     "desc": "一个(有点简陋)的签到插件，支持每日签到、查询签到信息、排行榜等功能。",
