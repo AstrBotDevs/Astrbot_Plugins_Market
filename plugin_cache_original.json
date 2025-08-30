@@ -4,8 +4,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-08-29T18:30:45Z",
+    "stars": 2,
+    "updated_at": "2025-08-29T23:52:22Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -15,8 +15,8 @@
     "tags": [
       "适配器"
     ],
-    "stars": 0,
-    "updated_at": "2025-08-24T07:03:08Z",
+    "stars": 1,
+    "updated_at": "2025-08-29T23:54:14Z",
     "version": "v0.0.1"
   },
   "xfbank": {
@@ -72,8 +72,8 @@
       "function"
     ],
     "social_link": "https://github.com/kjqwer",
-    "stars": 2,
-    "updated_at": "2025-08-24T07:29:54Z",
+    "stars": 3,
+    "updated_at": "2025-08-29T23:51:02Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_lark_send_patcher": {
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-29T23:20:40Z",
+    "updated_at": "2025-08-30T01:43:16Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
