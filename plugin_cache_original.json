@@ -195,7 +195,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 38,
-    "updated_at": "2025-08-29T13:12:42Z",
+    "updated_at": "2025-08-30T10:10:06Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -220,8 +220,8 @@
       "RAG"
     ],
     "stars": 2,
-    "updated_at": "2025-08-27T16:35:18Z",
-    "version": "2.2.2"
+    "updated_at": "2025-08-30T09:55:03Z",
+    "version": "2.2.3"
   },
   "astrbot_plugin_pic_search": {
     "desc": "爬取 Bing 的图片搜索结果，再使用 VLM 进行选择处理",
@@ -425,8 +425,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 7,
-    "updated_at": "2025-08-29T11:36:49Z",
-    "version": "v0.2.2"
+    "updated_at": "2025-08-30T10:07:00Z",
+    "version": "v0.2.3"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -3183,7 +3183,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-30T09:20:31Z",
+    "updated_at": "2025-08-30T10:21:04Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4702,8 +4702,8 @@
     "repo": "https://github.com/Meguminlove/astrbot_plugin_server_status",
     "tags": [],
     "stars": 4,
-    "updated_at": "2025-08-24T10:19:15Z",
-    "version": "1.1.3"
+    "updated_at": "2025-08-30T10:08:25Z",
+    "version": "1.9.1"
   },
   "astrbot_plugin_guaguale": {
     "desc": "刮刮乐小游戏插件，使用[/刮刮乐帮助]查看指令",
