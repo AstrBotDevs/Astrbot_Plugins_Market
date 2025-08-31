@@ -1,4 +1,75 @@
 {
+  "astrbot_plugin_mememaker_api": {
+    "author": "jmt059",
+    "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
+    "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
+    "tags": [
+      "meme",
+      "表情包"
+    ],
+    "stars": 0,
+    "updated_at": "2025-08-26T16:31:36Z",
+    "version": "v1.0.1"
+  },
+  "wxauto_repost": {
+    "desc": "微信消息转发框架插件 - 基于 wxauto 库和 OneBotV11 协议，支持微信消息与 OneBotV11 协议的双向转发",
+    "author": "汐灿",
+    "repo": "https://github.com/luosheng520qaq/wxauto-repost-onebotv11",
+    "tags": [
+      "wechat",
+      "wxauto"
+    ],
+    "social_link": "blog.isla.ltd",
+    "stars": 1,
+    "updated_at": "2025-08-29T14:31:06Z",
+    "version": "1.1.0"
+  },
+  "astrbot_plugin_AnimeMagnet": {
+    "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
+    "author": "Hxfrzc",
+    "repo": "https://github.com/Hxfrzc/astrbot_plugin_AnimeMagnet",
+    "tags": [
+      "动漫",
+      "番剧",
+      "磁链"
+    ],
+    "stars": 4,
+    "updated_at": "2025-08-25T18:27:14Z",
+    "version": "v1.0"
+  },
+  "astrbot_plugin_restrict_syscmd": {
+    "desc": "限制仅管理员可用某些指令（支持自定义），静默处理不回复，防止bot被测，防止被恶意new、reset等",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
+    "tags": [],
+    "stars": 1,
+    "updated_at": "2025-08-30T18:40:01Z",
+    "version": "0.2.0"
+  },
+  "astrbot_plugin_jojo_stand_panel": {
+    "desc": "一个用于 AstrBot 的 JOJO 替身面板生成插件，调用 TripleYing 的 API 生成 JOJO 风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
+    "author": "Dogend",
+    "repo": "https://github.com/Dogend233/astrbot_plugin_jojo_stand_panel",
+    "tags": [
+      "JOJO"
+    ],
+    "social_link": "http://www.tripleying.com/jojo",
+    "stars": 0,
+    "updated_at": "2025-08-29T17:06:36Z",
+    "version": "v2.1.0"
+  },
+  "astrbot_plugin_qun_album": {
+    "desc": "[仅napcat>=4.8.100] 群相册插件，记录群友怪话",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_qun_album",
+    "tags": [
+      "群相册"
+    ],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 3,
+    "updated_at": "2025-08-28T13:30:47Z",
+    "version": "v1.0.2"
+  },
   "astrbot_plugin_favourpro": {
     "desc": "这是一个与现有好感度系统完全不同的插件。它不再是一个简单的数值计算工具，而是旨在为 AI 模拟一个多维度、自主且保密的内心世界。AI 会根据与用户的互动，真实地改变其内在的“好感度”、“态度”和“关系”，并通过回应风格的变化自然地流露出来。",
     "author": "天各一方",
@@ -2290,8 +2361,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 58,
-    "updated_at": "2025-08-30T13:50:30Z",
+    "stars": 59,
+    "updated_at": "2025-08-31T03:07:44Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2660,8 +2731,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 34,
-    "updated_at": "2025-08-30T10:57:48Z",
+    "stars": 35,
+    "updated_at": "2025-08-31T03:08:32Z",
     "version": "1.0.7"
   },
   "astrbot_plugin_combine-messages": {
@@ -3183,7 +3254,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-31T01:54:17Z",
+    "updated_at": "2025-08-31T03:09:19Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3690,7 +3761,7 @@
       "QQ群管"
     ],
     "stars": 37,
-    "updated_at": "2025-08-30T17:40:32Z",
+    "updated_at": "2025-08-31T03:00:53Z",
     "version": "v3.1.2"
   },
   "astrbot_plugin_liars_bar": {
@@ -5385,7 +5456,7 @@
     "repo": "https://github.com/xiewoc/astrbot_plugin_tts_Cosyvoice2",
     "tags": [],
     "stars": 10,
-    "updated_at": "2025-08-30T14:00:34Z",
+    "updated_at": "2025-08-31T03:34:56Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_sign": {
