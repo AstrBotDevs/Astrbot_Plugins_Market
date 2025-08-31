@@ -21,8 +21,8 @@
     ],
     "social_link": "blog.isla.ltd",
     "stars": 1,
-    "updated_at": "2025-08-29T14:31:06Z",
-    "version": "1.1.0"
+    "updated_at": "2025-08-31T14:09:57Z",
+    "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
     "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
@@ -265,8 +265,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 48,
-    "updated_at": "2025-08-31T12:32:17Z",
+    "stars": 51,
+    "updated_at": "2025-08-31T14:14:35Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3254,7 +3254,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-31T13:25:46Z",
+    "updated_at": "2025-08-31T14:18:39Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -5141,7 +5141,7 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 28,
-    "updated_at": "2025-08-29T05:20:09Z",
+    "updated_at": "2025-08-31T13:57:30Z",
     "version": "v1.4.10"
   },
   "astrbot_plugin_leetcode": {
