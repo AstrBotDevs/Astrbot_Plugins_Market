@@ -265,8 +265,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 50,
-    "updated_at": "2025-08-31T15:02:53Z",
+    "stars": 51,
+    "updated_at": "2025-08-31T15:51:59Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3254,7 +3254,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-08-31T15:20:25Z",
+    "updated_at": "2025-08-31T16:25:42Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3378,8 +3378,8 @@
     ],
     "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
     "stars": 1,
-    "updated_at": "2025-04-27T09:19:39Z",
-    "version": "v1.1"
+    "updated_at": "2025-08-31T16:18:05Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_grok_filter": {
     "author": "Cheng-MaoMao",
