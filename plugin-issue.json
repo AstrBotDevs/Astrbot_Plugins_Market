@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-08-30T02:56:53.014Z",
-  "total_plugins": 21,
+  "updated_at": "2025-08-31T03:07:40.892Z",
+  "total_plugins": 16,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,22 +13,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
-    },
-    {
-      "name": "AnimeMagnet",
-      "desc": "这是一个动漫磁链查询插件，可以获取动漫磁链",
-      "author": "Hxfrzc",
-      "repo": "https://github.com/Hxfrzc/astrbot_plugin_AnimeMagnet",
-      "tags": [
-        "动漫",
-        "番剧",
-        "磁链"
-      ],
-      "social_link": "",
-      "issue_number": 2559,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2559",
-      "created_at": "2025-08-25T15:58:52Z",
-      "updated_at": "2025-08-25T16:06:20Z"
     },
     {
       "name": "astrbot_plugin_boss_notifier",
@@ -67,20 +51,6 @@
       "updated_at": "2025-08-25T10:49:59Z"
     },
     {
-      "name": "astrbot_plugin_jojo_stand_panel",
-      "desc": "一个用于AstrBot的JOJO替身面板生成插件，调用TripleYing的API生成JOJO风格替身面板图片。支持随机生成、自定义设置、替身系统等功能。",
-      "author": "Dogend",
-      "repo": "https://github.com/Dogend233/astrbot_plugin_jojo_stand_panel",
-      "tags": [
-        "JOJO"
-      ],
-      "social_link": "http://www.tripleying.com/jojo",
-      "issue_number": 2573,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2573",
-      "created_at": "2025-08-28T17:26:26Z",
-      "updated_at": "2025-08-29T15:59:46Z"
-    },
-    {
       "name": "astrbot_plugin_mememaker_api",
       "author": "jmt059",
       "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
@@ -95,32 +65,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2566",
       "created_at": "2025-08-26T15:08:37Z",
       "updated_at": "2025-08-27T02:57:48Z"
-    },
-    {
-      "name": "astrbot_plugin_qun_album",
-      "desc": "[仅napcat>=4.8.100] 群相册插件，记录群友怪话",
-      "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_qun_album",
-      "tags": [
-        "群相册"
-      ],
-      "social_link": "https://github.com/Zhalslar",
-      "issue_number": 2560,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2560",
-      "created_at": "2025-08-25T16:18:58Z",
-      "updated_at": "2025-08-26T02:39:21Z"
-    },
-    {
-      "name": "astrbot_plugin_restrict_syscmd",
-      "desc": "限制仅管理员可用某些指令（支持自定义），防止bot被测，防止被恶意new、reset等",
-      "author": "木有知",
-      "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2577,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2577",
-      "created_at": "2025-08-29T08:19:36Z",
-      "updated_at": "2025-08-29T09:00:46Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -273,21 +217,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
-    },
-    {
-      "name": "wxauto_repost",
-      "desc": "微信消息转发框架插件 - 基于wxauto库和OneBotV11协议，支持微信消息与OneBotV11协议的双向转发",
-      "author": "汐灿",
-      "repo": "https://github.com/luosheng520qaq/wxauto-repost-onebotv11",
-      "tags": [
-        "wechat",
-        "wxauto"
-      ],
-      "social_link": "blog.isla.ltd",
-      "issue_number": 2580,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2580",
-      "created_at": "2025-08-29T13:59:30Z",
-      "updated_at": "2025-08-29T14:29:56Z"
     },
     {
       "name": "群聊检测刷屏",
