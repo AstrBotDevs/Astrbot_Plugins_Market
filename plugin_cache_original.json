@@ -1,10 +1,67 @@
 {
+  "gemini-25-image-openrouter": {
+    "desc": "使用openrouter的免费api生成图片",
+    "author": "喵喵",
+    "repo": "https://github.com/miaoxutao123/AstrBot_plugin_gemini2point5image-openrouter",
+    "tags": [
+      "banana",
+      "gemini-2.5-flash-image-preview",
+      "画图",
+      "AI绘画"
+    ],
+    "stars": 6,
+    "updated_at": "2025-09-01T02:32:28Z",
+    "version": "v1.3"
+  },
+  "github_star_verify": {
+    "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
+    "author": "Qian23333",
+    "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-08-31T13:03:53Z",
+    "version": "v2.0.1"
+  },
+  "astrbot-qq-group-daily-analysis": {
+    "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
+    "author": "SXP-Simon",
+    "repo": "https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis",
+    "tags": [
+      "QQ",
+      "群聊",
+      "分析",
+      "总结"
+    ],
+    "social_link": "https://github.com/SXP-Simon",
+    "stars": 3,
+    "updated_at": "2025-08-30T13:28:36Z",
+    "version": "v1.6.0"
+  },
+  "astrbot_plugin_boss_notifier": {
+    "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
+    "author": "Alent7",
+    "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier",
+    "tags": [],
+    "stars": 1,
+    "updated_at": "2025-08-29T21:56:44Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_furry_dsgg": {
+    "desc": "[仅aiocqhttp] 广告助手，帮助你向所有群聊定时发送广告",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-08-25T11:19:53Z",
+    "version": "v1.0.3"
+  },
   "astrbot_plugin_mememaker_api": {
     "author": "jmt059",
     "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
     "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
     "tags": [
       "meme",
+      "api",
       "表情包"
     ],
     "stars": 2,
@@ -75,8 +132,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-08-31T12:34:19Z",
+    "stars": 9,
+    "updated_at": "2025-09-01T05:42:26Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -89,18 +146,6 @@
     "stars": 2,
     "updated_at": "2025-08-30T19:14:04Z",
     "version": "v0.0.1"
-  },
-  "xfbank": {
-    "desc": "一个简易的银行插件",
-    "author": "XiaoFu1025",
-    "repo": "https://github.com/XiaoFu1025/astrbot_plugin_xfbank",
-    "tags": [
-      "Bank",
-      "虚拟银行"
-    ],
-    "stars": 1,
-    "updated_at": "2025-08-24T16:14:27Z",
-    "version": "v1.1.114514"
   },
   "astrbot_plugin_ms_aiimg": {
     "desc": "接入魔搭社区文生图模型",
@@ -192,8 +237,17 @@
     "social_link": "https://pan.l9.lc",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-31T00:36:31Z",
+    "updated_at": "2025-09-01T06:02:30Z",
     "version": "v0.5"
+  },
+  "astrbot_plugin_furry_cg": {
+    "desc": "小茶馆插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-08-25T12:12:50Z",
+    "version": "1.0.1"
   },
   "astrbot_plugin_furry_cgsjk": {
     "desc": "小茶馆数据库插件，为小茶馆插件提供数据支持",
@@ -3254,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-01T05:24:02Z",
+    "updated_at": "2025-09-01T06:37:24Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
