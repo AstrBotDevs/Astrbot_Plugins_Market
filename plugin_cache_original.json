@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 13,
-    "updated_at": "2025-08-31T10:17:46Z",
-    "version": "0.3.2"
+    "updated_at": "2025-09-01T09:22:51Z",
+    "version": "0.4.0"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
@@ -1060,8 +1060,8 @@
     "tags": [
       "娱乐"
     ],
-    "stars": 1,
-    "updated_at": "2025-07-24T17:24:48Z",
+    "stars": 2,
+    "updated_at": "2025-09-01T09:20:57Z",
     "version": "0.0.2"
   },
   "LiteBridge": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-01T08:33:12Z",
+    "updated_at": "2025-09-01T09:27:35Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
