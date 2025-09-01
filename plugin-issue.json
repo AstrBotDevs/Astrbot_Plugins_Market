@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-08-31T03:07:40.892Z",
-  "total_plugins": 16,
+  "updated_at": "2025-09-01T03:22:35.344Z",
+  "total_plugins": 19,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -25,6 +25,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2579",
       "created_at": "2025-08-29T09:10:11Z",
       "updated_at": "2025-08-29T09:11:01Z"
+    },
+    {
+      "name": "astrbot_plugin_ExchangeRateQuery",
+      "desc": "简单的实时货币汇率查询插件",
+      "author": "MoonShadow1976",
+      "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
+      "tags": [
+        "汇率查询",
+        "ExchangeRate"
+      ],
+      "social_link": "",
+      "issue_number": 2592,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2592",
+      "created_at": "2025-08-31T16:27:43Z",
+      "updated_at": "2025-08-31T16:31:04Z"
     },
     {
       "name": "astrbot_plugin_furry_cg",
@@ -64,7 +79,7 @@
       "issue_number": 2566,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2566",
       "created_at": "2025-08-26T15:08:37Z",
-      "updated_at": "2025-08-27T02:57:48Z"
+      "updated_at": "2025-08-31T15:32:35Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -94,7 +109,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-08-29T06:58:06Z"
+      "updated_at": "2025-08-31T10:06:16Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -157,6 +172,35 @@
       "created_at": "2025-08-10T03:15:28Z",
       "updated_at": "2025-08-14T14:40:52Z",
       "social_link": ""
+    },
+    {
+      "name": "gemini-25-image-openrouter",
+      "desc": "使用openrouter的免费api生成图片",
+      "author": "喵喵",
+      "repo": "https://github.com/miaoxutao123/AstrBot_plugin_gemini2point5image-openrouter",
+      "tags": [
+        "banana",
+        "gemini-2.5-flash-image-preview",
+        "画图",
+        "AI绘画"
+      ],
+      "social_link": "",
+      "issue_number": 2593,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2593",
+      "created_at": "2025-09-01T02:36:48Z",
+      "updated_at": "2025-09-01T02:39:51Z"
+    },
+    {
+      "name": "github_star_verify",
+      "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
+      "author": "Qian23333",
+      "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2588,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2588",
+      "created_at": "2025-08-31T08:48:28Z",
+      "updated_at": "2025-08-31T13:18:41Z"
     },
     {
       "name": "jav_info",
