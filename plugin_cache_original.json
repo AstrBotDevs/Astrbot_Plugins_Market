@@ -10,7 +10,7 @@
       "AI绘画"
     ],
     "stars": 9,
-    "updated_at": "2025-09-01T15:05:43Z",
+    "updated_at": "2025-09-01T16:07:51Z",
     "version": "v1.3"
   },
   "github_star_verify": {
@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 13,
-    "updated_at": "2025-09-01T10:25:18Z",
-    "version": "0.4.0"
+    "updated_at": "2025-09-01T16:27:54Z",
+    "version": "0.4.1"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
@@ -1024,8 +1024,8 @@
       "找出处"
     ],
     "stars": 1,
-    "updated_at": "2025-09-01T15:23:42Z",
-    "version": "3.1"
+    "updated_at": "2025-09-01T15:59:19Z",
+    "version": "3.3"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-01T15:22:48Z",
+    "updated_at": "2025-09-01T16:27:35Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
