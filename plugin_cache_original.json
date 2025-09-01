@@ -7,8 +7,8 @@
       "meme",
       "表情包"
     ],
-    "stars": 1,
-    "updated_at": "2025-08-31T14:57:50Z",
+    "stars": 2,
+    "updated_at": "2025-09-01T04:44:37Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -1778,8 +1778,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 18,
-    "updated_at": "2025-08-12T13:35:42Z",
+    "stars": 19,
+    "updated_at": "2025-09-01T05:21:17Z",
     "version": "v3.0.0"
   },
   "astrbot_plugin_alistfile": {
@@ -3254,7 +3254,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-01T04:32:26Z",
+    "updated_at": "2025-09-01T05:24:02Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4915,8 +4915,8 @@
       "webui",
       "图床"
     ],
-    "stars": 74,
-    "updated_at": "2025-08-19T14:49:42Z",
+    "stars": 75,
+    "updated_at": "2025-09-01T05:18:13Z",
     "version": "v3.13"
   },
   "mccloud_command": {
