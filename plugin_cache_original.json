@@ -3124,8 +3124,8 @@
       "填满"
     ],
     "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
-    "stars": 1,
-    "updated_at": "2025-05-10T13:29:13Z",
+    "stars": 2,
+    "updated_at": "2025-09-02T14:58:17Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_llm_draw_plus": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T14:23:14Z",
+    "updated_at": "2025-09-02T15:25:06Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
