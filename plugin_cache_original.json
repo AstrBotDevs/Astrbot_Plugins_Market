@@ -99,8 +99,8 @@
     "author": "木有知",
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_restrict_syscmd",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-08-30T18:40:01Z",
+    "stars": 2,
+    "updated_at": "2025-09-02T13:41:25Z",
     "version": "0.2.0"
   },
   "astrbot_plugin_jojo_stand_panel": {
@@ -319,8 +319,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 55,
-    "updated_at": "2025-09-02T13:27:30Z",
+    "stars": 56,
+    "updated_at": "2025-09-02T13:43:31Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -1304,7 +1304,7 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-09-02T13:29:59Z",
+    "updated_at": "2025-09-02T13:46:40Z",
     "version": "v1.0.7"
   },
   "astrbot_plugin_RecallGuard": {
@@ -1683,7 +1683,7 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 3,
-    "updated_at": "2025-09-02T13:12:36Z",
+    "updated_at": "2025-09-02T13:38:20Z",
     "version": "v1.1.9"
   },
   "astrbot_plugin_shutup": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T13:32:46Z",
+    "updated_at": "2025-09-02T14:23:14Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
