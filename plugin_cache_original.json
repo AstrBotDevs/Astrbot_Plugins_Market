@@ -574,8 +574,8 @@
       "工具"
     ],
     "social_link": "astrbot.uk",
-    "stars": 2,
-    "updated_at": "2025-08-27T10:45:28Z",
+    "stars": 3,
+    "updated_at": "2025-09-02T05:26:04Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_outputpro": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T04:27:54Z",
+    "updated_at": "2025-09-02T05:23:06Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
