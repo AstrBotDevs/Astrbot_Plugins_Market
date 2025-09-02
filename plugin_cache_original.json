@@ -174,8 +174,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 2,
-    "updated_at": "2025-08-26T12:25:28Z",
+    "stars": 3,
+    "updated_at": "2025-09-02T03:38:32Z",
     "version": "v1.0"
   },
   "command_to_llm": {
@@ -1432,8 +1432,8 @@
     "repo": "https://github.com/timetetng/astrbot_plugin_ip_proxy",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-08-21T16:08:57Z",
-    "version": "v1.5"
+    "updated_at": "2025-09-02T03:14:37Z",
+    "version": "v1.6"
   },
   "astrbot_plugin_cmd_console": {
     "desc": "提供 WebUI 的指令管理面板，可以启用/禁用插件的指令。",
@@ -1538,8 +1538,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "author": "Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-08-15T12:53:45Z",
+    "stars": 5,
+    "updated_at": "2025-09-02T03:16:22Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_decision_roulette": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T01:59:45Z",
+    "updated_at": "2025-09-02T03:08:46Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
