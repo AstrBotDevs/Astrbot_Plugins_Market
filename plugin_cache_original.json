@@ -405,8 +405,8 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 13,
-    "updated_at": "2025-09-01T16:27:54Z",
-    "version": "0.4.1"
+    "updated_at": "2025-09-02T09:16:16Z",
+    "version": "0.4.2"
   },
   "astrbot_plugin_keyword_monitor": {
     "desc": "当群里出现关键词时触发自动提醒。",
@@ -779,8 +779,8 @@
       "增强"
     ],
     "stars": 11,
-    "updated_at": "2025-08-31T17:36:10Z",
-    "version": "2.9.6"
+    "updated_at": "2025-09-02T09:11:43Z",
+    "version": "2.9.7"
   },
   "astrbot_plugin_Group-Verification_PRO": {
     "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
@@ -1342,8 +1342,8 @@
       "娱乐"
     ],
     "stars": 4,
-    "updated_at": "2025-08-26T12:15:25Z",
-    "version": "v2.0.4"
+    "updated_at": "2025-09-02T09:25:26Z",
+    "version": "v2.0.5"
   },
   "astrbot_plugin_file": {
     "name": "astrbot_plugin_file",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T08:31:07Z",
+    "updated_at": "2025-09-02T09:25:12Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4458,8 +4458,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 46,
-    "updated_at": "2025-08-31T16:38:12Z",
-    "version": "v1.1.4"
+    "updated_at": "2025-09-02T09:16:02Z",
+    "version": "v1.1.5"
   },
   "astrbot_plugin_yuafeng": {
     "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
