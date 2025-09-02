@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-01T03:22:35.344Z",
-  "total_plugins": 19,
+  "updated_at": "2025-09-02T03:07:11.028Z",
+  "total_plugins": 12,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -15,71 +15,19 @@
       "updated_at": "2025-08-24T04:15:26Z"
     },
     {
-      "name": "astrbot_plugin_boss_notifier",
-      "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
-      "author": "Alent7",
-      "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2579,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2579",
-      "created_at": "2025-08-29T09:10:11Z",
-      "updated_at": "2025-08-29T09:11:01Z"
-    },
-    {
-      "name": "astrbot_plugin_ExchangeRateQuery",
-      "desc": "简单的实时货币汇率查询插件",
-      "author": "MoonShadow1976",
-      "repo": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
+      "name": "astrbot_plugin_keywordsreply",
+      "desc": "一个简单的关键词自动回复插件",
+      "author": "Origin173",
+      "repo": "https://github.com/Origin173/astrbot_plugin_keywordsreply",
       "tags": [
-        "汇率查询",
-        "ExchangeRate"
+        "自动回复",
+        "关键词"
       ],
       "social_link": "",
-      "issue_number": 2592,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2592",
-      "created_at": "2025-08-31T16:27:43Z",
-      "updated_at": "2025-08-31T16:31:04Z"
-    },
-    {
-      "name": "astrbot_plugin_furry_cg",
-      "desc": "小茶馆插件",
-      "author": "furryhm",
-      "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2522,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2522",
-      "created_at": "2025-08-21T11:36:13Z",
-      "updated_at": "2025-08-25T10:49:06Z"
-    },
-    {
-      "name": "astrbot_plugin_furry_dsgg",
-      "desc": "[仅aiocqhttp] 广告助手，帮助你向所有群聊定时发送广告",
-      "author": "furryhm",
-      "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_dsgg",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2521,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2521",
-      "created_at": "2025-08-21T11:08:32Z",
-      "updated_at": "2025-08-25T10:49:59Z"
-    },
-    {
-      "name": "astrbot_plugin_mememaker_api",
-      "author": "jmt059",
-      "repo": "https://github.com/jmt059/astrbot_plugin_mememaker_api",
-      "desc": "表情包制作插件(api版)，功能齐全，需要调用 meme-generator 服务",
-      "tags": [
-        "meme",
-        "api",
-        "表情包"
-      ],
-      "social_link": "",
-      "issue_number": 2566,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2566",
-      "created_at": "2025-08-26T15:08:37Z",
-      "updated_at": "2025-08-31T15:32:35Z"
+      "issue_number": 2597,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2597",
+      "created_at": "2025-09-01T07:03:25Z",
+      "updated_at": "2025-09-01T07:10:36Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -109,7 +57,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-08-31T10:06:16Z"
+      "updated_at": "2025-09-01T05:51:59Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -123,23 +71,6 @@
       "updated_at": "2025-07-25T11:05:11Z",
       "tags": [],
       "social_link": ""
-    },
-    {
-      "name": "astrbot-qq-group-daily-analysis",
-      "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
-      "author": "SXP-Simon",
-      "repo": "https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis",
-      "tags": [
-        "QQ",
-        "群聊",
-        "分析",
-        "总结"
-      ],
-      "social_link": "https://github.com/SXP-Simon",
-      "issue_number": 2582,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2582",
-      "created_at": "2025-08-29T15:32:07Z",
-      "updated_at": "2025-08-29T16:13:02Z"
     },
     {
       "name": "daily_checkin",
@@ -172,35 +103,6 @@
       "created_at": "2025-08-10T03:15:28Z",
       "updated_at": "2025-08-14T14:40:52Z",
       "social_link": ""
-    },
-    {
-      "name": "gemini-25-image-openrouter",
-      "desc": "使用openrouter的免费api生成图片",
-      "author": "喵喵",
-      "repo": "https://github.com/miaoxutao123/AstrBot_plugin_gemini2point5image-openrouter",
-      "tags": [
-        "banana",
-        "gemini-2.5-flash-image-preview",
-        "画图",
-        "AI绘画"
-      ],
-      "social_link": "",
-      "issue_number": 2593,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2593",
-      "created_at": "2025-09-01T02:36:48Z",
-      "updated_at": "2025-09-01T02:39:51Z"
-    },
-    {
-      "name": "github_star_verify",
-      "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
-      "author": "Qian23333",
-      "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2588,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2588",
-      "created_at": "2025-08-31T08:48:28Z",
-      "updated_at": "2025-08-31T13:18:41Z"
     },
     {
       "name": "jav_info",
