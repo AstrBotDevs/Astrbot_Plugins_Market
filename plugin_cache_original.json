@@ -287,7 +287,7 @@
       "股市"
     ],
     "stars": 7,
-    "updated_at": "2025-08-27T03:11:21Z",
+    "updated_at": "2025-09-02T10:19:26Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_figurine_workshop": {
@@ -550,8 +550,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 7,
-    "updated_at": "2025-08-30T10:07:00Z",
-    "version": "v0.2.3"
+    "updated_at": "2025-09-02T10:18:16Z",
+    "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
     "desc": "使机器人可以从聊天中学习他人说话方式",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T09:25:12Z",
+    "updated_at": "2025-09-02T10:24:35Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
