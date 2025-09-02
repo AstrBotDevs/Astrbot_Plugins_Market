@@ -175,7 +175,7 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 3,
-    "updated_at": "2025-09-02T03:38:32Z",
+    "updated_at": "2025-09-02T12:51:11Z",
     "version": "v1.0"
   },
   "command_to_llm": {
@@ -319,8 +319,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 53,
-    "updated_at": "2025-09-01T14:06:29Z",
+    "stars": 54,
+    "updated_at": "2025-09-02T11:32:25Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T11:19:18Z",
+    "updated_at": "2025-09-02T12:49:26Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
