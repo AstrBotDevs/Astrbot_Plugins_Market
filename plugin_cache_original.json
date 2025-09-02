@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T19:17:16Z",
+    "updated_at": "2025-09-02T20:22:27Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4868,7 +4868,7 @@
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
     "stars": 66,
     "updated_at": "2025-09-02T19:13:17Z",
-    "version": "v2.1.4"
+    "version": "v2.1.5"
   },
   "astrbot_plugin_steamshot": {
     "desc": "自动检测对话中出现的steam商店页面链接，并返回对应页面的网页截图和摘要信息。",
