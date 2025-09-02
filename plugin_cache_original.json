@@ -657,8 +657,8 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "stars": 1,
-    "updated_at": "2025-08-16T06:16:15Z",
-    "version": "1.0.0"
+    "updated_at": "2025-09-02T04:25:30Z",
+    "version": "1.0.2"
   },
   "astrbot_plugin_identity_strategy": {
     "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T03:08:46Z",
+    "updated_at": "2025-09-02T04:27:54Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
