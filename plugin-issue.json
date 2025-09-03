@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-02T03:07:11.028Z",
-  "total_plugins": 12,
+  "updated_at": "2025-09-03T02:55:45.479Z",
+  "total_plugins": 16,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -27,7 +27,70 @@
       "issue_number": 2597,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2597",
       "created_at": "2025-09-01T07:03:25Z",
-      "updated_at": "2025-09-01T07:10:36Z"
+      "updated_at": "2025-09-02T15:04:09Z"
+    },
+    {
+      "name": "astrbot_plugin_m",
+      "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
+      "author": "Mnbqq",
+      "repo": "https://github.com/Mnbqq/astrbot_plugin_m",
+      "tags": [
+        "音乐"
+      ],
+      "social_link": "",
+      "issue_number": 2608,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2608",
+      "created_at": "2025-09-02T14:46:54Z",
+      "updated_at": "2025-09-02T14:47:58Z"
+    },
+    {
+      "name": "astrbot_plugin_multimsg",
+      "desc": "[仅aiocqhttp] 为bot发送多种类型消息提供便捷命令，包括markdown，猜拳，转骰子，发表情，音乐卡片，推荐卡片，转发，合并转发，@全体成员...",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_multimsg",
+      "tags": [
+        "消息"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "issue_number": 2606,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2606",
+      "created_at": "2025-09-02T14:33:02Z",
+      "updated_at": "2025-09-02T17:08:10Z"
+    },
+    {
+      "name": "astrbot_plugin_recall_cancel",
+      "desc": "当用户撤回触发LLM回应的消息时，如果LLM回复还未发送则取消发送。防止用户发错消息撤回后机器人仍然回复的情况，提升用户体验并避免资源浪费。",
+      "author": "木有知",
+      "repo": "https://github.com/muyouzhi6/astrbot_plugin_recall_cancel",
+      "tags": [
+        "消息管理",
+        "撤回处理",
+        "LLM控制",
+        "用户体验",
+        "自动化",
+        "QQ机器人",
+        "OneBot"
+      ],
+      "social_link": "https://github.com/muyouzhi6",
+      "issue_number": 2612,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2612",
+      "created_at": "2025-09-02T16:49:51Z",
+      "updated_at": "2025-09-02T17:20:06Z"
+    },
+    {
+      "name": "astrbot_plugin_slg",
+      "desc": "用astrbot玩slg",
+      "author": "xunxiing",
+      "repo": "https://github.com/xunxiing/astrbot_plugin_slg",
+      "tags": [
+        "游戏",
+        "slg"
+      ],
+      "social_link": "",
+      "issue_number": 2611,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2611",
+      "created_at": "2025-09-02T15:52:40Z",
+      "updated_at": "2025-09-02T15:54:57Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -57,7 +120,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-09-01T05:51:59Z"
+      "updated_at": "2025-09-02T13:42:25Z"
     },
     {
       "name": "astrbot_plugin_zfile",
