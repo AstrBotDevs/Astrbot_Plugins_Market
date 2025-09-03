@@ -296,8 +296,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 13,
-    "updated_at": "2025-08-29T14:47:23Z",
+    "stars": 14,
+    "updated_at": "2025-09-03T01:06:59Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -1304,7 +1304,7 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-09-02T13:46:40Z",
+    "updated_at": "2025-09-03T01:48:15Z",
     "version": "v1.0.7"
   },
   "astrbot_plugin_RecallGuard": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-02T23:18:51Z",
+    "updated_at": "2025-09-03T01:43:07Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
