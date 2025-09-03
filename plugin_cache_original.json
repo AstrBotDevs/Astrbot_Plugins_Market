@@ -34,8 +34,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 5,
-    "updated_at": "2025-09-02T22:10:07Z",
-    "version": "v1.7.0"
+    "updated_at": "2025-09-03T04:03:36Z",
+    "version": "v1.8.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -2785,8 +2785,8 @@
       "禁漫"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 35,
-    "updated_at": "2025-08-31T03:08:32Z",
+    "stars": 36,
+    "updated_at": "2025-09-03T03:42:14Z",
     "version": "1.0.7"
   },
   "astrbot_plugin_combine-messages": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T03:31:27Z",
+    "updated_at": "2025-09-03T04:26:23Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -3815,7 +3815,7 @@
       "QQ群管"
     ],
     "stars": 37,
-    "updated_at": "2025-08-31T03:00:53Z",
+    "updated_at": "2025-09-03T04:12:59Z",
     "version": "v3.1.2"
   },
   "astrbot_plugin_liars_bar": {
