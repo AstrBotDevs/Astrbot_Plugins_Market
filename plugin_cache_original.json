@@ -236,8 +236,8 @@
     "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
     "social_link": "https://pan.l9.lc",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-09-01T06:02:30Z",
+    "stars": 3,
+    "updated_at": "2025-09-03T14:11:43Z",
     "version": "v0.5"
   },
   "astrbot_plugin_furry_cg": {
@@ -1024,8 +1024,8 @@
       "找出处"
     ],
     "stars": 1,
-    "updated_at": "2025-09-01T15:59:19Z",
-    "version": "3.3"
+    "updated_at": "2025-09-03T14:17:28Z",
+    "version": "3.4"
   },
   "astrbot_plugin_LLMTempBan": {
     "desc": "让 Bot 学会主动拉黑或者通过管理员指令拉黑。",
@@ -3016,7 +3016,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 27,
-    "updated_at": "2025-08-27T06:17:43Z",
+    "updated_at": "2025-09-03T14:24:09Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_SillyTavern_card": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T13:30:14Z",
+    "updated_at": "2025-09-03T14:22:01Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
