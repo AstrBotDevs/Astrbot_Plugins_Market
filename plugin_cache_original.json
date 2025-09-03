@@ -1515,8 +1515,8 @@
     ],
     "author": "UyNewNas",
     "stars": 7,
-    "updated_at": "2025-08-31T17:42:13Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-03T17:51:36Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_LetAI_sendemojis": {
     "desc": "智能分析AI对话内容并发送匹配表情包，支持情感识别、历史记录和多数据源，让聊天更生动有趣",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T17:19:04Z",
+    "updated_at": "2025-09-03T18:31:26Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
