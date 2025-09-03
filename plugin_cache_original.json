@@ -2527,8 +2527,8 @@
     "repo": "https://github.com/Zhalslar/astrbot_plugin_search_video",
     "social_link": "https://github.com/Zhalslar",
     "tags": [],
-    "stars": 23,
-    "updated_at": "2025-08-22T10:26:13Z",
+    "stars": 24,
+    "updated_at": "2025-09-03T21:55:31Z",
     "version": "v1.0.6"
   },
   "astrbot_plugin_zt": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T21:19:26Z",
+    "updated_at": "2025-09-03T22:19:48Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
