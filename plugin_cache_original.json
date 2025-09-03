@@ -10,8 +10,8 @@
       "AI绘画"
     ],
     "stars": 14,
-    "updated_at": "2025-09-02T22:09:33Z",
-    "version": "v1.3"
+    "updated_at": "2025-09-03T08:22:44Z",
+    "version": "v1.5"
   },
   "github_star_verify": {
     "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T07:21:16Z",
+    "updated_at": "2025-09-03T08:29:10Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4458,8 +4458,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_box",
     "stars": 46,
-    "updated_at": "2025-09-02T09:16:02Z",
-    "version": "v1.1.5"
+    "updated_at": "2025-09-03T08:26:41Z",
+    "version": "v1.1.6"
   },
   "astrbot_plugin_yuafeng": {
     "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
