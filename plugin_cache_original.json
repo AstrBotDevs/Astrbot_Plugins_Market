@@ -9,8 +9,8 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 14,
-    "updated_at": "2025-09-03T08:22:44Z",
+    "stars": 15,
+    "updated_at": "2025-09-03T11:49:08Z",
     "version": "v1.5"
   },
   "github_star_verify": {
@@ -19,8 +19,8 @@
     "repo": "https://github.com/Qian23333/astrbot_plugin_github_star_verify",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-01T10:32:24Z",
-    "version": "v2.0.1"
+    "updated_at": "2025-09-03T11:44:15Z",
+    "version": "v2.1.0"
   },
   "astrbot-qq-group-daily-analysis": {
     "desc": "QQ群日常分析插件 - 生成精美的群聊分析报告，支持话题分析、用户称号、群聊金句等功能",
@@ -430,8 +430,8 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "stars": 0,
-    "updated_at": "2025-08-21T07:37:51Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-09-03T11:49:52Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_immersive_control": {
     "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
@@ -536,8 +536,8 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 13,
-    "updated_at": "2025-09-03T05:22:52Z",
+    "stars": 14,
+    "updated_at": "2025-09-03T12:01:17Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_memora_connect": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T11:18:16Z",
+    "updated_at": "2025-09-03T12:46:19Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
