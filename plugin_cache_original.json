@@ -111,8 +111,8 @@
       "JOJO"
     ],
     "social_link": "http://www.tripleying.com/jojo",
-    "stars": 0,
-    "updated_at": "2025-08-29T17:06:36Z",
+    "stars": 1,
+    "updated_at": "2025-09-03T06:29:16Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_qun_album": {
@@ -123,8 +123,8 @@
       "群相册"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 3,
-    "updated_at": "2025-08-28T13:30:47Z",
+    "stars": 4,
+    "updated_at": "2025-09-03T06:29:13Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_favourpro": {
@@ -132,8 +132,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-09-01T05:42:26Z",
+    "stars": 10,
+    "updated_at": "2025-09-03T06:29:48Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -143,8 +143,8 @@
     "tags": [
       "适配器"
     ],
-    "stars": 2,
-    "updated_at": "2025-08-30T19:14:04Z",
+    "stars": 3,
+    "updated_at": "2025-09-03T06:30:12Z",
     "version": "v0.0.1"
   },
   "astrbot_plugin_ms_aiimg": {
@@ -161,8 +161,8 @@
     "author": "furryhm",
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry_mzxyy",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-08-26T18:27:58Z",
+    "stars": 4,
+    "updated_at": "2025-09-03T06:30:29Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_auto_ban_new": {
@@ -245,8 +245,8 @@
     "author": "furryhm",
     "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-09-02T15:35:24Z",
+    "stars": 1,
+    "updated_at": "2025-09-03T06:31:31Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_furry_cgsjk": {
@@ -320,7 +320,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 57,
-    "updated_at": "2025-09-02T22:13:00Z",
+    "updated_at": "2025-09-03T06:28:11Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-03T05:20:25Z",
+    "updated_at": "2025-09-03T06:32:13Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
