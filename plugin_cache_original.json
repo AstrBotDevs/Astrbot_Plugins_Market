@@ -42,8 +42,8 @@
       "memory",
       "rag"
     ],
-    "stars": 9,
-    "updated_at": "2025-09-04T02:52:46Z",
+    "stars": 10,
+    "updated_at": "2025-09-04T15:57:07Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_mathitools": {
@@ -85,8 +85,8 @@
       "OneBot"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 2,
-    "updated_at": "2025-09-03T09:51:50Z",
+    "stars": 3,
+    "updated_at": "2025-09-04T15:52:03Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_multimsg": {
@@ -156,8 +156,8 @@
     "author": "Alent7",
     "repo": "https://github.com/Alent7/astrbot_plugin_boss_notifier",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-09-02T05:49:10Z",
+    "stars": 2,
+    "updated_at": "2025-09-04T15:57:12Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_furry_dsgg": {
@@ -237,8 +237,8 @@
       "群相册"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-09-03T06:29:13Z",
+    "stars": 5,
+    "updated_at": "2025-09-04T16:09:49Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_favourpro": {
@@ -650,8 +650,8 @@
       "唤醒增强"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 14,
-    "updated_at": "2025-09-03T12:01:17Z",
+    "stars": 15,
+    "updated_at": "2025-09-04T15:57:01Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_memora_connect": {
@@ -1442,8 +1442,8 @@
       "主动回复",
       "沉浸式"
     ],
-    "stars": 16,
-    "updated_at": "2025-08-24T08:55:42Z",
+    "stars": 17,
+    "updated_at": "2025-09-04T16:03:54Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_choulaopo": {
@@ -2061,8 +2061,8 @@
       "图像转述"
     ],
     "desc": "将图像转述给不支持图像识别的大模型",
-    "stars": 3,
-    "updated_at": "2025-08-27T12:26:55Z",
+    "stars": 4,
+    "updated_at": "2025-09-04T15:31:03Z",
     "version": "v0.0.1"
   },
   "astrbot_plugin_sakisaki": {
@@ -2529,8 +2529,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 59,
-    "updated_at": "2025-08-31T03:07:44Z",
+    "stars": 60,
+    "updated_at": "2025-09-04T16:09:02Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2666,8 +2666,8 @@
       "画像"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 21,
-    "updated_at": "2025-08-24T13:09:18Z",
+    "stars": 22,
+    "updated_at": "2025-09-04T16:10:29Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_Kanalyse": {
@@ -3422,7 +3422,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T15:23:32Z",
+    "updated_at": "2025-09-04T16:28:33Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4816,8 +4816,8 @@
       "功能",
       "推送"
     ],
-    "stars": 13,
-    "updated_at": "2025-08-18T02:28:55Z",
+    "stars": 14,
+    "updated_at": "2025-09-04T16:18:07Z",
     "version": "v2.0"
   },
   "astrbot_plugin_gemini_exp": {
@@ -5060,8 +5060,8 @@
     "author": "anka",
     "repo": "https://github.com/anka-afk/astrbot_plugin_humanlike",
     "tags": [],
-    "stars": 21,
-    "updated_at": "2025-08-07T02:21:43Z",
+    "stars": 22,
+    "updated_at": "2025-09-04T16:10:20Z",
     "version": "v0.2.2"
   },
   "astrbot_plugin_blue_archive": {
@@ -5695,8 +5695,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 116,
-    "updated_at": "2025-09-04T13:09:16Z",
+    "stars": 117,
+    "updated_at": "2025-09-04T16:06:55Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
