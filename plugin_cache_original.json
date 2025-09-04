@@ -55,8 +55,8 @@
       "数学"
     ],
     "stars": 1,
-    "updated_at": "2025-09-04T08:19:04Z",
-    "version": "v2.1.1"
+    "updated_at": "2025-09-04T09:05:00Z",
+    "version": "v2.1.0"
   },
   "astrbot_plugin_completely_disable": {
     "desc": "通过黑名单或白名单模式完全禁止某个群聊或用户使用机器人。",
@@ -123,8 +123,8 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 15,
-    "updated_at": "2025-09-03T11:49:08Z",
+    "stars": 16,
+    "updated_at": "2025-09-04T09:21:36Z",
     "version": "v1.5"
   },
   "github_star_verify": {
@@ -663,8 +663,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 7,
-    "updated_at": "2025-09-02T10:18:16Z",
+    "stars": 8,
+    "updated_at": "2025-09-04T09:25:26Z",
     "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
@@ -2426,8 +2426,8 @@
     "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-08-13T07:50:49Z",
-    "version": "v1.3"
+    "updated_at": "2025-09-04T08:56:16Z",
+    "version": "v1.4"
   },
   "astrbot_plugin_deepwiki": {
     "author": "Zhalslar",
@@ -3422,7 +3422,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T08:29:05Z",
+    "updated_at": "2025-09-04T09:23:45Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
