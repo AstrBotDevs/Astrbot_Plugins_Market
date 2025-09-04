@@ -123,8 +123,8 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 16,
-    "updated_at": "2025-09-04T12:21:06Z",
+    "stars": 17,
+    "updated_at": "2025-09-04T18:15:09Z",
     "version": "v1.6"
   },
   "github_star_verify": {
@@ -1478,8 +1478,8 @@
       "文件处理"
     ],
     "author": null,
-    "stars": 11,
-    "updated_at": "2025-08-16T13:46:47Z",
+    "stars": 12,
+    "updated_at": "2025-09-04T18:33:28Z",
     "version": "2.2.3--img"
   },
   "astrbot_plugin_group_sign": {
@@ -3422,7 +3422,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T17:18:58Z",
+    "updated_at": "2025-09-04T18:34:10Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
