@@ -7,7 +7,7 @@
       "音乐"
     ],
     "stars": 0,
-    "updated_at": "2025-09-04T14:08:28Z",
+    "updated_at": "2025-09-04T14:57:23Z",
     "version": "2.1.0"
   },
   "astrbot_plugin_slg": {
@@ -225,8 +225,8 @@
       "JOJO"
     ],
     "social_link": "http://www.tripleying.com/jojo",
-    "stars": 1,
-    "updated_at": "2025-09-03T06:29:16Z",
+    "stars": 2,
+    "updated_at": "2025-09-04T14:45:43Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_qun_album": {
@@ -2311,8 +2311,8 @@
       "文字转语音"
     ],
     "social_link": "https://github.com/xiewoc",
-    "stars": 3,
-    "updated_at": "2025-08-06T16:13:56Z",
+    "stars": 4,
+    "updated_at": "2025-09-04T14:30:31Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_sysinfoimg": {
@@ -3422,7 +3422,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T14:21:28Z",
+    "updated_at": "2025-09-04T15:23:32Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
