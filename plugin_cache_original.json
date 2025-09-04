@@ -65,7 +65,7 @@
       "表情包"
     ],
     "stars": 4,
-    "updated_at": "2025-09-02T16:33:31Z",
+    "updated_at": "2025-09-04T03:54:17Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -2661,8 +2661,8 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 3,
-    "updated_at": "2025-09-04T03:15:52Z",
-    "version": "v1.7.1"
+    "updated_at": "2025-09-04T03:50:05Z",
+    "version": "v1.7.2"
   },
   "astrbot_plugin_lanraragi": {
     "author": "Putarku",
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T03:32:46Z",
+    "updated_at": "2025-09-04T04:26:10Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
@@ -4617,8 +4617,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 38,
-    "updated_at": "2025-08-31T06:52:14Z",
+    "stars": 39,
+    "updated_at": "2025-09-04T03:51:29Z",
     "version": "v0.2.9"
   },
   "astrbot_plugin_sjzb": {
