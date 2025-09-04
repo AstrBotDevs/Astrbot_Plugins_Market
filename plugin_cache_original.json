@@ -1165,8 +1165,8 @@
       "游戏"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 10,
-    "updated_at": "2025-08-23T13:54:06Z",
+    "stars": 11,
+    "updated_at": "2025-09-04T03:12:06Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_Heartflow": {
@@ -1288,8 +1288,8 @@
       "模仿"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 6,
-    "updated_at": "2025-08-13T04:50:44Z",
+    "stars": 7,
+    "updated_at": "2025-09-04T03:12:40Z",
     "version": "v1.0.1"
   },
   "EmailNotixion": {
@@ -1682,8 +1682,8 @@
       "selenium"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 3,
-    "updated_at": "2025-09-02T13:38:20Z",
+    "stars": 4,
+    "updated_at": "2025-09-04T03:16:16Z",
     "version": "v1.1.9"
   },
   "astrbot_plugin_shutup": {
@@ -1783,8 +1783,8 @@
       "每日新闻"
     ],
     "repo": "https://github.com/CJSen/astrbot_plugin_daliy_60s_news",
-    "stars": 3,
-    "updated_at": "2025-07-11T15:32:19Z",
+    "stars": 4,
+    "updated_at": "2025-09-04T03:16:16Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_desuwa": {
@@ -1796,8 +1796,8 @@
       "丰川祥子"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 2,
-    "updated_at": "2025-06-26T23:24:20Z",
+    "stars": 3,
+    "updated_at": "2025-09-04T03:16:19Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_afdian": {
@@ -2113,8 +2113,8 @@
       "旮旯给木"
     ],
     "social_link": "https://github.com/Hxfrzc",
-    "stars": 5,
-    "updated_at": "2025-06-16T14:51:27Z",
+    "stars": 6,
+    "updated_at": "2025-09-04T03:19:40Z",
     "version": "v1.2"
   },
   "astrbot_plugin_yunshi": {
@@ -2123,8 +2123,8 @@
     "repo": "https://github.com/Abyss-Seeker/astrbot_plugin_yunshi",
     "social_link": "https://github.com/Abyss-Seeker",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-06-05T15:35:54Z",
+    "stars": 2,
+    "updated_at": "2025-09-04T03:20:52Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_bilibili_summary": {
@@ -2232,8 +2232,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 50,
-    "updated_at": "2025-08-30T11:10:44Z",
+    "stars": 51,
+    "updated_at": "2025-09-04T03:21:18Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
@@ -2278,8 +2278,8 @@
       "天气查询"
     ],
     "social_link": "https://github.com/BB0813",
-    "stars": 1,
-    "updated_at": "2025-07-24T13:25:33Z",
+    "stars": 2,
+    "updated_at": "2025-09-04T03:21:55Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_chouqunyou": {
@@ -2604,8 +2604,8 @@
     "tags": [
       "Galgame"
     ],
-    "stars": 2,
-    "updated_at": "2025-08-02T08:10:45Z",
+    "stars": 3,
+    "updated_at": "2025-09-04T03:24:15Z",
     "version": "v1.3"
   },
   "astrbot_plugin_llm_poke": {
@@ -2661,7 +2661,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 3,
-    "updated_at": "2025-08-29T08:42:49Z",
+    "updated_at": "2025-09-04T03:15:52Z",
     "version": "v1.7.1"
   },
   "astrbot_plugin_lanraragi": {
@@ -3308,7 +3308,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-04T02:57:59Z",
+    "updated_at": "2025-09-04T03:32:46Z",
     "version": "v1.6.3"
   },
   "astrbot_plugin_status-pro": {
