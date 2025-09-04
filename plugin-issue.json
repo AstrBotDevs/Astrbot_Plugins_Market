@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-03T02:55:45.479Z",
-  "total_plugins": 16,
+  "updated_at": "2025-09-04T02:56:16.781Z",
+  "total_plugins": 20,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,6 +13,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
+    },
+    {
+      "name": "astrbot_plugin_completely_disable",
+      "desc": "通过黑名单或白名单模式完全禁止某个群聊或用户使用机器人。",
+      "author": "qa296",
+      "repo": "https://github.com/qa296/astrbot_plugin_completely_disable",
+      "tags": [
+        "黑名单",
+        "禁用"
+      ],
+      "social_link": "https://github.com/qa296",
+      "issue_number": 2620,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2620",
+      "created_at": "2025-09-03T13:34:04Z",
+      "updated_at": "2025-09-03T13:40:00Z"
     },
     {
       "name": "astrbot_plugin_keywordsreply",
@@ -28,6 +43,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2597",
       "created_at": "2025-09-01T07:03:25Z",
       "updated_at": "2025-09-02T15:04:09Z"
+    },
+    {
+      "name": "astrbot_plugin_livingmemory",
+      "desc": "为 AstrBot 打造的、拥有完整记忆生命周期的智能长期记忆插件。",
+      "author": "lxfight",
+      "repo": "https://github.com/lxfight-s-Astrbot-Plugins/astrbot_plugin_livingmemory",
+      "tags": [
+        "memory",
+        "rag"
+      ],
+      "social_link": "",
+      "issue_number": 2624,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2624",
+      "created_at": "2025-09-04T02:50:45Z",
+      "updated_at": "2025-09-04T02:54:40Z"
     },
     {
       "name": "astrbot_plugin_m",
@@ -55,11 +85,11 @@
       "issue_number": 2606,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2606",
       "created_at": "2025-09-02T14:33:02Z",
-      "updated_at": "2025-09-02T17:08:10Z"
+      "updated_at": "2025-09-03T10:57:29Z"
     },
     {
       "name": "astrbot_plugin_recall_cancel",
-      "desc": "当用户撤回触发LLM回应的消息时，如果LLM回复还未发送则取消发送。防止用户发错消息撤回后机器人仍然回复的情况，提升用户体验并避免资源浪费。",
+      "desc": "“你撤回了我就当你没发过”，当用户撤回触发LLM回应的消息时，如果LLM回复还未发送则取消发送。防止用户发错消息撤回后机器人仍然回复的情况，提升用户体验并避免资源浪费。",
       "author": "木有知",
       "repo": "https://github.com/muyouzhi6/astrbot_plugin_recall_cancel",
       "tags": [
@@ -75,7 +105,7 @@
       "issue_number": 2612,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2612",
       "created_at": "2025-09-02T16:49:51Z",
-      "updated_at": "2025-09-02T17:20:06Z"
+      "updated_at": "2025-09-03T09:52:17Z"
     },
     {
       "name": "astrbot_plugin_slg",
@@ -212,6 +242,20 @@
       "updated_at": "2025-08-24T04:26:00Z"
     },
     {
+      "name": "qq_group_sign",
+      "desc": "QQ群打卡插件，支持自动定时打卡、白名单模式、管理员通知等功能",
+      "author": "EraAsh",
+      "repo": "https://github.com/EraAsh/astrbot_plugin_qq_group_sign",
+      "tags": [
+        "QQ群打卡"
+      ],
+      "social_link": "https://github.com/EraAsh",
+      "issue_number": 2618,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2618",
+      "created_at": "2025-09-03T10:54:48Z",
+      "updated_at": "2025-09-03T11:22:27Z"
+    },
+    {
       "name": "server_status_monitor",
       "desc": "Linux服务器状态监控插件，持续监控服务器状态，并可在服务器状态到达阈值时提醒",
       "author": "AoiInazuma",
@@ -226,6 +270,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
+    },
+    {
+      "name": "插件名",
+      "desc": "插件介绍",
+      "author": "作者名",
+      "repo": "插件仓库链接",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2617,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2617",
+      "created_at": "2025-09-03T10:33:59Z",
+      "updated_at": "2025-09-03T10:34:04Z"
     },
     {
       "name": "群聊检测刷屏",
