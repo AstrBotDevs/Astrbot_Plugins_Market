@@ -42,8 +42,8 @@
       "memory",
       "rag"
     ],
-    "stars": 10,
-    "updated_at": "2025-09-04T15:57:07Z",
+    "stars": 11,
+    "updated_at": "2025-09-05T03:34:04Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_mathitools": {
@@ -663,8 +663,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 8,
-    "updated_at": "2025-09-04T14:22:36Z",
+    "stars": 9,
+    "updated_at": "2025-09-05T03:34:05Z",
     "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
@@ -1418,8 +1418,8 @@
       "工具"
     ],
     "stars": 4,
-    "updated_at": "2025-09-03T01:48:15Z",
-    "version": "v1.0.7"
+    "updated_at": "2025-09-05T03:16:32Z",
+    "version": "v1.0.8"
   },
   "astrbot_plugin_RecallGuard": {
     "name": "astrbot_plugin_RecallGuard",
@@ -1667,8 +1667,8 @@
     ],
     "author": "oyxning",
     "social_link": "https://github.com/oyxning/",
-    "stars": 3,
-    "updated_at": "2025-07-16T14:22:27Z",
+    "stars": 4,
+    "updated_at": "2025-09-05T04:20:58Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_top_chehui": {
@@ -1849,8 +1849,8 @@
       "Kook",
       "平台适配器"
     ],
-    "stars": 7,
-    "updated_at": "2025-08-13T06:19:54Z",
+    "stars": 8,
+    "updated_at": "2025-09-05T03:47:06Z",
     "version": "v0.0.3"
   },
   "astrbot_plugin_deepresearch": {
@@ -2529,8 +2529,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 60,
-    "updated_at": "2025-09-04T16:09:02Z",
+    "stars": 61,
+    "updated_at": "2025-09-05T03:22:38Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -3250,8 +3250,8 @@
       "ai绘图",
       "llm tool"
     ],
-    "stars": 7,
-    "updated_at": "2025-08-18T12:23:58Z",
+    "stars": 8,
+    "updated_at": "2025-09-05T03:48:40Z",
     "version": "v0.0.2"
   },
   "astrbot_plugin_mcqq": {
