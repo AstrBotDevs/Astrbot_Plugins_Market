@@ -289,7 +289,7 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 3,
-    "updated_at": "2025-09-05T09:26:29Z",
+    "updated_at": "2025-09-05T10:00:21Z",
     "version": "v1.1"
   },
   "command_to_llm": {
@@ -1862,8 +1862,8 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 19,
-    "updated_at": "2025-08-22T05:56:26Z",
+    "stars": 20,
+    "updated_at": "2025-09-05T09:44:50Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_textadventure": {
@@ -2334,8 +2334,8 @@
     "tags": [
       "玩具"
     ],
-    "stars": 8,
-    "updated_at": "2025-06-13T15:36:04Z",
+    "stars": 9,
+    "updated_at": "2025-09-05T09:42:52Z",
     "version": "v0.1"
   },
   "astrbot_plugin_music": {
@@ -3214,8 +3214,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 73,
-    "updated_at": "2025-09-04T13:09:10Z",
+    "stars": 74,
+    "updated_at": "2025-09-05T09:36:56Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_help": {
