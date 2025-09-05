@@ -147,8 +147,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 6,
-    "updated_at": "2025-09-03T09:11:54Z",
+    "stars": 7,
+    "updated_at": "2025-09-05T08:55:52Z",
     "version": "v1.9.0"
   },
   "astrbot_plugin_boss_notifier": {
@@ -289,8 +289,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 3,
-    "updated_at": "2025-09-02T13:07:12Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-05T09:26:29Z",
+    "version": "v1.1"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
