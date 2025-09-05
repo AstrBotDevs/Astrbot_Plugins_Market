@@ -42,8 +42,8 @@
       "memory",
       "rag"
     ],
-    "stars": 12,
-    "updated_at": "2025-09-05T08:27:30Z",
+    "stars": 13,
+    "updated_at": "2025-09-05T11:45:59Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_mathitools": {
@@ -247,8 +247,8 @@
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
     "stars": 10,
-    "updated_at": "2025-09-03T06:29:48Z",
-    "version": "v1.0.3"
+    "updated_at": "2025-09-05T11:25:09Z",
+    "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
     "desc": "用于连接 AstrBot 与 Open LLM Vtuber，除安装插件外还需要修改 Open LLM Vtuber 中的相关文件",
@@ -574,8 +574,8 @@
       "表情包"
     ],
     "social_link": "https://github.com/SodaSizzle",
-    "stars": 6,
-    "updated_at": "2025-08-24T06:54:07Z",
+    "stars": 7,
+    "updated_at": "2025-09-05T12:51:21Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_self_learning": {
@@ -663,8 +663,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 9,
-    "updated_at": "2025-09-05T03:34:05Z",
+    "stars": 10,
+    "updated_at": "2025-09-05T12:32:25Z",
     "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
@@ -676,8 +676,8 @@
       "拟人"
     ],
     "social_link": "https://github.com/qa296",
-    "stars": 4,
-    "updated_at": "2025-08-28T13:29:10Z",
+    "stars": 5,
+    "updated_at": "2025-09-05T12:33:11Z",
     "version": "v0.1.2"
   },
   "astrbot_plugin_who_at_me": {
@@ -2517,8 +2517,8 @@
     "desc": "[仅 napcat] 使用Onnx检测发送的图片是否包含_百合园圣娅_并且有特定回复。",
     "repo": "https://github.com/orchidsziyou/astrbot_plugin_seiadetect",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-08-30T07:50:16Z",
+    "stars": 3,
+    "updated_at": "2025-09-05T11:34:19Z",
     "version": "v1.0"
   },
   "astrbot_plugin_knowledge_base": {
@@ -4732,7 +4732,7 @@
     ],
     "social_link": "https://github.com/miaoxutao123/",
     "stars": 40,
-    "updated_at": "2025-09-05T11:26:12Z",
+    "updated_at": "2025-09-05T11:59:31Z",
     "version": "v0.2.12"
   },
   "astrbot_plugin_sjzb": {
@@ -5695,8 +5695,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 117,
-    "updated_at": "2025-09-04T16:06:55Z",
+    "stars": 118,
+    "updated_at": "2025-09-05T12:49:44Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
