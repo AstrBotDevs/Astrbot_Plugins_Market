@@ -7,7 +7,7 @@
       "音乐"
     ],
     "stars": 1,
-    "updated_at": "2025-09-06T13:21:52Z",
+    "updated_at": "2025-09-06T15:02:57Z",
     "version": "2.1.1"
   },
   "astrbot_plugin_slg": {
@@ -519,7 +519,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 15,
-    "updated_at": "2025-09-05T18:02:09Z",
+    "updated_at": "2025-09-06T14:37:22Z",
     "version": "0.4.2"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -3799,8 +3799,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 12,
-    "updated_at": "2025-08-23T09:23:43Z",
+    "stars": 13,
+    "updated_at": "2025-09-06T15:03:57Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
