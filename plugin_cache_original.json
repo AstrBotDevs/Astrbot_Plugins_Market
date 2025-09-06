@@ -2346,8 +2346,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 51,
-    "updated_at": "2025-09-04T03:21:18Z",
+    "stars": 52,
+    "updated_at": "2025-09-06T08:56:12Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
@@ -3214,9 +3214,9 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 75,
-    "updated_at": "2025-09-06T03:02:01Z",
-    "version": "v2.0.0"
+    "stars": 76,
+    "updated_at": "2025-09-06T09:22:36Z",
+    "version": "v2.0.1"
   },
   "astrbot_plugin_help": {
     "author": "tinker",
@@ -3328,8 +3328,8 @@
       "群消息"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 3,
-    "updated_at": "2025-07-10T11:51:51Z",
+    "stars": 4,
+    "updated_at": "2025-09-06T08:46:32Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_OriginiumSeal": {
@@ -3588,8 +3588,8 @@
       "抖音",
       "视频解析"
     ],
-    "stars": 6,
-    "updated_at": "2025-08-11T10:57:30Z",
+    "stars": 7,
+    "updated_at": "2025-09-06T08:46:35Z",
     "version": "v1.4"
   },
   "meanig": {
@@ -3939,8 +3939,8 @@
     "tags": [
       "游戏"
     ],
-    "stars": 7,
-    "updated_at": "2025-08-13T08:22:18Z",
+    "stars": 8,
+    "updated_at": "2025-09-06T08:46:37Z",
     "version": "1.3.6"
   },
   "astrbot_plugin_SessionFaker": {
@@ -5018,8 +5018,8 @@
     "tags": [
       "功能"
     ],
-    "stars": 14,
-    "updated_at": "2025-08-13T13:32:43Z",
+    "stars": 15,
+    "updated_at": "2025-09-06T08:39:56Z",
     "version": "1.0.2"
   },
   "astrbot_plugin_moyuren": {
@@ -5587,8 +5587,8 @@
     "author": "yudengghost",
     "repo": "https://github.com/yudengghost/astrbot_plugin_public_servant",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-02-13T15:02:20Z",
+    "stars": 2,
+    "updated_at": "2025-09-06T08:36:56Z",
     "version": "v1.0"
   },
   "astrbot_plugin_comfyui": {
