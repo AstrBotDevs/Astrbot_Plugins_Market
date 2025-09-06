@@ -410,8 +410,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 15,
-    "updated_at": "2025-09-06T05:16:42Z",
+    "stars": 14,
+    "updated_at": "2025-09-06T05:59:12Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -3479,8 +3479,8 @@
     "tags": [
       "ccb"
     ],
-    "stars": 4,
-    "updated_at": "2025-08-30T18:52:00Z",
+    "stars": 5,
+    "updated_at": "2025-09-06T06:23:34Z",
     "version": "v0.1.0"
   },
   "astrbot-gold-plugin": {
