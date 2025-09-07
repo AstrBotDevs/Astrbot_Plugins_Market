@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-06T02:54:47.013Z",
-  "total_plugins": 11,
+  "updated_at": "2025-09-07T03:03:16.570Z",
+  "total_plugins": 14,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,6 +13,37 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
+    },
+    {
+      "name": "astrbot_plugin_bilibili_up_notifier",
+      "desc": "这是一个AstrBot的插件，用于检测B站UP主发布的新视频并自动发送通知给订阅的用户",
+      "author": "CN-CQ-Z",
+      "repo": "https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2647,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2647",
+      "created_at": "2025-09-06T08:49:17Z",
+      "updated_at": "2025-09-06T09:02:33Z"
+    },
+    {
+      "name": "astrbot_plugin_context_enhancer",
+      "desc": "简单直接的上下文增强插件，为LLM提供群聊历史和机器人回复记录，帮助AI更好地理解对话语境。",
+      "author": "木有知",
+      "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_enhancer",
+      "tags": [
+        "上下文增强",
+        "群聊分析",
+        "读空气",
+        "角色扮演",
+        "智能对话",
+        "LLM增强"
+      ],
+      "social_link": "https://github.com/muyouzhi6",
+      "issue_number": 2644,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2644",
+      "created_at": "2025-09-06T07:56:34Z",
+      "updated_at": "2025-09-06T14:05:49Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -42,7 +73,7 @@
       "issue_number": 2557,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
       "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-09-02T13:42:25Z"
+      "updated_at": "2025-09-06T15:49:03Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -118,6 +149,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2450",
       "created_at": "2025-08-15T18:18:32Z",
       "updated_at": "2025-08-25T11:38:08Z"
+    },
+    {
+      "name": "persistent_history",
+      "desc": "基本无需设置的简单永久记忆插件",
+      "author": "komeiji_shiki",
+      "repo": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
+      "tags": [
+        "记忆",
+        "永久记忆"
+      ],
+      "social_link": "",
+      "issue_number": 2649,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2649",
+      "created_at": "2025-09-06T20:45:23Z",
+      "updated_at": "2025-09-06T21:28:49Z"
     },
     {
       "name": "qftp",
