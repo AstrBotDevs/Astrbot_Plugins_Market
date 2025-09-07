@@ -303,7 +303,7 @@
     ],
     "social_link": "https://github.com/kjqwer",
     "stars": 3,
-    "updated_at": "2025-08-29T23:51:02Z",
+    "updated_at": "2025-09-07T12:32:58Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_lark_send_patcher": {
@@ -5246,7 +5246,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 17,
-    "updated_at": "2025-09-07T11:17:47Z",
+    "updated_at": "2025-09-07T12:29:59Z",
     "version": "v1.2.8"
   },
   "ai_memory": {
