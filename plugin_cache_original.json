@@ -1006,8 +1006,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "updated_at": "2025-08-26T13:03:02Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-09-07T17:37:54Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_error_pro": {
     "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
