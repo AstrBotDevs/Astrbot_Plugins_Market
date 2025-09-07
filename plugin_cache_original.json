@@ -68,8 +68,8 @@
     ],
     "social_link": "https://github.com/qa296",
     "stars": 0,
-    "updated_at": "2025-09-03T13:39:09Z",
-    "version": "v1.0"
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_recall_cancel": {
     "desc": "“你撤回了我就当你没发过”，当用户撤回触发LLM回应的消息时，如果LLM回复还未发送则取消发送。防止用户发错消息撤回后机器人仍然回复的情况，提升用户体验并避免资源浪费。",
@@ -123,8 +123,8 @@
       "画图",
       "AI绘画"
     ],
-    "stars": 16,
-    "updated_at": "2025-09-04T22:51:38Z",
+    "stars": 17,
+    "updated_at": "2025-09-07T06:04:46Z",
     "version": "v1.6"
   },
   "github_star_verify": {
@@ -1862,8 +1862,8 @@
       "web search"
     ],
     "social_link": "https://github.com/lxfight",
-    "stars": 20,
-    "updated_at": "2025-09-05T09:44:50Z",
+    "stars": 19,
+    "updated_at": "2025-09-07T05:46:07Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_textadventure": {
