@@ -5309,8 +5309,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 28,
-    "updated_at": "2025-08-31T13:57:30Z",
-    "version": "v1.4.10"
+    "updated_at": "2025-09-07T13:31:21Z",
+    "version": "v1.4.11"
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
