@@ -124,8 +124,8 @@
       "AI绘画"
     ],
     "stars": 17,
-    "updated_at": "2025-09-08T11:40:15Z",
-    "version": "v1.7"
+    "updated_at": "2025-09-08T16:26:57Z",
+    "version": "v1.8"
   },
   "github_star_verify": {
     "desc": "[aiocqhttp]使用 GitHub 仓库的 Star 状态作为入群验证条件，仅允许已 Star 指定仓库的用户留在群内。",
@@ -226,8 +226,8 @@
     ],
     "social_link": "http://www.tripleying.com/jojo",
     "stars": 2,
-    "updated_at": "2025-09-05T00:30:24Z",
-    "version": "v2.1.0"
+    "updated_at": "2025-09-08T15:42:02Z",
+    "version": "v2.1.1"
   },
   "astrbot_plugin_qun_album": {
     "desc": "[仅napcat>=4.8.100] 群相册插件，记录群友怪话",
@@ -350,8 +350,8 @@
     "repo": "https://github.com/ctwj/astrbot_plugin_urldb",
     "social_link": "https://pan.l9.lc",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-09-07T16:24:19Z",
+    "stars": 4,
+    "updated_at": "2025-09-08T15:38:50Z",
     "version": "v0.5"
   },
   "astrbot_plugin_furry_cg": {
@@ -1584,8 +1584,8 @@
       "余票"
     ],
     "author": "satori5555",
-    "stars": 3,
-    "updated_at": "2025-07-29T02:55:25Z",
+    "stars": 2,
+    "updated_at": "2025-09-08T15:30:27Z",
     "version": "v1.0"
   },
   "astrbot_plugin_78animesearch": {
