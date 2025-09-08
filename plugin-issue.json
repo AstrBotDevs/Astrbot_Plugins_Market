@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-07T03:03:16.570Z",
-  "total_plugins": 14,
+  "updated_at": "2025-09-08T03:07:38.217Z",
+  "total_plugins": 16,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -43,7 +43,7 @@
       "issue_number": 2644,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2644",
       "created_at": "2025-09-06T07:56:34Z",
-      "updated_at": "2025-09-06T14:05:49Z"
+      "updated_at": "2025-09-08T01:12:38Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -59,6 +59,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2125",
       "created_at": "2025-07-14T09:21:46Z",
       "updated_at": "2025-07-16T05:18:31Z"
+    },
+    {
+      "name": "astrbot_plugin_webdavimg",
+      "desc": "使用WebDAV进行存储与发送图片的AstrBot插件",
+      "author": "Yuki Soffd",
+      "repo": "https://github.com/Soffd/astrbot_plugin_webdavimg",
+      "tags": [
+        "工具",
+        "图库"
+      ],
+      "social_link": "",
+      "issue_number": 2658,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2658",
+      "created_at": "2025-09-07T14:52:00Z",
+      "updated_at": "2025-09-07T14:52:45Z"
     },
     {
       "name": "astrbot_plugin_xiuxian",
@@ -178,6 +193,22 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2490",
       "created_at": "2025-08-18T15:26:13Z",
       "updated_at": "2025-08-24T04:26:00Z"
+    },
+    {
+      "name": "randomtoken",
+      "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
+      "author": "LumineStory",
+      "repo": "https://github.com/oyxning/astrabot-plugin-randomtoken",
+      "tags": [
+        "token",
+        "generator",
+        "management"
+      ],
+      "social_link": "",
+      "issue_number": 2662,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2662",
+      "created_at": "2025-09-08T00:57:20Z",
+      "updated_at": "2025-09-08T00:58:08Z"
     },
     {
       "name": "server_status_monitor",
