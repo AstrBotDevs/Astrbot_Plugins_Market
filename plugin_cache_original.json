@@ -424,7 +424,7 @@
     "version": "v0.0.1"
   },
   "astrbot_plugin_lmarena": {
-    "desc": "对接 LMArena 调用 nano_banana 等模型进行生图，如手办化",
+    "desc": "全面对接lmarena(模型竞技场)，免费无限调用模型，如调用nano-banana进行手办化",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_lmarena",
     "tags": [
@@ -588,8 +588,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 17,
-    "updated_at": "2025-09-08T02:31:33Z",
+    "stars": 18,
+    "updated_at": "2025-09-08T05:41:56Z",
     "version": "1.2.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -643,7 +643,7 @@
     "version": "v1.0.0"
   },
   "astrbot_plugin_wakepro": {
-    "desc": "更强大的唤醒增强插件：提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制",
+    "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_wakepro",
     "tags": [
@@ -784,7 +784,7 @@
     "version": "1.0.0"
   },
   "astrbot_plugin_qzone": {
-    "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说、点赞、评论等",
+    "desc": "QQ空间对接插件, 可自动发说说、表白墙投稿审核、查看说说",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_qzone",
     "tags": [
@@ -819,7 +819,7 @@
     "version": "v1.0.1"
   },
   "astrbot_plugin_record_converter": {
-    "desc": "QQ 语音转化插件，包括语音转文件，文件转语音，克服了 QQ 语音无法转发的问题",
+    "desc": "QQ 语音转化插件，包括语音转文件，文件转语音，同时内置QQ声聊实现TTS",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_record_converter",
     "tags": [
@@ -998,11 +998,11 @@
     "version": "v1.1.3"
   },
   "astrbot_plugin_screenctrl": {
-    "desc": "屏幕控制插件，支持截屏、点击、按键等",
+    "desc": "截屏插件，支持单次截屏、连续截屏、定时截屏，需将bot挂载在有屏幕的设备上",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_screenctrl",
     "tags": [
-      "屏幕控制"
+      "截屏"
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
@@ -2340,7 +2340,7 @@
   },
   "astrbot_plugin_music": {
     "author": "Zhalslar",
-    "desc": "点歌插件，支持按钮点歌、ai点歌、音乐卡片播放、语音播放、热评、歌词、歌单、多音源、无需VIP、全平台兼容",
+    "desc": "点歌插件，支持音乐卡片、语音播放、热评、歌词、歌单、无需VIP、全平台兼容",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_music",
     "tags": [
       "音乐"
@@ -2916,7 +2916,7 @@
   },
   "astrbot_plugin_broadcast": {
     "author": "Zhalslar",
-    "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(支持任何格式消息)",
+    "desc": "[仅aiocqhttp] 广播助手，帮助你向所有群聊广播消息(理论上支持任何格式消息)",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_broadcast",
     "tags": [
       "广播"
@@ -2928,7 +2928,7 @@
   },
   "astrbot_plugin_nobot": {
     "author": "Zhalslar",
-    "desc": "[仅 aiocqhttp]] 找出并禁言群里的人机!",
+    "desc": "[仅 aiocqhttp] 找出并禁言群里的人机!",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "tags": [
       "人机"
@@ -3921,7 +3921,7 @@
     "version": "v1.1.3"
   },
   "astrbot_plugin_QQAdmin": {
-    "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、撤回消息等等",
+    "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏检测、宵禁等等",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
@@ -4041,7 +4041,7 @@
     "version": "v2.3"
   },
   "astrbot_plugin_QQProfile": {
-    "desc": "[仅aiocqhttp]配置bot的头像、昵称、签名、状态、机型等QQ资料",
+    "desc": "[仅aiocqhttp] 通过命令配置bot的头像、昵称、签名、状态, 切换人格时同步改变头像、昵称",
     "author": "Zhalslar",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
     "tags": [
@@ -4049,8 +4049,8 @@
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
     "stars": 5,
-    "updated_at": "2025-08-03T01:19:47Z",
-    "version": "v1.1.1"
+    "updated_at": "2025-09-08T05:34:06Z",
+    "version": "v1.1.2"
   },
   "astrbot_plugin_mcping": {
     "desc": "获取 Minecraft 服务器的状态（图片展示版）",
