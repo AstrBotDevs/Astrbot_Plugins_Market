@@ -246,8 +246,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 11,
-    "updated_at": "2025-09-07T01:04:17Z",
+    "stars": 12,
+    "updated_at": "2025-09-08T02:29:45Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -518,8 +518,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 16,
-    "updated_at": "2025-09-07T14:04:42Z",
+    "stars": 17,
+    "updated_at": "2025-09-08T03:00:27Z",
     "version": "0.4.2"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -588,8 +588,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 16,
-    "updated_at": "2025-08-29T05:47:45Z",
+    "stars": 17,
+    "updated_at": "2025-09-08T02:31:33Z",
     "version": "1.2.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -1006,8 +1006,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 7,
-    "updated_at": "2025-09-07T17:37:54Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-09-08T02:27:18Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_error_pro": {
     "desc": "屏蔽机器人的错误消息，选择是否发送给管理员，支持AI友好解释。",
@@ -5821,8 +5821,8 @@
     "author": "喵喵",
     "repo": "https://github.com/miaoxutao123/astrbot_plugin_miaomiao",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-05-15T10:13:08Z",
+    "stars": 10,
+    "updated_at": "2025-09-08T03:05:21Z",
     "version": "v1.2.4"
   },
   "astrbot_plugin_image_video_understanding_Qwen2.5_VL": {
