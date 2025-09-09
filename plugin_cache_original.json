@@ -544,8 +544,8 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "stars": 0,
-    "updated_at": "2025-09-03T11:49:52Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-09-09T13:57:26Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_immersive_control": {
     "desc": "🎮 给 AI 植入神奇小玩具的娱乐插件，3分钟沉浸式互动体验。",
@@ -3214,8 +3214,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 76,
-    "updated_at": "2025-09-06T12:06:29Z",
+    "stars": 77,
+    "updated_at": "2025-09-09T13:51:25Z",
     "version": "v2.0.2"
   },
   "astrbot_plugin_help": {
@@ -5246,7 +5246,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 17,
-    "updated_at": "2025-09-07T14:06:48Z",
+    "updated_at": "2025-09-09T14:27:16Z",
     "version": "v1.2.9"
   },
   "ai_memory": {
