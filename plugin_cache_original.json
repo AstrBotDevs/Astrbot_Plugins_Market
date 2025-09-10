@@ -2730,8 +2730,8 @@
       "戳"
     ],
     "stars": 3,
-    "updated_at": "2025-08-24T06:03:02Z",
-    "version": "v1.1"
+    "updated_at": "2025-09-10T08:07:21Z",
+    "version": "v1.3"
   },
   "astrbot_plugin_sql_history": {
     "author": "LW",
@@ -4790,8 +4790,8 @@
     "tags": [
       "主动对话"
     ],
-    "stars": 5,
-    "updated_at": "2025-08-20T03:10:51Z",
+    "stars": 6,
+    "updated_at": "2025-09-10T07:42:22Z",
     "version": "v2.3.0"
   },
   "astrbot_plugin_sensoji": {
