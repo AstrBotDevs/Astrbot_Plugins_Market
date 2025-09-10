@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-09T03:02:31.366Z",
-  "total_plugins": 19,
+  "updated_at": "2025-09-10T02:55:51.728Z",
+  "total_plugins": 23,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -75,6 +75,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2262",
       "created_at": "2025-07-29T14:00:45Z",
       "updated_at": "2025-09-08T12:01:04Z"
+    },
+    {
+      "name": "astrbot_plugin_sha",
+      "desc": "获取GitHub仓库最后5次提交SHA的插件",
+      "author": "IGCrystal",
+      "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
+      "tags": [
+        "工具",
+        "GitHub"
+      ],
+      "social_link": "https://wenturc.com",
+      "issue_number": 2678,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2678",
+      "created_at": "2025-09-09T05:59:21Z",
+      "updated_at": "2025-09-09T09:19:17Z"
     },
     {
       "name": "astrbot_plugin_shoubanhua",
@@ -165,6 +180,18 @@
       "social_link": ""
     },
     {
+      "name": "gemini-25-image-command",
+      "desc": "修改自喵喵的openrouter生图插件。使用(默认openrouter)openai格式的免费api生成图片(使用astrbot命令调用插件)",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/AstrBot_plugin_gemini2point5image-command",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2685,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2685",
+      "created_at": "2025-09-09T11:06:23Z",
+      "updated_at": "2025-09-09T11:08:44Z"
+    },
+    {
       "name": "GUGUblack",
       "desc": "用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示",
       "author": "YUNYUN",
@@ -178,6 +205,20 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2665",
       "created_at": "2025-09-08T03:37:55Z",
       "updated_at": "2025-09-08T03:41:47Z"
+    },
+    {
+      "name": "input_state_by_napcat",
+      "desc": "[仅NapCat]输入状态显示",
+      "author": "ctrlkk",
+      "repo": "https://github.com/ctrlkk/astrbot_plugin_input_state_by_nc",
+      "tags": [
+        "napcat"
+      ],
+      "social_link": "",
+      "issue_number": 2681,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2681",
+      "created_at": "2025-09-09T09:08:22Z",
+      "updated_at": "2025-09-09T09:10:32Z"
     },
     {
       "name": "jav_info",
@@ -208,6 +249,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2450",
       "created_at": "2025-08-15T18:18:32Z",
       "updated_at": "2025-08-25T11:38:08Z"
+    },
+    {
+      "name": "model_mcp_bridge",
+      "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
+      "author": "Dt8333",
+      "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2688,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2688",
+      "created_at": "2025-09-09T14:56:00Z",
+      "updated_at": "2025-09-09T14:56:58Z"
     },
     {
       "name": "persistent_history",
