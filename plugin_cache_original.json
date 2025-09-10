@@ -332,8 +332,8 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-31T07:54:10Z",
-    "version": "v2.1"
+    "updated_at": "2025-09-10T15:05:11Z",
+    "version": "v2.2"
   },
   "asbot_plugin_furry-API-hy": {
     "desc": "调用趣绮梦云黑API的群黑云查询踢出还有进群自动检测黑云有问题自动踢出的插件",
@@ -1922,8 +1922,8 @@
       "爱发电"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-08-16T08:43:45Z",
+    "stars": 5,
+    "updated_at": "2025-09-10T14:58:54Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_runes": {
@@ -2887,8 +2887,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "updated_at": "2025-09-03T03:01:49Z",
-    "version": "v1.1.1"
+    "updated_at": "2025-09-10T14:48:09Z",
+    "version": "v1.1.2"
   },
   "astrbot_plugin_jm_cosmos": {
     "author": "GEMILUXVII",
