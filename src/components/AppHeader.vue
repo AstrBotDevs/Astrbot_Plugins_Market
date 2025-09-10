@@ -1,5 +1,6 @@
 <template>
-  <header class="app-header">
+  <!-- 完整版 Header -->
+  <header ref="fullHeader" class="app-header">
     <!-- 背景装饰元素 -->
     <div class="header-bg-decoration">
       <div class="floating-circle circle-1"></div>
@@ -34,17 +35,103 @@
       :search-query="searchQuery"
       :current-page="currentPage"
       :sort-by="sortBy"
+      :on-header="true"
       @update:search-query="handleSearchQueryChange"
       @update:current-page="handleCurrentPageChange"
       @update:sort-by="handleSortByChange"
     />
   </header>
+
+  <!-- 简化版 Sticky Header -->
+  <header 
+    class="sticky-header" 
+    :class="{ 'sticky-header--visible': showStickyHeader, 'is-search-open': isMobileSearchOpen }"
+  >
+    <div class="sticky-header-content">
+      <div class="sticky-header-left">
+        <img src="/logo.webp" alt="Astrbot Logo" class="sticky-logo" width="32" height="32">
+        <h2 class="sticky-title" :class="{ 'hidden-on-search': isMobileSearchOpen }">AstrBot 插件市场</h2>
+      </div>
+      
+      <div class="sticky-header-center">
+        <search-toolbar
+          class="sticky-desktop-toolbar"
+          :search-query="searchQuery"
+          :current-page="currentPage"
+          :sort-by="sortBy"
+          :compact="true"
+          @update:search-query="handleSearchQueryChange"
+          @update:current-page="handleCurrentPageChange"
+          @update:sort-by="handleSortByChange"
+        />
+        <div class="mobile-inline-search" :class="{ 'is-open': isMobileSearchOpen }" aria-hidden="false">
+          <n-input
+            size="medium"
+            :value="searchQuery"
+            @update:value="handleSearchQueryChange"
+            placeholder="搜索插件"
+            clearable
+            autofocus
+          />
+        </div>
+      </div>
+      
+      <div class="sticky-header-right">
+        <div class="sticky-actions">
+          <!-- Mobile controls: icons grouped with theme toggle on the right -->
+          <div class="sticky-mobile-controls">
+            <n-button
+              quaternary
+              circle
+              size="medium"
+              @click="toggleMobileSearch"
+              :aria-expanded="isMobileSearchOpen"
+              :aria-label="isMobileSearchOpen ? '关闭搜索' : '打开搜索'"
+            >
+              <n-icon size="18">
+                <close-outline v-if="isMobileSearchOpen" />
+                <search-outline v-else />
+              </n-icon>
+            </n-button>
+            
+            <n-dropdown
+              trigger="click"
+              placement="bottom"
+              :options="mobileSortOptions"
+              :show="isMobileSelectOpen"
+              @update:show="isMobileSelectOpen = $event"
+              @select="handleMobileDropdownSelect"
+            >
+              <n-button quaternary circle size="medium" :aria-label="`当前排序：${sortBy}`">
+                <n-icon size="18"><filter-sharp /></n-icon>
+              </n-button>
+            </n-dropdown>
+          </div>
+
+          <n-button
+            quaternary
+            circle
+            size="medium"
+            @click="handleThemeChange(!modelValue)"
+            :aria-label="modelValue ? '切换到浅色主题' : '切换到深色主题'"
+            class="theme-toggle-btn"
+          >
+            <n-icon size="18">
+              <moon-sharp v-if="modelValue" />
+              <sunny-sharp v-else />
+            </n-icon>
+          </n-button>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="sticky-header-spacer" aria-hidden="true"></div>
 </template>
 
 <script setup>
-import { computed, onMounted } from 'vue'
-import { NSpace, NSwitch, NIcon } from 'naive-ui'
-import { MoonSharp, SunnySharp } from '@vicons/ionicons5'
+import { computed, onMounted, ref, onUnmounted, h } from 'vue'
+import { NSpace, NSwitch, NIcon, NButton, NPopover, NInput, NSelect, NDropdown } from 'naive-ui'
+import { MoonSharp, SunnySharp, SearchOutline, FilterSharp, CloseOutline, CheckmarkSharp } from '@vicons/ionicons5'
 import SearchToolbar from './SearchToolbar.vue'
 
 const props = defineProps({
@@ -80,6 +167,57 @@ const handleSortByChange = (value) => {
   emit('update:sort-by', value)
 }
 
+// 响应式数据
+const fullHeader = ref(null)
+const showStickyHeader = ref(false)
+const isMobileSearchOpen = ref(false)
+const isMobileSelectOpen = ref(false)
+
+const sortOptions = [
+  { label: '默认排序', value: 'default' },
+  { label: '随机推荐', value: 'random' },
+  { label: '按更新时间', value: 'updated' },
+  { label: '按 Star 数量', value: 'stars' }
+]
+
+// 移动端下拉（扁平层级，不嵌套再选择器），动态标注当前选中项
+const mobileSortOptions = computed(() => {
+  const make = (text, key) => ({
+    key,
+    label: () => h(
+      'div',
+      { style: 'display:flex;align-items:center;justify-content:space-between;width:100%;' },
+      [
+        h('span', null, text),
+        (props.sortBy === key)
+          ? h(
+              NIcon,
+              { size: 16, style: 'color: var(--primary-color);' },
+              { default: () => h(CheckmarkSharp) }
+            )
+          : null
+      ]
+    )
+  })
+  return [
+    make('默认排序', 'default'),
+    make('随机推荐', 'random'),
+    make('按更新时间', 'updated'),
+    make('按 Star 数量', 'stars')
+  ]
+})
+
+const handleMobileDropdownSelect = (key) => {
+  handleSortByChange(key)
+}
+
+const toggleMobileSearch = () => {
+  isMobileSearchOpen.value = !isMobileSearchOpen.value
+}
+const toggleMobileSelect = () => {
+  isMobileSelectOpen.value = !isMobileSelectOpen.value
+}
+
 const railStyle = ({ focused, checked }) => {
   const style = {}
   if (checked) {
@@ -93,8 +231,28 @@ const railStyle = ({ focused, checked }) => {
   return style
 }
 
+// 滚动监听功能
+const handleScroll = () => {
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    // 手机端：始终显示简化 header
+    showStickyHeader.value = true
+    return
+  }
+  if (!fullHeader.value) return
+  const rect = fullHeader.value.getBoundingClientRect()
+  showStickyHeader.value = rect.bottom <= 0
+}
+
 onMounted(() => {
-  // 移除了下拉菜单样式的动态更新
+  // 添加滚动监听
+  window.addEventListener('scroll', handleScroll, { passive: true })
+  // 初始检查
+  handleScroll()
+})
+
+onUnmounted(() => {
+  // 清理滚动监听
+  window.removeEventListener('scroll', handleScroll)
 })
 </script>
 
@@ -569,5 +727,280 @@ onMounted(() => {
 /* 暗色主题适配 */
 :global(.dark) .floating-circle {
   background: rgba(90, 155, 212, 0.1);
+}
+
+/* ===== Sticky Header 样式 ===== */
+.sticky-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: none;
+  backdrop-filter: blur(28px) saturate(140%);
+  -webkit-backdrop-filter: blur(28px) saturate(140%) !important;
+  background: var(--sticky-bg);
+  border-bottom: 2px solid var(--border-base);
+  box-shadow: none;
+  box-sizing: border-box;
+}
+
+.sticky-header--visible {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.sticky-header-spacer {
+  height: 0;
+}
+
+.sticky-header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px; /* 移除上下内边距，靠固定高度居中 */
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 20px;
+  height: 100%;
+}
+
+.sticky-header-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.sticky-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.sticky-title {
+  margin: 0;
+  font-size: 1.4em;
+  font-weight: 600;
+  color: var(--text-primary);
+  font-family: 'Lexend', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  white-space: nowrap;
+}
+
+.sticky-header-center {
+  flex: 1;
+  max-width: 500px;
+  min-width: 0;
+}
+
+.sticky-desktop-toolbar {
+  display: block;
+}
+
+.sticky-mobile-controls {
+  display: none;
+  align-items: center;
+  gap: 8px;
+}
+
+.sticky-header-right {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.sticky-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.mobile-inline-search {
+  display: none;
+}
+
+/* 展开/收缩动画 */
+.mobile-search-enter-from,
+.mobile-search-leave-to {
+  opacity: 0;
+  transform: scaleY(0.92);
+}
+.mobile-search-enter-active,
+.mobile-search-leave-active {
+  transition: all 0.22s ease;
+  transform-origin: top;
+}
+.mobile-search-enter-to,
+.mobile-search-leave-from {
+  opacity: 1;
+  transform: scaleY(1);
+}
+
+.theme-toggle-btn {
+  color: var(--text-primary) !important;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  background: var(--bg-hover) !important;
+  transform: scale(1.05);
+}
+
+/* 深色主题适配由 --sticky-bg 变量控制 */
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  /* 手机端：隐藏完整 header，仅使用简化 header */
+  .app-header {
+    display: none;
+  }
+  .sticky-header-spacer {
+    height: 72px; /* 与手机端 sticky header 高度一致，避免遮挡内容 */
+  }
+  .sticky-header-content {
+    padding: 0 16px; /* 取消上下内边距，改用固定高度垂直居中 */
+    gap: 12px;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .sticky-title {
+    font-size: 1.35em;
+    line-height: 1.1; /* 降低行高，减小下方视觉留白 */
+  }
+  
+  .sticky-logo {
+    width: 36px;
+    height: 36px;
+  }
+  
+  .sticky-header-center {
+    max-width: none;
+  }
+
+  /* Mobile: keep icons, logo, theme button in one row */
+  .sticky-header-content {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+  }
+  .sticky-header {
+    height: 72px; /* 固定高度，确保上下留白对称 */
+  }
+  .sticky-desktop-toolbar {
+    display: none;
+  }
+  .sticky-mobile-controls {
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  /* 改为绝对定位覆盖中列，避免撑高 header */
+  .sticky-header-center {
+    position: relative;
+  }
+
+  .mobile-inline-search {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%) scaleY(0.96);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 0.22s ease, opacity 0.18s ease;
+  }
+
+  .mobile-inline-search.is-open {
+    opacity: 1;
+    transform: translateY(-50%) scaleY(1);
+    pointer-events: auto;
+  }
+
+  .mobile-inline-search :deep(.n-input) {
+    width: 100%;
+    background: var(--bg-card) !important;
+    border-width: 2px !important;
+    border-style: solid !important;
+    border-color: var(--border-base) !important;
+    border-radius: 10px !important;
+    box-shadow: none !important;
+    color: var(--text-primary) !important;
+    min-height: 42px !important;
+  }
+
+  :deep(.sticky-header .n-button) {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .mobile-inline-search :deep(.n-input:not(.n-input--disabled):hover) {
+    border-color: var(--primary-color) !important;
+    background: var(--bg-hover) !important;
+  }
+
+  .mobile-inline-search :deep(.n-input.n-input--focus) {
+    border-color: var(--primary-color) !important;
+    background: var(--bg-hover) !important;
+  }
+
+  .mobile-inline-search :deep(input) {
+    color: var(--text-primary) !important;
+    line-height: 38px !important; /* 贴合容器高度 */
+  }
+
+  .mobile-inline-search :deep(input::placeholder) {
+    color: var(--text-tertiary) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .sticky-header-content {
+    padding: 0 14px; /* 与上一区间对齐，去除上下内边距 */
+    gap: 8px;
+    height: 100%;
+  }
+  
+  .sticky-title {
+    font-size: 1.2em;
+  }
+  
+  .sticky-logo {
+    width: 34px;
+    height: 34px;
+  }
+  
+  .theme-toggle-btn {
+    width: 36px !important;
+    height: 36px !important;
+  }
+  .sticky-header {
+    height: 68px; /* 固定高度，完全去除上下不平衡 */
+  }
+
+  /* 仅在超小屏幕且搜索展开时隐藏标题，并释放空间 */
+  .hidden-on-search {
+    display: none !important;
+  }
+}
+
+.mobile-popover-body {
+  padding: 8px;
+  min-width: 220px;
+}
+
+/* 桌面端恢复上下内边距与自适应高度 */
+@media (min-width: 769px) {
+  .sticky-header-content {
+    padding: 16px 24px; /* 更厚的上下间距与更宽的左右留白 */
+    height: auto;
+  }
 }
 </style>

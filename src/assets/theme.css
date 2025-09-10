@@ -45,6 +45,9 @@
   --input-border-hover: rgba(255, 255, 255, 0.3);
   --input-border-focus: rgba(255, 255, 255, 0.4);
   
+  /* Sticky Header */
+  --sticky-bg: rgba(255, 255, 255, 0.6);
+  
   /* 下拉菜单变量 */
   --dropdown-bg: #ffffff;
   --dropdown-text: #0f172a;
@@ -145,6 +148,9 @@
   --input-border: rgba(255, 255, 255, 0.15);
   --input-border-hover: rgba(255, 255, 255, 0.25);
   --input-border-focus: rgba(90, 155, 212, 0.5);
+  
+  /* Sticky Header */
+  --sticky-bg: rgba(30, 41, 59, 0.6);
   
   /* 下拉菜单变量 */
   --dropdown-bg: #1e293b;

@@ -1,12 +1,12 @@
 <template>
-  <div class="search-container">
-    <div class="search-wrapper">
-      <div class="custom-search-box">
+  <div class="search-container" :class="{ 'search-container--compact': compact, 'search-container--header': onHeader }">
+    <div class="search-wrapper" :class="{ 'search-wrapper--compact': compact }">
+      <div class="custom-search-box" :class="{ 'custom-search-box--compact': compact }">
         <n-icon class="search-icon"><search /></n-icon>
         <input
           :value="searchQuery"
           @input="handleSearchInput"
-          placeholder="搜索插件"
+          :placeholder="compact ? '搜索' : '搜索插件'"
           class="search-input"
         />
         <n-icon 
@@ -19,10 +19,11 @@
       </div>
       <n-select
         v-model:value="sortBy"
-        :options="sortOptions"
+        :options="compact ? compactSortOptions : sortOptions"
         @update:value="handleSortChange"
-        size="medium"
+        :size="compact ? 'small' : 'medium'"
         class="sort-select"
+        :class="{ 'sort-select--compact': compact }"
       />
     </div>
   </div>
@@ -36,7 +37,15 @@ import { Search, CloseCircle } from '@vicons/ionicons5'
 const props = defineProps({
   searchQuery: String,
   currentPage: Number,
-  sortBy: String
+  sortBy: String,
+  compact: {
+    type: Boolean,
+    default: false
+  },
+  onHeader: {
+    type: Boolean,
+    default: false
+  }
 })
 
 const emit = defineEmits(['update:searchQuery', 'update:currentPage', 'update:sortBy'])
@@ -46,6 +55,13 @@ const sortOptions = [
   { label: '随机推荐', value: 'random' },
   { label: '按更新时间', value: 'updated' },
   { label: '按 Star 数量', value: 'stars' }
+]
+
+const compactSortOptions = [
+  { label: '默认', value: 'default' },
+  { label: '随机', value: 'random' },
+  { label: '时间', value: 'updated' },
+  { label: 'Star', value: 'stars' }
 ]
 
 const sortBy = ref(props.sortBy)
@@ -191,7 +207,7 @@ const handleClearSearch = () => {
   width: 100%;
   height: 44px;
   background: var(--input-bg, rgba(0, 0, 0, 0.03));
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  border: 2px solid rgba(0, 0, 0, 0.08);
   border-radius: 12px;
   transition: all 0.2s ease;
   overflow: hidden;
@@ -336,5 +352,189 @@ const handleClearSearch = () => {
     border-color: var(--input-border);
     box-shadow: var(--shadow-sm);
   }
+}
+
+/* ===== Compact 模式样式 ===== */
+.search-container--compact {
+  margin: 0;
+  max-width: 100%;
+}
+
+.search-wrapper--compact {
+  gap: 8px;
+}
+
+.custom-search-box--compact {
+  height: 36px;
+  padding: 0 12px;
+  gap: 8px;
+  border-radius: 8px;
+  background: var(--bg-card);
+  border: 2px solid var(--border-base);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: none;
+}
+
+.custom-search-box--compact .search-icon {
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+.custom-search-box--compact .search-input {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.custom-search-box--compact .search-input::placeholder {
+  color: var(--text-tertiary);
+  opacity: 0.8;
+}
+
+.custom-search-box--compact .clear-icon {
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+.sort-select--compact {
+  width: 80px;
+}
+
+:deep(.sort-select--compact .n-base-selection) {
+  height: 36px !important;
+  background: var(--bg-card) !important;
+  border: 2px solid var(--border-base) !important;
+  border-radius: 8px !important;
+  backdrop-filter: blur(10px) !important;
+  -webkit-backdrop-filter: blur(10px) !important;
+  box-shadow: none !important;
+}
+
+:deep(.sort-select--compact .n-base-selection:hover) {
+  background: var(--bg-hover) !important;
+  border-color: var(--primary-color) !important;
+}
+
+:deep(.sort-select--compact .n-base-selection:focus-within) {
+  background: var(--bg-card) !important;
+  border-color: var(--primary-color) !important;
+  box-shadow: none !important;
+}
+
+:deep(.sort-select--compact .n-base-selection-label) {
+  height: 36px !important;
+  font-size: 13px !important;
+  color: var(--text-secondary) !important;
+  background: var(--bg-card) !important;
+  padding: 0 8px !important;
+}
+
+/* Ensure compact input content matches search text color */
+:deep(.sort-select--compact .n-base-selection-input__content) {
+  color: var(--text-secondary) !important;
+}
+:deep(.sort-select--compact .n-base-selection-placeholder) {
+  color: var(--text-tertiary) !important;
+}
+
+:deep(.sort-select--compact .n-base-selection-overlay) {
+  background: var(--bg-card) !important;
+  box-shadow: none !important;
+}
+
+/* 深色主题下的 compact 模式样式已通过 CSS 变量自动适配 */
+/* ===== Overrides: keep transparent look in full header, theme-aware text ===== */
+.search-container--header :deep(.sort-select .n-base-selection-overlay) {
+  background: var(--input-bg) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection-overlay:hover) {
+  background: var(--input-bg-hover) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection:focus-within .n-base-selection-overlay) {
+  background: var(--input-bg-focus) !important;
+}
+
+.search-container--header :deep(.sort-select .n-base-selection-label) {
+  color: var(--input-text) !important;
+  background: var(--input-bg) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection:hover .n-base-selection-label) {
+  background: var(--input-bg-hover) !important;
+  color: var(--input-text) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection:focus-within .n-base-selection-label) {
+  background: var(--input-bg-focus) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection-input__content) {
+  color: var(--input-text) !important;
+}
+.search-container--header :deep(.sort-select .n-base-selection-placeholder) {
+  color: var(--input-placeholder) !important;
+}
+
+.search-container--header .custom-search-box {
+  background: var(--input-bg) !important;
+  border-color: var(--input-border) !important;
+}
+.search-container--header .custom-search-box:hover {
+  background: var(--input-bg-hover) !important;
+  border-color: var(--input-border-hover) !important;
+}
+.search-container--header .custom-search-box:focus-within {
+  background: var(--input-bg-focus) !important;
+}
+
+.search-container--header :deep(.n-base-select-menu) {
+  background: var(--input-bg) !important;
+  color: var(--text-primary) !important;
+}
+.search-container--header :deep(.n-base-select-option:hover) {
+  background: var(--input-bg-hover) !important;
+}
+
+/* Compact: ensure visible border in sticky header */
+.search-container--compact .custom-search-box {
+  border: 2px solid var(--border-base);
+}
+
+/* Strengthen compact hover/focus border color */
+.custom-search-box--compact:hover {
+  background: var(--bg-hover);
+  border-color: var(--primary-color) !important;
+}
+.custom-search-box--compact:focus-within {
+  background: var(--bg-card);
+  border-color: var(--primary-color) !important;
+  box-shadow: none;
+}
+
+/* Final color overrides to ensure correctness */
+/* Full header: white-like text via input variables */
+.search-container--header :deep(.n-base-selection-input__content),
+.search-container--header :deep(.n-base-selection-label) {
+  color: var(--input-text) !important;
+}
+.search-container--header :deep(.n-base-selection-placeholder) {
+  color: var(--input-placeholder) !important;
+}
+
+/* Compact: softer gray text to match search */
+.search-container--compact :deep(.n-base-selection-input__content),
+.search-container--compact :deep(.n-base-selection-label) {
+  color: var(--text-secondary) !important;
+}
+.search-container--compact :deep(.n-base-selection-placeholder) {
+  color: var(--text-tertiary) !important;
+}
+
+/* Full header: borderless search box */
+.search-container--header .custom-search-box {
+  border: none !important;
+}
+.search-container--header .custom-search-box:hover {
+  border: none !important;
+}
+.search-container--header .custom-search-box:focus-within {
+  border: none !important;
 }
 </style>
