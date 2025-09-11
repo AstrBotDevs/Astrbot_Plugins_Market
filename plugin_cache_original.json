@@ -341,8 +341,8 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-hy",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-26T15:35:15Z",
-    "version": "v3.5.0"
+    "updated_at": "2025-09-11T13:58:11Z",
+    "version": "v3.5.1"
   },
   "astrbot_plugin_urldb": {
     "desc": "为 [老九网盘数据库系统](https://github.com/ctwj/urldb) 设计的AstrBot插件，支持被@时搜索功能。",
@@ -360,7 +360,7 @@
     "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-09-05T06:38:09Z",
+    "updated_at": "2025-09-11T14:13:06Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_furry_cgsjk": {
@@ -663,8 +663,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 13,
-    "updated_at": "2025-09-10T13:31:04Z",
+    "stars": 14,
+    "updated_at": "2025-09-11T13:36:08Z",
     "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
@@ -1773,8 +1773,8 @@
     "desc": "三角洲鼠鼠偷吃模拟器（简易）",
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
-    "stars": 24,
-    "updated_at": "2025-09-02T15:52:26Z",
+    "stars": 23,
+    "updated_at": "2025-09-11T13:48:38Z",
     "version": "v2.5.6"
   },
   "astrbot_plugin_Astrsupermarket": {
