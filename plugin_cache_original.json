@@ -2491,7 +2491,7 @@
     ],
     "social_link": "https://github.com/Angus-fw",
     "stars": 16,
-    "updated_at": "2025-09-11T01:58:04Z",
+    "updated_at": "2025-09-11T03:30:22Z",
     "version": "v1.1.5"
   },
   "astrbot_plugin_timetask": {
@@ -5246,8 +5246,8 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 17,
-    "updated_at": "2025-09-09T14:27:16Z",
-    "version": "v1.2.9"
+    "updated_at": "2025-09-11T03:58:31Z",
+    "version": "v1.3.1"
   },
   "ai_memory": {
     "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
