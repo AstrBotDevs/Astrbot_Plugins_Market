@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-10T02:55:51.728Z",
-  "total_plugins": 23,
+  "updated_at": "2025-09-11T03:00:59.312Z",
+  "total_plugins": 27,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -43,7 +43,23 @@
       "issue_number": 2644,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2644",
       "created_at": "2025-09-06T07:56:34Z",
-      "updated_at": "2025-09-08T12:58:33Z"
+      "updated_at": "2025-09-11T02:15:59Z"
+    },
+    {
+      "name": "astrbot_plugin_fuckanka",
+      "desc": "[仅限aiocqhttp] 搬史二号，监听群聊转发聊天记录 文本 图片 视频，自带查重缓存",
+      "author": "ali",
+      "repo": "https://github.com/Ywjws/astrbot_plugin_Forpost",
+      "tags": [
+        "搬史",
+        "防撤回",
+        "转发"
+      ],
+      "social_link": "",
+      "issue_number": 2701,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
+      "created_at": "2025-09-10T06:55:08Z",
+      "updated_at": "2025-09-10T07:01:14Z"
     },
     {
       "name": "astrbot_plugin_group_chat",
@@ -59,6 +75,23 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2672",
       "created_at": "2025-09-08T13:33:08Z",
       "updated_at": "2025-09-08T14:03:51Z"
+    },
+    {
+      "name": "astrbot_plugin_poker_game",
+      "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
+      "author": "山萘",
+      "repo": "https://github.com/shannai37/astrbot_plugin_poker_game",
+      "tags": [
+        "游戏",
+        "德州扑克",
+        "多人",
+        "积分系统"
+      ],
+      "social_link": "",
+      "issue_number": 2706,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2706",
+      "created_at": "2025-09-10T17:57:12Z",
+      "updated_at": "2025-09-10T18:08:44Z"
     },
     {
       "name": "astrbot_plugin_pollinations_images",
@@ -105,6 +138,21 @@
       "social_link": ""
     },
     {
+      "name": "astrbot_plugin_sleep_tracker",
+      "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
+      "author": "SHOOTING-STAR-C",
+      "repo": "https://github.com/SHOOTING-STAR-C/astrbot_plugin_sleep_tracker",
+      "tags": [
+        "睡眠",
+        "记录"
+      ],
+      "social_link": "",
+      "issue_number": 2703,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2703",
+      "created_at": "2025-09-10T12:08:19Z",
+      "updated_at": "2025-09-10T12:10:01Z"
+    },
+    {
       "name": "astrbot_plugin_stock",
       "desc": "基于AkShare和Binance的股市行情查询插件，支持数字货币、A股、港股、美股及指数的实时行情、历史数据和K线图表",
       "author": "anchor",
@@ -120,21 +168,6 @@
       "updated_at": "2025-07-16T05:18:31Z"
     },
     {
-      "name": "astrbot_plugin_xiuxian",
-      "desc": "基于astrbot框架的文字修仙游戏",
-      "author": "oldPeter616",
-      "repo": "https://github.com/oldPeter616/astrbot_plugin_xiuxian",
-      "tags": [
-        "游戏",
-        "修仙"
-      ],
-      "social_link": "",
-      "issue_number": 2557,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2557",
-      "created_at": "2025-08-25T12:09:58Z",
-      "updated_at": "2025-09-06T15:49:03Z"
-    },
-    {
       "name": "astrbot_plugin_zfile",
       "desc": "基于 ZFile 的 AstrBot 插件，实现文件列表查看、上传、下载、短链生成等远程管理功能。",
       "author": "shskjw",
@@ -146,6 +179,21 @@
       "updated_at": "2025-07-25T11:05:11Z",
       "tags": [],
       "social_link": ""
+    },
+    {
+      "name": "Codex",
+      "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
+      "author": "TuF3i",
+      "repo": "https://github.com/TuF3i/astrBot_plugin_Codex",
+      "tags": [
+        "命令执行",
+        "docker"
+      ],
+      "social_link": "",
+      "issue_number": 2700,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2700",
+      "created_at": "2025-09-10T06:09:34Z",
+      "updated_at": "2025-09-10T06:10:35Z"
     },
     {
       "name": "daily_checkin",
@@ -260,7 +308,19 @@
       "issue_number": 2688,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2688",
       "created_at": "2025-09-09T14:56:00Z",
-      "updated_at": "2025-09-09T14:56:58Z"
+      "updated_at": "2025-09-10T04:35:40Z"
+    },
+    {
+      "name": "openai-image-command",
+      "desc": "修改自喵喵的openrouter生图插件。使用openai格式的免费api生成图片(使用指令调用插件)",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2702,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2702",
+      "created_at": "2025-09-10T11:20:16Z",
+      "updated_at": "2025-09-10T11:21:15Z"
     },
     {
       "name": "persistent_history",
