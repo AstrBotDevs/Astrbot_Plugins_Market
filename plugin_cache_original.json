@@ -400,8 +400,8 @@
     "tags": [
       "股市"
     ],
-    "stars": 7,
-    "updated_at": "2025-09-02T10:40:06Z",
+    "stars": 8,
+    "updated_at": "2025-09-12T01:46:48Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_figurine_workshop": {
@@ -2491,7 +2491,7 @@
     ],
     "social_link": "https://github.com/Angus-fw",
     "stars": 16,
-    "updated_at": "2025-09-11T03:30:22Z",
+    "updated_at": "2025-09-11T23:42:34Z",
     "version": "v1.1.5"
   },
   "astrbot_plugin_timetask": {
@@ -3422,7 +3422,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-11T02:40:35Z",
+    "updated_at": "2025-09-12T01:26:02Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
