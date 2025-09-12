@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-11T03:00:59.312Z",
-  "total_plugins": 27,
+  "updated_at": "2025-09-12T02:55:41.115Z",
+  "total_plugins": 13,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,37 +13,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
-    },
-    {
-      "name": "astrbot_plugin_bilibili_up_notifier",
-      "desc": "这是一个AstrBot的插件，用于检测B站UP主发布的新视频并自动发送通知给订阅的用户",
-      "author": "CN-CQ-Z",
-      "repo": "https://github.com/CN-CQ-Z/astrbot_plugin_bilibili_up_notifier",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2647,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2647",
-      "created_at": "2025-09-06T08:49:17Z",
-      "updated_at": "2025-09-06T09:02:33Z"
-    },
-    {
-      "name": "astrbot_plugin_context_enhancer",
-      "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
-      "author": "木有知",
-      "repo": "https://github.com/muyouzhi6/astrbot_plugin_context_enhancer",
-      "tags": [
-        "上下文增强",
-        "群聊分析",
-        "读空气",
-        "角色扮演",
-        "智能对话",
-        "LLM增强"
-      ],
-      "social_link": "https://github.com/muyouzhi6",
-      "issue_number": 2644,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2644",
-      "created_at": "2025-09-06T07:56:34Z",
-      "updated_at": "2025-09-11T02:15:59Z"
     },
     {
       "name": "astrbot_plugin_fuckanka",
@@ -60,21 +29,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
       "created_at": "2025-09-10T06:55:08Z",
       "updated_at": "2025-09-10T07:01:14Z"
-    },
-    {
-      "name": "astrbot_plugin_group_chat",
-      "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
-      "author": "qa296",
-      "repo": "https://github.com/qa296/astrbot_plugin_group_chat",
-      "tags": [
-        "主动回复",
-        "拟人"
-      ],
-      "social_link": "https://github.com/qa296/",
-      "issue_number": 2672,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2672",
-      "created_at": "2025-09-08T13:33:08Z",
-      "updated_at": "2025-09-08T14:03:51Z"
     },
     {
       "name": "astrbot_plugin_poker_game",
@@ -110,49 +64,6 @@
       "updated_at": "2025-09-08T12:01:04Z"
     },
     {
-      "name": "astrbot_plugin_sha",
-      "desc": "获取GitHub仓库最后5次提交SHA的插件",
-      "author": "IGCrystal",
-      "repo": "https://github.com/IGCrystal-NEO/astrbot_plugin_sha",
-      "tags": [
-        "工具",
-        "GitHub"
-      ],
-      "social_link": "https://wenturc.com",
-      "issue_number": 2678,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2678",
-      "created_at": "2025-09-09T05:59:21Z",
-      "updated_at": "2025-09-09T09:19:17Z"
-    },
-    {
-      "name": "astrbot_plugin_shoubanhua",
-      "desc": "通过第三方api，实现手办化、cos化等等功能",
-      "author": "shskjw",
-      "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
-      "version": "1.0.0",
-      "issue_number": 2671,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2671",
-      "created_at": "2025-09-08T13:32:41Z",
-      "updated_at": "2025-09-08T15:45:45Z",
-      "tags": [],
-      "social_link": ""
-    },
-    {
-      "name": "astrbot_plugin_sleep_tracker",
-      "desc": "一个基于 AstrBot 的睡眠记录插件，帮助用户记录和分析睡眠作息情况",
-      "author": "SHOOTING-STAR-C",
-      "repo": "https://github.com/SHOOTING-STAR-C/astrbot_plugin_sleep_tracker",
-      "tags": [
-        "睡眠",
-        "记录"
-      ],
-      "social_link": "",
-      "issue_number": 2703,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2703",
-      "created_at": "2025-09-10T12:08:19Z",
-      "updated_at": "2025-09-10T12:10:01Z"
-    },
-    {
       "name": "astrbot_plugin_stock",
       "desc": "基于AkShare和Binance的股市行情查询插件，支持数字货币、A股、港股、美股及指数的实时行情、历史数据和K线图表",
       "author": "anchor",
@@ -179,21 +90,6 @@
       "updated_at": "2025-07-25T11:05:11Z",
       "tags": [],
       "social_link": ""
-    },
-    {
-      "name": "Codex",
-      "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
-      "author": "TuF3i",
-      "repo": "https://github.com/TuF3i/astrBot_plugin_Codex",
-      "tags": [
-        "命令执行",
-        "docker"
-      ],
-      "social_link": "",
-      "issue_number": 2700,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2700",
-      "created_at": "2025-09-10T06:09:34Z",
-      "updated_at": "2025-09-10T06:10:35Z"
     },
     {
       "name": "daily_checkin",
@@ -228,47 +124,6 @@
       "social_link": ""
     },
     {
-      "name": "gemini-25-image-command",
-      "desc": "修改自喵喵的openrouter生图插件。使用(默认openrouter)openai格式的免费api生成图片(使用astrbot命令调用插件)",
-      "author": "薄暝",
-      "repo": "https://github.com/xiaoxi68/AstrBot_plugin_gemini2point5image-command",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2685,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2685",
-      "created_at": "2025-09-09T11:06:23Z",
-      "updated_at": "2025-09-09T11:08:44Z"
-    },
-    {
-      "name": "GUGUblack",
-      "desc": "用户/群聊黑名单，也可以拦截 AstrBot 错误信息发送特定提示",
-      "author": "YUNYUN",
-      "repo": "https://github.com/huangyuzhe/astrbot_plugin_GUGUblack",
-      "tags": [
-        "黑名单",
-        "错误"
-      ],
-      "social_link": "",
-      "issue_number": 2665,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2665",
-      "created_at": "2025-09-08T03:37:55Z",
-      "updated_at": "2025-09-08T03:41:47Z"
-    },
-    {
-      "name": "input_state_by_napcat",
-      "desc": "[仅NapCat]输入状态显示",
-      "author": "ctrlkk",
-      "repo": "https://github.com/ctrlkk/astrbot_plugin_input_state_by_nc",
-      "tags": [
-        "napcat"
-      ],
-      "social_link": "",
-      "issue_number": 2681,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2681",
-      "created_at": "2025-09-09T09:08:22Z",
-      "updated_at": "2025-09-09T09:10:32Z"
-    },
-    {
       "name": "jav_info",
       "desc": "获取车牌对应数据",
       "author": "棒棒糖",
@@ -299,45 +154,6 @@
       "updated_at": "2025-08-25T11:38:08Z"
     },
     {
-      "name": "model_mcp_bridge",
-      "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
-      "author": "Dt8333",
-      "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2688,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2688",
-      "created_at": "2025-09-09T14:56:00Z",
-      "updated_at": "2025-09-10T04:35:40Z"
-    },
-    {
-      "name": "openai-image-command",
-      "desc": "修改自喵喵的openrouter生图插件。使用openai格式的免费api生成图片(使用指令调用插件)",
-      "author": "薄暝",
-      "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2702,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2702",
-      "created_at": "2025-09-10T11:20:16Z",
-      "updated_at": "2025-09-10T11:21:15Z"
-    },
-    {
-      "name": "persistent_history",
-      "desc": "基本无需设置的简单永久记忆插件",
-      "author": "komeiji_shiki",
-      "repo": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
-      "tags": [
-        "记忆",
-        "永久记忆"
-      ],
-      "social_link": "",
-      "issue_number": 2649,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2649",
-      "created_at": "2025-09-06T20:45:23Z",
-      "updated_at": "2025-09-06T21:28:49Z"
-    },
-    {
       "name": "qftp",
       "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
       "author": "。。。",
@@ -350,22 +166,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2490",
       "created_at": "2025-08-18T15:26:13Z",
       "updated_at": "2025-08-24T04:26:00Z"
-    },
-    {
-      "name": "randomtoken",
-      "desc": "一个Token生成管理器，支持生成、导出、删除和查看Token列表。",
-      "author": "LumineStory",
-      "repo": "https://github.com/oyxning/astrabot-plugin-randomtoken",
-      "tags": [
-        "token",
-        "generator",
-        "management"
-      ],
-      "social_link": "",
-      "issue_number": 2662,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2662",
-      "created_at": "2025-09-08T00:57:20Z",
-      "updated_at": "2025-09-08T00:58:08Z"
     },
     {
       "name": "server_status_monitor",
