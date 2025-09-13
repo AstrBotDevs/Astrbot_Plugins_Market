@@ -94,8 +94,8 @@
     ],
     "social_link": "https://wenturc.com",
     "stars": 0,
-    "updated_at": "2025-09-13T10:48:02Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-09-13T14:05:08Z",
+    "version": "v1.2.0"
   },
   "input_state_by_napcat": {
     "desc": "[仅NapCat]输入状态显示",
@@ -430,8 +430,8 @@
     "author": "竹和木",
     "repo": "https://github.com/3451996649/astrbot_plugin_ms_aiimg",
     "tags": [],
-    "stars": 0,
-    "updated_at": "2025-08-24T08:23:58Z",
+    "stars": 1,
+    "updated_at": "2025-09-13T13:54:22Z",
     "version": "v1.0"
   },
   "asbot_plugin_furry_mzxyy": {
@@ -597,8 +597,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 64,
-    "updated_at": "2025-09-13T11:57:22Z",
+    "stars": 65,
+    "updated_at": "2025-09-13T14:03:22Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3003,8 +3003,8 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 15,
-    "updated_at": "2025-09-12T13:44:19Z",
-    "version": "v2.0.0"
+    "updated_at": "2025-09-13T14:00:30Z",
+    "version": "v2.0.1"
   },
   "astrbot_plugin_liblibapi": {
     "author": "machinad",
