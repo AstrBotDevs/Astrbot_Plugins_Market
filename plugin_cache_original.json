@@ -94,8 +94,8 @@
     ],
     "social_link": "https://wenturc.com",
     "stars": 0,
-    "updated_at": "2025-09-09T12:43:07Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-13T10:48:02Z",
+    "version": "v1.0.1"
   },
   "input_state_by_napcat": {
     "desc": "[仅NapCat]输入状态显示",
@@ -598,8 +598,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 64,
-    "updated_at": "2025-09-11T09:23:45Z",
-    "version": "v2.0.2"
+    "updated_at": "2025-09-13T10:44:51Z",
+    "version": "v2.0.3"
   },
   "astrbot_plugin_Mirecraft_motd": {
     "desc": "Minecraft motd 探测服务器的插件",
