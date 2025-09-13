@@ -682,8 +682,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 20,
-    "updated_at": "2025-09-10T17:19:10Z",
+    "stars": 21,
+    "updated_at": "2025-09-13T06:13:12Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -1057,8 +1057,8 @@
       "增强"
     ],
     "stars": 11,
-    "updated_at": "2025-09-12T15:45:34Z",
-    "version": "2.9.7"
+    "updated_at": "2025-09-13T06:25:26Z",
+    "version": "2.9.8"
   },
   "astrbot_plugin_Group-Verification_PRO": {
     "desc": "一个强大的 QQ 群成员入群验证插件。新成员需回答动态生成的 100 以内加减法问题方可入群。支持完全自定义的提示消息（成功、失败、超时警告、踢出等）和时间控制（验证超时、警告时机、踢出延迟）。当用户回答错误时，会自动生成新题目并重置验证时间，有效防止机器人账号。",
