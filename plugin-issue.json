@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-12T02:55:41.115Z",
-  "total_plugins": 13,
+  "updated_at": "2025-09-13T02:49:16.961Z",
+  "total_plugins": 15,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -28,7 +28,39 @@
       "issue_number": 2701,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
       "created_at": "2025-09-10T06:55:08Z",
-      "updated_at": "2025-09-10T07:01:14Z"
+      "updated_at": "2025-09-12T03:04:07Z"
+    },
+    {
+      "name": "astrbot_plugin_move3d",
+      "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
+      "author": "vmoranv",
+      "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
+      "tags": [
+        "简笔画",
+        "裸眼3d"
+      ],
+      "social_link": "https://github.com/vmoranv",
+      "issue_number": 2735,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2735",
+      "created_at": "2025-09-13T00:52:15Z",
+      "updated_at": "2025-09-13T00:55:13Z"
+    },
+    {
+      "name": "astrbot_plugin_nene_bot",
+      "desc": "一款支持rag记忆功能的多模态llm聊天机器人。实现基于lancedb的rag自动化多模态聊天记录存储与向量数据库查询与基于大模型的动态自主回复概率，再也不用担心ai乱插话的问题",
+      "author": "sdy_zjx",
+      "repo": "https://github.com/sdyzjx/nene-astra-bot",
+      "tags": [
+        "拟人",
+        "RAG",
+        "记忆系统",
+        "多模态"
+      ],
+      "social_link": "",
+      "issue_number": 2728,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2728",
+      "created_at": "2025-09-12T03:20:53Z",
+      "updated_at": "2025-09-12T04:10:52Z"
     },
     {
       "name": "astrbot_plugin_poker_game",
