@@ -68,7 +68,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 8,
-    "updated_at": "2025-09-13T04:48:01Z",
+    "updated_at": "2025-09-13T14:25:32Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_group_chat": {
@@ -598,7 +598,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 65,
-    "updated_at": "2025-09-13T14:03:22Z",
+    "updated_at": "2025-09-13T14:07:47Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -3003,7 +3003,7 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 15,
-    "updated_at": "2025-09-13T14:00:30Z",
+    "updated_at": "2025-09-13T14:45:57Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_liblibapi": {
