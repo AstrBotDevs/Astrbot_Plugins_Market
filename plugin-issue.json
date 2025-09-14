@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-13T02:49:16.961Z",
-  "total_plugins": 15,
+  "updated_at": "2025-09-14T03:03:09.685Z",
+  "total_plugins": 19,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,6 +13,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
+    },
+    {
+      "name": "astrbot_plugin_arkinfo",
+      "desc": "使用官方PRTS WIKI的Media API开发，获取PRTS的信息",
+      "author": "wxgl",
+      "repo": "https://github.com/wxgl/astrbot_plugin_arkinfo",
+      "tags": [
+        "明日方舟",
+        "PRTS"
+      ],
+      "social_link": "",
+      "issue_number": 2740,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2740",
+      "created_at": "2025-09-13T14:27:08Z",
+      "updated_at": "2025-09-13T14:56:14Z"
     },
     {
       "name": "astrbot_plugin_fuckanka",
@@ -29,6 +44,20 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
       "created_at": "2025-09-10T06:55:08Z",
       "updated_at": "2025-09-12T03:04:07Z"
+    },
+    {
+      "name": "astrbot_plugin_legado",
+      "desc": "随机小说",
+      "author": "Victical",
+      "repo": "https://github.com/victical/astrbot_plugin_legado",
+      "tags": [
+        "小说"
+      ],
+      "social_link": "",
+      "issue_number": 2741,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2741",
+      "created_at": "2025-09-13T15:42:44Z",
+      "updated_at": "2025-09-13T15:47:10Z"
     },
     {
       "name": "astrbot_plugin_move3d",
@@ -141,6 +170,18 @@
       "updated_at": "2025-08-25T08:05:04Z"
     },
     {
+      "name": "Discord_sync_to_kook",
+      "desc": "Discord消息同步到Kook插件，支持频道映射和消息格式转换",
+      "author": "nulijiazaizhong",
+      "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_Discord_sync_to_kook",
+      "tags": [],
+      "social_link": "https://github.com/nulijiazaizhong",
+      "issue_number": 2744,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2744",
+      "created_at": "2025-09-14T01:49:48Z",
+      "updated_at": "2025-09-14T02:48:18Z"
+    },
+    {
       "name": "gemini_tokens_limit",
       "desc": "通过tokens计算来丢弃对话，适用于Gemini",
       "author": "ctrlkk",
@@ -154,6 +195,22 @@
       "created_at": "2025-08-10T03:15:28Z",
       "updated_at": "2025-08-14T14:40:52Z",
       "social_link": ""
+    },
+    {
+      "name": "github_star_manager",
+      "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
+      "author": "山萘",
+      "repo": "https://github.com/shannai37/github_star_plugin",
+      "tags": [
+        "工具",
+        "GitHub",
+        "开源"
+      ],
+      "social_link": "",
+      "issue_number": 2743,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2743",
+      "created_at": "2025-09-13T20:15:03Z",
+      "updated_at": "2025-09-13T20:51:50Z"
     },
     {
       "name": "jav_info",
