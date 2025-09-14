@@ -81,8 +81,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 0,
-    "updated_at": "2025-09-14T08:16:29Z",
-    "version": "1.0.1"
+    "updated_at": "2025-09-14T14:28:46Z",
+    "version": "1.0.2"
   },
   "astrbot_plugin_sha": {
     "desc": "获取GitHub仓库最后5次提交SHA的插件",
@@ -598,7 +598,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 66,
-    "updated_at": "2025-09-14T05:44:46Z",
+    "updated_at": "2025-09-14T14:15:44Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_Mirecraft_motd": {
