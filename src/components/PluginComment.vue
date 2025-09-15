@@ -1,3 +1,5 @@
+// 评论部分已弃用
+
 <template>
   <div class="plugin-comment">
     <div class="plugin-comment__header">

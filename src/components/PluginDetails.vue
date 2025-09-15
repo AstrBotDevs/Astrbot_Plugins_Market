@@ -44,13 +44,7 @@
         </div>
         <div v-else class="markdown-content" v-html="readmeHtml"></div>
 
-        <!-- 评论区 -->
-        <plugin-comment
-          v-if="plugin?.repo"
-          :repo="plugin.repo"
-          :theme="isDarkMode ? 'dark' : 'light'"
-          :plugin-name="plugin?.name"
-        />
+        
       </n-space>
     </div>
 
@@ -94,7 +88,6 @@ import {
 } from 'naive-ui'
 import { storeToRefs } from 'pinia'
 import { usePluginStore } from '../stores/plugins'
-import PluginComment from './PluginComment.vue'
 import {
   ExtensionPuzzleOutline,
   LogoGithub
