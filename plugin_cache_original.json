@@ -1,4 +1,109 @@
 {
+  "astrbot_plugin_pollinations_images": {
+    "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
+    "author": "qa296",
+    "repo": "https://github.com/qa296/astrbot_plugin_pollinations_images",
+    "tags": [
+      "ai生图"
+    ],
+    "social_link": [
+      "https://github.com/qa296/"
+    ],
+    "stars": 2,
+    "updated_at": "2025-09-08T11:58:40Z",
+    "version": "1.1.0"
+  },
+  "wallabag": {
+    "desc": "自动监听消息中的 URL 并保存到 Wallabag",
+    "author": "zhuguadundan",
+    "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-15T07:42:04Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_pplxsearch": {
+    "desc": "基于Perplexity AI的互联网搜索插件，可用/pplx 搜索命令",
+    "author": "LovelyGuYiMeng",
+    "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-14T17:02:58Z",
+    "version": "v1.2.0"
+  },
+  "Discord_sync_to_kook": {
+    "desc": "Discord消息同步到Kook插件，支持频道映射和消息格式转换",
+    "author": "nulijiazaizhong",
+    "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_Discord_sync_to_kook",
+    "social_link": "https://github.com/nulijiazaizhong",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-14T10:07:24Z",
+    "version": "v0.0.2"
+  },
+  "github_star_manager": {
+    "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
+    "author": "山萘",
+    "repo": "https://github.com/shannai37/github_star_plugin",
+    "tags": [
+      "工具",
+      "GitHub",
+      "开源"
+    ],
+    "stars": 4,
+    "updated_at": "2025-09-14T08:22:08Z",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_legado": {
+    "desc": "随机小说",
+    "author": "Victical",
+    "repo": "https://github.com/victical/astrbot_plugin_legado",
+    "tags": [
+      "小说"
+    ],
+    "stars": 1,
+    "updated_at": "2025-09-14T18:58:52Z",
+    "version": "v0.0.1"
+  },
+  "ark_info_search": {
+    "desc": "使用明日方舟PRTS的Media API获取信息。",
+    "author": "wxgl",
+    "repo": "https://github.com/wxgl/astrbot_plugin_arkinfo",
+    "tags": [
+      "明日方舟",
+      "PRTS"
+    ],
+    "stars": 0,
+    "updated_at": "2025-09-13T14:01:51Z",
+    "version": "v0.5"
+  },
+  "astrbot_plugin_move3d": {
+    "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
+    "author": "vmoranv",
+    "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
+    "tags": [
+      "简笔画",
+      "裸眼3d"
+    ],
+    "social_link": "https://github.com/vmoranv",
+    "stars": 0,
+    "updated_at": "2025-09-13T04:34:57Z",
+    "version": "v1.0"
+  },
+  "astrbot_plugin_poker_game": {
+    "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
+    "author": "山萘",
+    "repo": "https://github.com/shannai37/astrbot_plugin_poker_game",
+    "tags": [
+      "游戏",
+      "德州扑克",
+      "多人",
+      "积分系统"
+    ],
+    "stars": 5,
+    "updated_at": "2025-09-14T16:04:31Z",
+    "version": "1.0.0"
+  },
   "astrbot_plugin_context_enhancer": {
     "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
     "author": "木有知",
@@ -160,8 +265,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-15T03:21:13Z",
-    "version": "1.0.7"
+    "updated_at": "2025-09-15T08:30:50Z",
+    "version": "1.1.1"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -2831,7 +2936,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "updated_at": "2025-09-15T07:56:38Z",
+    "updated_at": "2025-09-15T09:06:54Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_Kanalyse": {
