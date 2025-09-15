@@ -417,8 +417,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 18,
-    "updated_at": "2025-09-15T14:03:42Z",
-    "version": "v2.2.0"
+    "updated_at": "2025-09-15T16:35:01Z",
+    "version": "v2.3.0"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -703,8 +703,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 71,
-    "updated_at": "2025-09-15T15:17:27Z",
-    "version": "v2.0.6"
+    "updated_at": "2025-09-15T16:52:58Z",
+    "version": "v2.0.7"
   },
   "astrbot_plugin_Mirecraft_motd": {
     "desc": "Minecraft motd 探测服务器的插件",
