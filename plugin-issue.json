@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-14T03:03:09.685Z",
-  "total_plugins": 19,
+  "updated_at": "2025-09-15T03:08:41.070Z",
+  "total_plugins": 21,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -15,8 +15,8 @@
       "updated_at": "2025-08-24T04:15:26Z"
     },
     {
-      "name": "astrbot_plugin_arkinfo",
-      "desc": "使用官方PRTS WIKI的Media API开发，获取PRTS的信息",
+      "name": "ark_info_search",
+      "desc": "使用明日方舟PRTS的Media API获取信息。",
       "author": "wxgl",
       "repo": "https://github.com/wxgl/astrbot_plugin_arkinfo",
       "tags": [
@@ -27,7 +27,7 @@
       "issue_number": 2740,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2740",
       "created_at": "2025-09-13T14:27:08Z",
-      "updated_at": "2025-09-13T14:56:14Z"
+      "updated_at": "2025-09-14T07:04:27Z"
     },
     {
       "name": "astrbot_plugin_fuckanka",
@@ -57,7 +57,7 @@
       "issue_number": 2741,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2741",
       "created_at": "2025-09-13T15:42:44Z",
-      "updated_at": "2025-09-13T15:47:10Z"
+      "updated_at": "2025-09-14T15:25:21Z"
     },
     {
       "name": "astrbot_plugin_move3d",
@@ -106,7 +106,7 @@
       "issue_number": 2706,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2706",
       "created_at": "2025-09-10T17:57:12Z",
-      "updated_at": "2025-09-10T18:08:44Z"
+      "updated_at": "2025-09-14T16:06:02Z"
     },
     {
       "name": "astrbot_plugin_pollinations_images",
@@ -123,6 +123,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2262",
       "created_at": "2025-07-29T14:00:45Z",
       "updated_at": "2025-09-08T12:01:04Z"
+    },
+    {
+      "name": "astrbot_plugin_pplxsearch",
+      "desc": "基于Perplexity AI的互联网搜索插件，可用/pplx 搜索命令",
+      "author": "LovelyGuYiMeng",
+      "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2755,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2755",
+      "created_at": "2025-09-14T16:19:41Z",
+      "updated_at": "2025-09-14T17:09:21Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -179,7 +191,7 @@
       "issue_number": 2744,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2744",
       "created_at": "2025-09-14T01:49:48Z",
-      "updated_at": "2025-09-14T02:48:18Z"
+      "updated_at": "2025-09-14T04:48:52Z"
     },
     {
       "name": "gemini_tokens_limit",
@@ -271,6 +283,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
+    },
+    {
+      "name": "wallabag",
+      "desc": "自动监听消息中的 URL 并保存到 Wallabag",
+      "author": "zhuguadundan",
+      "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2759,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2759",
+      "created_at": "2025-09-15T02:34:27Z",
+      "updated_at": "2025-09-15T02:35:13Z"
     },
     {
       "name": "群聊检测刷屏",
