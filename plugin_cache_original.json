@@ -19,7 +19,7 @@
     "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-15T07:42:04Z",
+    "updated_at": "2025-09-15T09:35:57Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_pplxsearch": {
@@ -50,8 +50,8 @@
       "GitHub",
       "开源"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-14T08:22:08Z",
+    "stars": 5,
+    "updated_at": "2025-09-15T09:43:55Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_legado": {
@@ -172,8 +172,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-09-14T04:54:20Z",
+    "stars": 10,
+    "updated_at": "2025-09-15T10:03:56Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_group_chat": {
