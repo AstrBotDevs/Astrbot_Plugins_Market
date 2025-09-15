@@ -703,8 +703,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 71,
-    "updated_at": "2025-09-15T14:38:45Z",
-    "version": "v2.0.5"
+    "updated_at": "2025-09-15T15:17:27Z",
+    "version": "v2.0.6"
   },
   "astrbot_plugin_Mirecraft_motd": {
     "desc": "Minecraft motd 探测服务器的插件",
