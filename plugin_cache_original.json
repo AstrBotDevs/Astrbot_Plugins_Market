@@ -117,8 +117,8 @@
       "LLM增强"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 4,
-    "updated_at": "2025-09-16T04:55:49Z",
+    "stars": 5,
+    "updated_at": "2025-09-16T13:46:47Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_bilibili_up_notifier": {
@@ -3771,8 +3771,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 21,
-    "updated_at": "2025-09-04T13:09:21Z",
+    "stars": 22,
+    "updated_at": "2025-09-16T14:10:15Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_gotify": {
