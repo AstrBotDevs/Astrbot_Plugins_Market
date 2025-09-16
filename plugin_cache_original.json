@@ -276,7 +276,7 @@
       "音乐"
     ],
     "stars": 3,
-    "updated_at": "2025-09-10T13:55:35Z",
+    "updated_at": "2025-09-16T14:14:32Z",
     "version": "2.1.1"
   },
   "astrbot_plugin_slg": {
@@ -447,8 +447,8 @@
       "api",
       "表情包"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-04T03:54:17Z",
+    "stars": 5,
+    "updated_at": "2025-09-16T14:30:32Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -4197,8 +4197,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 39,
-    "updated_at": "2025-09-16T10:52:33Z",
+    "stars": 40,
+    "updated_at": "2025-09-16T14:47:38Z",
     "version": "v3.1.2"
   },
   "astrbot_plugin_liars_bar": {
