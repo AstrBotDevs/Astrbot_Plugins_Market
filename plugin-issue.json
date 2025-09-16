@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-15T03:08:41.070Z",
-  "total_plugins": 21,
+  "updated_at": "2025-09-16T02:57:18.957Z",
+  "total_plugins": 15,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -15,19 +15,34 @@
       "updated_at": "2025-08-24T04:15:26Z"
     },
     {
-      "name": "ark_info_search",
-      "desc": "使用明日方舟PRTS的Media API获取信息。",
-      "author": "wxgl",
-      "repo": "https://github.com/wxgl/astrbot_plugin_arkinfo",
+      "name": "astrbot_plugin_angel_eye",
+      "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
+      "author": "kawayiYokami",
+      "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_eye",
       "tags": [
-        "明日方舟",
-        "PRTS"
+        "搜索",
+        "知识"
       ],
-      "social_link": "",
-      "issue_number": 2740,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2740",
-      "created_at": "2025-09-13T14:27:08Z",
-      "updated_at": "2025-09-14T07:04:27Z"
+      "social_link": "https://github.com/kawayiYokami",
+      "issue_number": 2766,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2766",
+      "created_at": "2025-09-15T11:36:27Z",
+      "updated_at": "2025-09-15T11:40:17Z"
+    },
+    {
+      "name": "astrbot_plugin_angel_heart",
+      "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让AI成为懂分寸、有眼色的聊天伙伴。",
+      "author": "kawayiYokami",
+      "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
+      "tags": [
+        "群聊",
+        "主动应答"
+      ],
+      "social_link": "https://github.com/kawayiYokami",
+      "issue_number": 2765,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2765",
+      "created_at": "2025-09-15T11:05:08Z",
+      "updated_at": "2025-09-15T11:37:19Z"
     },
     {
       "name": "astrbot_plugin_fuckanka",
@@ -46,35 +61,6 @@
       "updated_at": "2025-09-12T03:04:07Z"
     },
     {
-      "name": "astrbot_plugin_legado",
-      "desc": "随机小说",
-      "author": "Victical",
-      "repo": "https://github.com/victical/astrbot_plugin_legado",
-      "tags": [
-        "小说"
-      ],
-      "social_link": "",
-      "issue_number": 2741,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2741",
-      "created_at": "2025-09-13T15:42:44Z",
-      "updated_at": "2025-09-14T15:25:21Z"
-    },
-    {
-      "name": "astrbot_plugin_move3d",
-      "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
-      "author": "vmoranv",
-      "repo": "https://github.com/vmoranv/astrbot_plugin_move3d",
-      "tags": [
-        "简笔画",
-        "裸眼3d"
-      ],
-      "social_link": "https://github.com/vmoranv",
-      "issue_number": 2735,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2735",
-      "created_at": "2025-09-13T00:52:15Z",
-      "updated_at": "2025-09-13T00:55:13Z"
-    },
-    {
       "name": "astrbot_plugin_nene_bot",
       "desc": "一款支持rag记忆功能的多模态llm聊天机器人。实现基于lancedb的rag自动化多模态聊天记录存储与向量数据库查询与基于大模型的动态自主回复概率，再也不用担心ai乱插话的问题",
       "author": "sdy_zjx",
@@ -89,52 +75,7 @@
       "issue_number": 2728,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2728",
       "created_at": "2025-09-12T03:20:53Z",
-      "updated_at": "2025-09-12T04:10:52Z"
-    },
-    {
-      "name": "astrbot_plugin_poker_game",
-      "desc": "德州扑克游戏插件 - 支持私聊发牌、多人游戏、积分系统、房间管理、管理员控制等完整功能",
-      "author": "山萘",
-      "repo": "https://github.com/shannai37/astrbot_plugin_poker_game",
-      "tags": [
-        "游戏",
-        "德州扑克",
-        "多人",
-        "积分系统"
-      ],
-      "social_link": "",
-      "issue_number": 2706,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2706",
-      "created_at": "2025-09-10T17:57:12Z",
-      "updated_at": "2025-09-14T16:06:02Z"
-    },
-    {
-      "name": "astrbot_plugin_pollinations_images",
-      "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
-      "author": "qa296",
-      "repo": "https://github.com/qa296/astrbot_plugin_pollinations_images",
-      "tags": [
-        "ai生图"
-      ],
-      "social_link": [
-        "https://github.com/qa296/"
-      ],
-      "issue_number": 2262,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2262",
-      "created_at": "2025-07-29T14:00:45Z",
-      "updated_at": "2025-09-08T12:01:04Z"
-    },
-    {
-      "name": "astrbot_plugin_pplxsearch",
-      "desc": "基于Perplexity AI的互联网搜索插件，可用/pplx 搜索命令",
-      "author": "LovelyGuYiMeng",
-      "repo": "https://github.com/LovelyGuYiMeng/astrbot_plugin_pplxsearch",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2755,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2755",
-      "created_at": "2025-09-14T16:19:41Z",
-      "updated_at": "2025-09-14T17:09:21Z"
+      "updated_at": "2025-09-15T09:00:22Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -150,6 +91,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2125",
       "created_at": "2025-07-14T09:21:46Z",
       "updated_at": "2025-07-16T05:18:31Z"
+    },
+    {
+      "name": "astrbot_plugin_tts_llm",
+      "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
+      "author": "clown145",
+      "repo": "https://github.com/clown145/astrbot_plugin_tts_llm",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2773,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2773",
+      "created_at": "2025-09-15T19:51:53Z",
+      "updated_at": "2025-09-15T19:52:45Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -182,18 +135,6 @@
       "updated_at": "2025-08-25T08:05:04Z"
     },
     {
-      "name": "Discord_sync_to_kook",
-      "desc": "Discord消息同步到Kook插件，支持频道映射和消息格式转换",
-      "author": "nulijiazaizhong",
-      "repo": "https://github.com/nulijiazaizhong/astrbot_plugin_Discord_sync_to_kook",
-      "tags": [],
-      "social_link": "https://github.com/nulijiazaizhong",
-      "issue_number": 2744,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2744",
-      "created_at": "2025-09-14T01:49:48Z",
-      "updated_at": "2025-09-14T04:48:52Z"
-    },
-    {
       "name": "gemini_tokens_limit",
       "desc": "通过tokens计算来丢弃对话，适用于Gemini",
       "author": "ctrlkk",
@@ -207,22 +148,6 @@
       "created_at": "2025-08-10T03:15:28Z",
       "updated_at": "2025-08-14T14:40:52Z",
       "social_link": ""
-    },
-    {
-      "name": "github_star_manager",
-      "desc": "GitHub插件Star管理器 - 智能点赞AstrBot插件",
-      "author": "山萘",
-      "repo": "https://github.com/shannai37/github_star_plugin",
-      "tags": [
-        "工具",
-        "GitHub",
-        "开源"
-      ],
-      "social_link": "",
-      "issue_number": 2743,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2743",
-      "created_at": "2025-09-13T20:15:03Z",
-      "updated_at": "2025-09-13T20:51:50Z"
     },
     {
       "name": "jav_info",
@@ -283,18 +208,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
-    },
-    {
-      "name": "wallabag",
-      "desc": "自动监听消息中的 URL 并保存到 Wallabag",
-      "author": "zhuguadundan",
-      "repo": "https://github.com/zhuguadundan/astrbot_plugin_wallabag",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2759,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2759",
-      "created_at": "2025-09-15T02:34:27Z",
-      "updated_at": "2025-09-15T02:35:13Z"
     },
     {
       "name": "群聊检测刷屏",
