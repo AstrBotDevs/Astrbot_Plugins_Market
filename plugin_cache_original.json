@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-15T08:30:50Z",
-    "version": "1.1.1"
+    "updated_at": "2025-09-16T02:28:01Z",
+    "version": "1.1.2"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -2615,8 +2615,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 54,
-    "updated_at": "2025-09-12T15:56:46Z",
+    "stars": 55,
+    "updated_at": "2025-09-16T02:59:25Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
@@ -2799,7 +2799,7 @@
       "知识库"
     ],
     "stars": 61,
-    "updated_at": "2025-09-05T03:22:38Z",
+    "updated_at": "2025-09-16T02:32:46Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -3078,7 +3078,7 @@
       "fish"
     ],
     "stars": 36,
-    "updated_at": "2025-09-14T06:18:37Z",
+    "updated_at": "2025-09-16T02:39:25Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -3691,7 +3691,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-16T01:26:40Z",
+    "updated_at": "2025-09-16T02:54:18Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -6037,7 +6037,7 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
     "tags": [],
     "stars": 13,
-    "updated_at": "2025-09-06T23:01:30Z",
+    "updated_at": "2025-09-16T03:21:17Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_AIQTalk": {
