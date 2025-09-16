@@ -788,7 +788,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 22,
-    "updated_at": "2025-09-16T09:48:40Z",
+    "updated_at": "2025-09-16T11:13:15Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -2799,7 +2799,7 @@
       "知识库"
     ],
     "stars": 62,
-    "updated_at": "2025-09-16T09:48:37Z",
+    "updated_at": "2025-09-16T12:09:01Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -2936,8 +2936,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 25,
-    "updated_at": "2025-09-15T18:20:34Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-09-16T12:09:36Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_Kanalyse": {
     "author": "End_Tower",
@@ -4068,8 +4068,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 14,
-    "updated_at": "2025-09-16T09:48:41Z",
+    "stars": 15,
+    "updated_at": "2025-09-16T11:19:53Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
