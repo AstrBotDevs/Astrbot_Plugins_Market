@@ -186,8 +186,8 @@
     ],
     "social_link": "https://github.com/qa296/",
     "stars": 0,
-    "updated_at": "2025-09-14T14:28:46Z",
-    "version": "1.0.2"
+    "updated_at": "2025-09-16T23:38:37Z",
+    "version": "1.0.3"
   },
   "astrbot_plugin_sha": {
     "desc": "获取GitHub仓库最后5次提交SHA的插件",
