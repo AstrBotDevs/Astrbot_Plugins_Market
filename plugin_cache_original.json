@@ -3378,18 +3378,6 @@
     "updated_at": "2025-05-30T14:35:03Z",
     "version": "1.0.0"
   },
-  "astrbot_plugin_buttons": {
-    "author": "Zhalslar",
-    "desc": "[仅 napcat] 让QQ的野生bot也能发送按钮！",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_buttons",
-    "tags": [
-      "按钮"
-    ],
-    "social_link": "https://github.com/Zhalslar",
-    "stars": 27,
-    "updated_at": "2025-09-03T14:24:09Z",
-    "version": "v2.0.0"
-  },
   "astrbot_plugin_SillyTavern_card": {
     "author": "LKarxa",
     "desc": "一个将 SillyTavern 角色卡（PNG 格式）转换为 Lorebook YAML 与角色信息的插件。",
@@ -4705,7 +4693,7 @@
     "version": "v1.0"
   },
   "astrbot_plugin_memelite": {
-    "desc": "表情包生成器，制作各种沙雕表情(本地部署，但轻量化)",
+    "desc": "表情包生成器，制作各种沙雕表情 (同时兼容Python版和Rust版)",
     "author": "Zhalslar",
     "tags": [
       "表情包"
@@ -4831,18 +4819,6 @@
     "stars": 47,
     "updated_at": "2025-09-06T17:27:52Z",
     "version": "v1.1.7"
-  },
-  "astrbot_plugin_yuafeng": {
-    "desc": "对接枫林API提供的接口，随机发 美女视频、帅哥视频、精美图片、逆天音频、伤感文案等等",
-    "author": "Zhalslar",
-    "tags": [
-      "枫林API"
-    ],
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_yuafeng",
-    "stars": 6,
-    "updated_at": "2025-08-02T07:01:17Z",
-    "version": "v1.0.0"
   },
   "astrbot_plugin_relationship": {
     "desc": "[仅aiocqhttp] bot人际关系管理器！包括查看好友列表、查看群列表、审批好友申请、审批群邀请、删好友、退群",
