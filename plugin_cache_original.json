@@ -3231,18 +3231,6 @@
     "updated_at": "2025-05-14T14:21:55Z",
     "version": "v1.1.0"
   },
-  "astrbot_plugin_memelite_rs": {
-    "author": "Zhalslar",
-    "desc": "表情包生成器，制作各种沙雕表情（Rust重构版，速度快占用小）",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite_rs",
-    "tags": [
-      "表情包"
-    ],
-    "social_link": "https://github.com/Zhalslar",
-    "stars": 38,
-    "updated_at": "2025-09-17T05:11:10Z",
-    "version": "v2.0.7"
-  },
   "astrbot_plugin_voiceprint": {
     "author": "hello七七",
     "desc": "活字印刷（文本转语音）",
@@ -3691,7 +3679,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 20,
-    "updated_at": "2025-09-17T11:10:39Z",
+    "updated_at": "2025-09-17T12:19:36Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -4725,8 +4713,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 50,
-    "updated_at": "2025-09-17T10:40:27Z",
-    "version": "v2.0.0"
+    "updated_at": "2025-09-17T11:43:47Z",
+    "version": "v3.0.0"
   },
   "astrbot_plugin_saris_economic": {
     "author": "城城",
