@@ -101,8 +101,8 @@
       "积分系统"
     ],
     "stars": 6,
-    "updated_at": "2025-09-16T09:48:44Z",
-    "version": "1.0.0"
+    "updated_at": "2025-09-17T07:27:23Z",
+    "version": "1.1.0"
   },
   "astrbot_plugin_context_enhancer": {
     "desc": "智能上下文增强插件，它能让您的机器人在群聊中“知晓前文，见机行事”，实现真正意义上的流畅对话。",
@@ -558,8 +558,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 4,
-    "updated_at": "2025-09-17T06:22:05Z",
-    "version": "v1.2"
+    "updated_at": "2025-09-17T07:34:17Z",
+    "version": "v1.3"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
@@ -3977,8 +3977,8 @@
       "绝区零"
     ],
     "social_link": "https://docs.sayu-bot.com/",
-    "stars": 18,
-    "updated_at": "2025-09-12T17:26:06Z",
+    "stars": 19,
+    "updated_at": "2025-09-17T07:18:28Z",
     "version": "v0.4.1"
   },
   "astrbot_plugin_xyzw": {
