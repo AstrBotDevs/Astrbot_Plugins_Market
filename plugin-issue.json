@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-16T02:57:18.957Z",
-  "total_plugins": 15,
+  "updated_at": "2025-09-17T02:56:10.723Z",
+  "total_plugins": 16,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -78,6 +78,35 @@
       "updated_at": "2025-09-15T09:00:22Z"
     },
     {
+      "name": "astrbot_plugin_personal_selfupdate",
+      "desc": "一个用于自更新人格数据的插件。",
+      "author": "kterna",
+      "repo": "https://github.com/kterna/astrbot_plugin_personal_selfupdate",
+      "tags": [
+        "人格",
+        "llm"
+      ],
+      "social_link": "",
+      "issue_number": 2777,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2777",
+      "created_at": "2025-09-16T03:04:51Z",
+      "updated_at": "2025-09-16T03:08:06Z"
+    },
+    {
+      "name": "astrbot_plugin_restart",
+      "desc": "用命令重启、定时自动重启 AstrBot，以解决bot长时间运行可能出现的“抽风”或内存泄漏问题",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_restart",
+      "tags": [
+        "重启"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "issue_number": 2789,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2789",
+      "created_at": "2025-09-16T15:29:25Z",
+      "updated_at": "2025-09-16T17:10:50Z"
+    },
+    {
       "name": "astrbot_plugin_stock",
       "desc": "基于AkShare和Binance的股市行情查询插件，支持数字货币、A股、港股、美股及指数的实时行情、历史数据和K线图表",
       "author": "anchor",
@@ -148,20 +177,6 @@
       "created_at": "2025-08-10T03:15:28Z",
       "updated_at": "2025-08-14T14:40:52Z",
       "social_link": ""
-    },
-    {
-      "name": "jav_info",
-      "desc": "获取车牌对应数据",
-      "author": "棒棒糖",
-      "repo": "https://github.com/zhoufan47/astrbot_plugin_jav_info",
-      "tags": [
-        "车牌"
-      ],
-      "social_link": "",
-      "issue_number": 2402,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2402",
-      "created_at": "2025-08-12T07:21:01Z",
-      "updated_at": "2025-08-12T07:42:43Z"
     },
     {
       "name": "kikoeru_search",
