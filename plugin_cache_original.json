@@ -557,8 +557,8 @@
       "群管"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 3,
-    "updated_at": "2025-09-17T06:13:39Z",
+    "stars": 4,
+    "updated_at": "2025-09-17T06:22:05Z",
     "version": "v1.2"
   },
   "command_to_llm": {
@@ -3077,8 +3077,8 @@
       "game",
       "fish"
     ],
-    "stars": 38,
-    "updated_at": "2025-09-17T05:25:09Z",
+    "stars": 39,
+    "updated_at": "2025-09-17T06:34:00Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
