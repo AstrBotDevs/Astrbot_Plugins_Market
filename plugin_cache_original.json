@@ -679,8 +679,8 @@
     "repo": "https://github.com/zgojin/astrbot_plugin_figurine_workshop",
     "tags": "娱乐",
     "social_link": "astrbot.uk",
-    "stars": 14,
-    "updated_at": "2025-09-06T05:59:12Z",
+    "stars": 13,
+    "updated_at": "2025-09-17T15:37:33Z",
     "version": "v1.0.1"
   },
   "should_I_respond": {
@@ -2798,8 +2798,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 62,
-    "updated_at": "2025-09-16T12:09:01Z",
+    "stars": 61,
+    "updated_at": "2025-09-17T15:37:33Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
