@@ -265,7 +265,7 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-17T02:03:38Z",
+    "updated_at": "2025-09-17T09:25:07Z",
     "version": "1.1.4"
   },
   "astrbot_plugin_m": {
@@ -558,8 +558,8 @@
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "stars": 4,
-    "updated_at": "2025-09-17T07:34:17Z",
-    "version": "v1.3"
+    "updated_at": "2025-09-17T09:38:01Z",
+    "version": "v1.4"
   },
   "command_to_llm": {
     "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
