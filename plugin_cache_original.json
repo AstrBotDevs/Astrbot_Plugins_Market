@@ -172,8 +172,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2025-09-16T17:34:38Z",
+    "stars": 11,
+    "updated_at": "2025-09-17T04:04:18Z",
     "version": "v1.2"
   },
   "astrbot_plugin_group_chat": {
@@ -2528,7 +2528,7 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 4,
-    "updated_at": "2025-09-16T11:11:25Z",
+    "updated_at": "2025-09-17T04:03:59Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_xiaoxue": {
@@ -3240,7 +3240,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 38,
-    "updated_at": "2025-09-16T04:20:11Z",
+    "updated_at": "2025-09-17T04:07:15Z",
     "version": "v2.0.6"
   },
   "astrbot_plugin_voiceprint": {
@@ -5577,8 +5577,8 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 29,
-    "updated_at": "2025-09-15T11:56:59Z",
+    "stars": 30,
+    "updated_at": "2025-09-17T04:17:39Z",
     "version": "v1.4.11"
   },
   "astrbot_plugin_leetcode": {
