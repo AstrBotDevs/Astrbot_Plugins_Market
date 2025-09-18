@@ -1149,7 +1149,7 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-18T00:32:17Z",
+    "updated_at": "2025-09-18T11:40:47Z",
     "version": "v0.2"
   },
   "intelligent_retry": {
@@ -3793,15 +3793,6 @@
     "stars": 1,
     "updated_at": "2025-08-31T16:18:05Z",
     "version": "v1.2"
-  },
-  "astrbot_plugin_grok_filter": {
-    "author": "Cheng-MaoMao",
-    "repo": "https://github.com/Cheng-MaoMao/astrbot_plugin_grok_filter",
-    "desc": "过滤 grok-3-reasoner 推理模型的思维链内容",
-    "tags": [],
-    "stars": 0,
-    "updated_at": "2025-04-01T17:27:34Z",
-    "version": "v1.0.0"
   },
   "FavorSystem": {
     "author": "wuyan1003",
