@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-17T02:56:10.723Z",
-  "total_plugins": 16,
+  "updated_at": "2025-09-18T02:58:03.298Z",
+  "total_plugins": 22,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -13,6 +13,30 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2538",
       "created_at": "2025-08-23T03:54:57Z",
       "updated_at": "2025-08-24T04:15:26Z"
+    },
+    {
+      "name": "astrbot_plugin_-dpcq_game",
+      "desc": "一个文字修仙游戏，基于经典小说《斗破苍穹》设定，包含境界突破、炼丹系统、副本挑战等丰富玩法",
+      "author": "bandaotehe",
+      "repo": "https://github.com/bandaotehe/astrbot_plugin_-dpcq_game",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2791,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2791",
+      "created_at": "2025-09-17T06:41:10Z",
+      "updated_at": "2025-09-17T06:45:06Z"
+    },
+    {
+      "name": "astrbot_plugin_admin_emoji_reply",
+      "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
+      "author": "EraAsh",
+      "repo": "https://github.com/EraAsh/astrbot_plugin_admin_emoji_reply",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2797,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2797",
+      "created_at": "2025-09-17T15:55:42Z",
+      "updated_at": "2025-09-17T15:59:50Z"
     },
     {
       "name": "astrbot_plugin_angel_eye",
@@ -45,6 +69,20 @@
       "updated_at": "2025-09-15T11:37:19Z"
     },
     {
+      "name": "astrbot_plugin_consoleapi",
+      "desc": "此插件可将AstrBot控制台的部分API接口，转为可由用户直接对话执行的注册指令（现已实现AstrBot重启和删除对话数据）",
+      "author": "laopanmemz",
+      "repo": "https://github.com/laopanmemz/astrbot_plugin_consoleapi",
+      "tags": [
+        "API"
+      ],
+      "social_link": "https://space.bilibili.com/447591776",
+      "issue_number": 2792,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2792",
+      "created_at": "2025-09-17T07:44:34Z",
+      "updated_at": "2025-09-17T07:48:09Z"
+    },
+    {
       "name": "astrbot_plugin_fuckanka",
       "desc": "[仅限aiocqhttp] 搬史二号，监听群聊转发聊天记录 文本 图片 视频，自带查重缓存",
       "author": "ali",
@@ -59,6 +97,32 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
       "created_at": "2025-09-10T06:55:08Z",
       "updated_at": "2025-09-12T03:04:07Z"
+    },
+    {
+      "name": "astrbot_plugin_lottery",
+      "desc": "抽奖插件，可自定义抽奖活动的概率、奖品、奖品数量",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_lottery",
+      "tags": [
+        "抽奖"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "issue_number": 2798,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2798",
+      "created_at": "2025-09-17T17:44:44Z",
+      "updated_at": "2025-09-17T17:45:43Z"
+    },
+    {
+      "name": "astrbot_plugin_meme_manager_lite",
+      "desc": "允许LLM在回答中使用表情包 轻量级！",
+      "author": "ctrlkk",
+      "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2790,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2790",
+      "created_at": "2025-09-17T04:51:05Z",
+      "updated_at": "2025-09-17T04:52:03Z"
     },
     {
       "name": "astrbot_plugin_nene_bot",
@@ -120,6 +184,20 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2125",
       "created_at": "2025-07-14T09:21:46Z",
       "updated_at": "2025-07-16T05:18:31Z"
+    },
+    {
+      "name": "astrbot_plugin_touchgal",
+      "desc": "基于TouchGal API的Galgame信息查询与下载插件",
+      "author": "CCYellowStar2",
+      "repo": "https://github.com/CCYellowStar2/astrbot_plugin_touchgal",
+      "tags": [
+        "galgame"
+      ],
+      "social_link": "",
+      "issue_number": 2794,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2794",
+      "created_at": "2025-09-17T14:37:17Z",
+      "updated_at": "2025-09-17T16:11:43Z"
     },
     {
       "name": "astrbot_plugin_tts_llm",
