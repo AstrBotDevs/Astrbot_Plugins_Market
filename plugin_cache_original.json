@@ -1040,8 +1040,8 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "stars": 1,
-    "updated_at": "2025-09-02T04:25:30Z",
-    "version": "1.0.2"
+    "updated_at": "2025-09-18T14:56:28Z",
+    "version": "1.0.3"
   },
   "astrbot_plugin_identity_strategy": {
     "desc": "为群聊/私聊注入指定的应对提示词（纯配置，无命令；支持特殊ID与空白策略）",
@@ -2528,7 +2528,7 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 5,
-    "updated_at": "2025-09-18T03:41:53Z",
+    "updated_at": "2025-09-18T15:02:23Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_xiaoxue": {
