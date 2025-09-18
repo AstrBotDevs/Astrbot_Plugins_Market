@@ -3459,8 +3459,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 77,
-    "updated_at": "2025-09-11T10:35:17Z",
+    "stars": 78,
+    "updated_at": "2025-09-18T02:55:18Z",
     "version": "v2.0.3"
   },
   "astrbot_plugin_help": {
@@ -5542,8 +5542,8 @@
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
     "stars": 30,
-    "updated_at": "2025-09-17T04:17:39Z",
-    "version": "v1.4.11"
+    "updated_at": "2025-09-18T02:31:27Z",
+    "version": "v1.4.12"
   },
   "astrbot_plugin_leetcode": {
     "desc": "leetcode 每日一题、随机题目。",
