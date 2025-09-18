@@ -1149,8 +1149,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-08-10T03:02:39Z",
-    "version": "v0.1"
+    "updated_at": "2025-09-18T00:32:17Z",
+    "version": "v0.2"
   },
   "intelligent_retry": {
     "desc": "当LLM回复为空或包含特定错误关键词时，自动进行多次重试，提高交互稳定性。",
@@ -3748,7 +3748,7 @@
       "pixiv"
     ],
     "stars": 22,
-    "updated_at": "2025-09-16T14:10:15Z",
+    "updated_at": "2025-09-18T00:39:43Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_gotify": {
