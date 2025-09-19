@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-19T03:10:48Z",
-    "version": "1.1.5"
+    "updated_at": "2025-09-19T06:08:11Z",
+    "version": "1.1.6"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
