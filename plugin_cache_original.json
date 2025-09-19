@@ -774,8 +774,8 @@
     ],
     "social_link": "https://github.com/danfong1104",
     "stars": 1,
-    "updated_at": "2025-08-29T14:29:33Z",
-    "version": "v2.0.2"
+    "updated_at": "2025-09-19T18:22:11Z",
+    "version": "v2.1.0"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
