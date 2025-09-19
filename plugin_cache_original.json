@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-17T09:25:07Z",
-    "version": "1.1.4"
+    "updated_at": "2025-09-19T03:10:48Z",
+    "version": "1.1.5"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -416,8 +416,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 19,
-    "updated_at": "2025-09-16T05:53:58Z",
+    "stars": 20,
+    "updated_at": "2025-09-19T02:51:26Z",
     "version": "v2.4.0"
   },
   "astrbot_plugin_boss_notifier": {
@@ -2043,7 +2043,7 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 24,
-    "updated_at": "2025-09-18T09:22:19Z",
+    "updated_at": "2025-09-19T03:18:55Z",
     "version": "v2.5.7"
   },
   "astrbot_plugin_Astrsupermarket": {
