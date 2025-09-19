@@ -1548,8 +1548,8 @@
       "游戏"
     ],
     "social_link": "https://github.com/zhewang448",
-    "stars": 11,
-    "updated_at": "2025-09-04T03:12:06Z",
+    "stars": 12,
+    "updated_at": "2025-09-19T09:07:08Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_Heartflow": {
@@ -5040,8 +5040,8 @@
       "功能",
       "推送"
     ],
-    "stars": 14,
-    "updated_at": "2025-09-04T16:18:07Z",
+    "stars": 15,
+    "updated_at": "2025-09-19T08:39:37Z",
     "version": "v2.0"
   },
   "astrbot_plugin_gemini_exp": {
@@ -5470,7 +5470,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 17,
-    "updated_at": "2025-09-19T07:25:47Z",
+    "updated_at": "2025-09-19T08:23:02Z",
     "version": "v1.3.4"
   },
   "ai_memory": {
