@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-18T02:58:03.298Z",
-  "total_plugins": 22,
+  "updated_at": "2025-09-19T03:01:17.027Z",
+  "total_plugins": 30,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -37,6 +37,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2797",
       "created_at": "2025-09-17T15:55:42Z",
       "updated_at": "2025-09-17T15:59:50Z"
+    },
+    {
+      "name": "astrbot_plugin_admin_tools",
+      "desc": "允许LLM禁言、踢出、拉黑用户",
+      "author": "ctrlkk",
+      "repo": "https://github.com/ctrlkk/astrbot_plugin_admin_tools",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2807,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2807",
+      "created_at": "2025-09-18T11:27:49Z",
+      "updated_at": "2025-09-18T11:28:45Z"
     },
     {
       "name": "astrbot_plugin_angel_eye",
@@ -110,7 +122,25 @@
       "issue_number": 2798,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2798",
       "created_at": "2025-09-17T17:44:44Z",
-      "updated_at": "2025-09-17T17:45:43Z"
+      "updated_at": "2025-09-19T02:09:07Z"
+    },
+    {
+      "name": "astrbot_plugin_mc_admin",
+      "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
+      "author": "Xc_Star",
+      "repo": "https://github.com/Xc-Star/astrbot_plugin_mc_admin",
+      "tags": [
+        "mc",
+        "珍珠计算",
+        "白名单",
+        "坐标",
+        "备货"
+      ],
+      "social_link": "",
+      "issue_number": 2801,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2801",
+      "created_at": "2025-09-18T06:42:03Z",
+      "updated_at": "2025-09-18T06:43:26Z"
     },
     {
       "name": "astrbot_plugin_meme_manager_lite",
@@ -123,6 +153,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2790",
       "created_at": "2025-09-17T04:51:05Z",
       "updated_at": "2025-09-17T04:52:03Z"
+    },
+    {
+      "name": "astrbot_plugin_msg_search",
+      "desc": "[仅aiocqhttp]搜消息插件，比如搜索 谁at我",
+      "author": "Zhalslar",
+      "repo": "https://github.com/Zhalslar/astrbot_plugin_msg_search",
+      "tags": [
+        "谁@我",
+        "搜消息"
+      ],
+      "social_link": "https://github.com/Zhalslar",
+      "issue_number": 2805,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2805",
+      "created_at": "2025-09-18T09:30:04Z",
+      "updated_at": "2025-09-18T09:38:50Z"
     },
     {
       "name": "astrbot_plugin_nene_bot",
@@ -139,7 +184,7 @@
       "issue_number": 2728,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2728",
       "created_at": "2025-09-12T03:20:53Z",
-      "updated_at": "2025-09-15T09:00:22Z"
+      "updated_at": "2025-09-18T04:51:50Z"
     },
     {
       "name": "astrbot_plugin_personal_selfupdate",
@@ -186,6 +231,18 @@
       "updated_at": "2025-07-16T05:18:31Z"
     },
     {
+      "name": "astrbot_plugin_the_Big-3_Chinese_AI_conferences",
+      "desc": "亿万人将要精读中文AI顶会",
+      "author": "RC-CHN",
+      "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
+      "issue_number": 2803,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2803",
+      "created_at": "2025-09-18T09:25:11Z",
+      "updated_at": "2025-09-19T00:56:36Z",
+      "tags": [],
+      "social_link": ""
+    },
+    {
       "name": "astrbot_plugin_touchgal",
       "desc": "基于TouchGal API的Galgame信息查询与下载插件",
       "author": "CCYellowStar2",
@@ -197,7 +254,7 @@
       "issue_number": 2794,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2794",
       "created_at": "2025-09-17T14:37:17Z",
-      "updated_at": "2025-09-17T16:11:43Z"
+      "updated_at": "2025-09-18T09:34:05Z"
     },
     {
       "name": "astrbot_plugin_tts_llm",
@@ -210,6 +267,21 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2773",
       "created_at": "2025-09-15T19:51:53Z",
       "updated_at": "2025-09-15T19:52:45Z"
+    },
+    {
+      "name": "astrbot_plugin_xiuxian",
+      "desc": "基于astrbot框架的文字修仙游戏",
+      "author": "oldPeter616",
+      "repo": "https://github.com/oldPeter616/astrbot_plugin_xiuxian",
+      "tags": [
+        "赛博修仙",
+        "小游戏"
+      ],
+      "social_link": "",
+      "issue_number": 2808,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2808",
+      "created_at": "2025-09-18T14:09:41Z",
+      "updated_at": "2025-09-18T14:14:07Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -240,6 +312,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2551",
       "created_at": "2025-08-24T14:17:00Z",
       "updated_at": "2025-08-25T08:05:04Z"
+    },
+    {
+      "name": "festival-greeter",
+      "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_plugin_festival_greeter",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2800,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2800",
+      "created_at": "2025-09-18T06:13:05Z",
+      "updated_at": "2025-09-18T07:41:59Z"
     },
     {
       "name": "gemini_tokens_limit",
@@ -273,6 +357,24 @@
       "updated_at": "2025-08-25T11:38:08Z"
     },
     {
+      "name": "mc_admin",
+      "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
+      "author": "Xc_Star",
+      "repo": "https://github.com/Xc-Star/astrbot_plugin_mc_admin",
+      "tags": [
+        "mc",
+        "珍珠计算",
+        "白名单",
+        "坐标",
+        "备货"
+      ],
+      "social_link": "",
+      "issue_number": 2799,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2799",
+      "created_at": "2025-09-18T06:08:49Z",
+      "updated_at": "2025-09-18T06:11:28Z"
+    },
+    {
       "name": "qftp",
       "desc": "一个基于 astrbot 的文件管理插件，支持文件下载、搜索等功能。只在napcat+linux下尝试",
       "author": "。。。",
@@ -285,6 +387,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2490",
       "created_at": "2025-08-18T15:26:13Z",
       "updated_at": "2025-08-24T04:26:00Z"
+    },
+    {
+      "name": "scheduled_reply",
+      "desc": "定时回复插件，让你的机器人每天早上八点在群里发早上好",
+      "author": "tacbana",
+      "repo": "https://github.com/tacbana/astrbot_plugin_scheduled_reply",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2804,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2804",
+      "created_at": "2025-09-18T09:29:46Z",
+      "updated_at": "2025-09-18T10:14:11Z"
     },
     {
       "name": "server_status_monitor",
