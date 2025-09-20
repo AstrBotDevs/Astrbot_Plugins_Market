@@ -817,8 +817,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 77,
-    "updated_at": "2025-09-20T06:09:03Z",
+    "stars": 78,
+    "updated_at": "2025-09-20T08:58:40Z",
     "version": "v2.0.8"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -2643,8 +2643,8 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 6,
-    "updated_at": "2025-09-20T06:12:12Z",
-    "version": "2.1.4"
+    "updated_at": "2025-09-20T08:15:40Z",
+    "version": "2.1.5"
   },
   "astrbot_plugin_xiaoxue": {
     "author": "sbmikoto",
@@ -2874,8 +2874,8 @@
       "工具"
     ],
     "social_link": "https://github.com/Angus-fw",
-    "stars": 16,
-    "updated_at": "2025-09-11T23:42:34Z",
+    "stars": 17,
+    "updated_at": "2025-09-20T08:22:59Z",
     "version": "v1.1.5"
   },
   "astrbot_plugin_timetask": {
@@ -3574,8 +3574,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 80,
-    "updated_at": "2025-09-20T02:22:46Z",
+    "stars": 81,
+    "updated_at": "2025-09-20T08:33:01Z",
     "version": "v2.0.3"
   },
   "astrbot_plugin_help": {
@@ -4807,8 +4807,8 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "repo": "https://github.com/Zhalslar/astrbot_plugin_memelite",
     "stars": 51,
-    "updated_at": "2025-09-20T04:44:33Z",
-    "version": "v3.0.0"
+    "updated_at": "2025-09-20T09:07:51Z",
+    "version": "v3.0.1"
   },
   "astrbot_plugin_saris_economic": {
     "author": "城城",
