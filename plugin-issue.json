@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-19T03:01:17.027Z",
-  "total_plugins": 30,
+  "updated_at": "2025-09-20T02:55:03.756Z",
+  "total_plugins": 33,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -231,6 +231,21 @@
       "updated_at": "2025-07-16T05:18:31Z"
     },
     {
+      "name": "astrbot_plugin_text_renderer",
+      "desc": "文本文件生成图片",
+      "author": "sic",
+      "repo": "https://github.com/Sic-x/astrbot_plugin_text_renderer",
+      "tags": [
+        "文本转图片",
+        "文转图"
+      ],
+      "social_link": "https://github.com/Sic-x",
+      "issue_number": 2816,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2816",
+      "created_at": "2025-09-19T08:27:07Z",
+      "updated_at": "2025-09-19T08:40:21Z"
+    },
+    {
       "name": "astrbot_plugin_the_Big-3_Chinese_AI_conferences",
       "desc": "亿万人将要精读中文AI顶会",
       "author": "RC-CHN",
@@ -257,6 +272,20 @@
       "updated_at": "2025-09-18T09:34:05Z"
     },
     {
+      "name": "astrbot_plugin_TRPGdice_Complete",
+      "desc": "为跑团玩家设计的仿Dice!骰子插件[升级版！]",
+      "author": "shiroling",
+      "repo": "https://github.com/WhiteEurya/Astrbot_plugin_TRPGdice-Complete",
+      "tags": [
+        "骰子"
+      ],
+      "issue_number": 2813,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2813",
+      "created_at": "2025-09-19T03:34:55Z",
+      "updated_at": "2025-09-19T03:42:47Z",
+      "social_link": ""
+    },
+    {
       "name": "astrbot_plugin_tts_llm",
       "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
       "author": "clown145",
@@ -281,7 +310,7 @@
       "issue_number": 2808,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2808",
       "created_at": "2025-09-18T14:09:41Z",
-      "updated_at": "2025-09-18T14:14:07Z"
+      "updated_at": "2025-09-19T03:35:01Z"
     },
     {
       "name": "astrbot_plugin_zfile",
@@ -295,6 +324,20 @@
       "updated_at": "2025-07-25T11:05:11Z",
       "tags": [],
       "social_link": ""
+    },
+    {
+      "name": "astrbot_plugins_steam_shop_price",
+      "desc": "用于查询Steam游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
+      "author": "猫耳",
+      "repo": "https://github.com/Maoer233/astrbot_plugins_steam_shop_price",
+      "tags": [
+        "steam"
+      ],
+      "social_link": "https://github.com/Maoer233",
+      "issue_number": 2818,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2818",
+      "created_at": "2025-09-19T09:36:33Z",
+      "updated_at": "2025-09-19T09:45:49Z"
     },
     {
       "name": "daily_checkin",
