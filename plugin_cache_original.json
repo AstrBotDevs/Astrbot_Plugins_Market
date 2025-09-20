@@ -87,8 +87,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 2,
-    "updated_at": "2025-09-17T01:04:18Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-09-20T16:56:24Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_tts_llm": {
     "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
@@ -98,7 +98,7 @@
       "TTS"
     ],
     "stars": 1,
-    "updated_at": "2025-09-19T01:26:49Z",
+    "updated_at": "2025-09-20T16:11:44Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -111,7 +111,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 0,
-    "updated_at": "2025-09-20T11:49:22Z",
+    "updated_at": "2025-09-20T17:01:41Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
