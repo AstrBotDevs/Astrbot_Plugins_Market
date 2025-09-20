@@ -526,8 +526,8 @@
     "tags": [
       "适配器"
     ],
-    "stars": 3,
-    "updated_at": "2025-09-03T06:30:12Z",
+    "stars": 4,
+    "updated_at": "2025-09-20T03:04:23Z",
     "version": "v0.0.1"
   },
   "astrbot_plugin_ms_aiimg": {
@@ -3459,8 +3459,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 79,
-    "updated_at": "2025-09-19T00:47:23Z",
+    "stars": 80,
+    "updated_at": "2025-09-20T02:22:46Z",
     "version": "v2.0.3"
   },
   "astrbot_plugin_help": {
@@ -4284,8 +4284,8 @@
       "QQ资料"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
-    "stars": 5,
-    "updated_at": "2025-09-08T14:27:19Z",
+    "stars": 6,
+    "updated_at": "2025-09-20T02:32:47Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_mcping": {
@@ -5668,8 +5668,8 @@
     "repo": "https://github.com/cyber-moshen/astrbot_plugin_VITS",
     "tags": [],
     "stars": 6,
-    "updated_at": "2025-08-28T08:11:41Z",
-    "version": "v1.4.0"
+    "updated_at": "2025-09-20T03:09:47Z",
+    "version": "v1.5.0"
   },
   "astrbot_plugin_memes": {
     "desc": "这是能让机器人随机发表情包的插件，可手动添加表情包，表情包路径在AstrBot/data/meme/下",
