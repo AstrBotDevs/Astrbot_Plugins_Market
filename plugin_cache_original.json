@@ -1,4 +1,119 @@
 {
+  "astrbot_plugin_meme_manager_lite": {
+    "desc": "允许 LLM 在回答中使用表情包，轻量级！",
+    "author": "ctrlkk",
+    "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-20T02:36:15Z",
+    "version": "v1.1"
+  },
+  "astrbot_plugin_festival_greeter": {
+    "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_festival_greeter",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-18T07:43:00Z",
+    "version": "v0.1.1"
+  },
+  "astrbot_plugin_nene_bot": {
+    "desc": "一款支持 RAG 记忆功能的多模态 LLM 聊天机器人。实现基于 LanceDB 的 RAG 自动化多模态聊天记录存储与向量数据库查询与基于大模型的动态自主回复概率，再也不用担心 AI 乱插话的问题。",
+    "author": "sdy_zjx",
+    "repo": "https://github.com/sdyzjx/nene-astra-bot",
+    "tags": [
+      "拟人",
+      "RAG",
+      "记忆系统",
+      "多模态"
+    ],
+    "stars": 0,
+    "updated_at": "2025-09-18T04:51:36Z",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_lottery": {
+    "desc": "抽奖插件，可自定义抽奖活动的概率、奖品、奖品数量",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_lottery",
+    "tags": [
+      "抽奖"
+    ],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 1,
+    "updated_at": "2025-09-19T02:07:34Z",
+    "version": "v1.0.3"
+  },
+  "astrbot_plugin_touchgal": {
+    "desc": "基于 TouchGal API 的 Galgame 信息查询与下载插件",
+    "author": "CCYellowStar2",
+    "repo": "https://github.com/CCYellowStar2/astrbot_plugin_touchgal",
+    "tags": [
+      "galgame"
+    ],
+    "stars": 1,
+    "updated_at": "2025-09-18T15:06:38Z",
+    "version": "v1.0"
+  },
+  "astrbot_plugins_steam_shop_price": {
+    "desc": "用于查询 Steam 游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
+    "author": "猫耳",
+    "repo": "https://github.com/Maoer233/astrbot_plugins_steam_shop_price",
+    "tags": [
+      "Steam"
+    ],
+    "social_link": "https://github.com/Maoer233",
+    "stars": 0,
+    "updated_at": "2025-09-19T09:44:45Z",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_personal_selfupdate": {
+    "desc": "一个用于自更新人格数据的插件。",
+    "author": "kterna",
+    "repo": "https://github.com/kterna/astrbot_plugin_personal_selfupdate",
+    "tags": [
+      "人格",
+      "LLM"
+    ],
+    "stars": 0,
+    "updated_at": "2025-09-18T01:12:05Z",
+    "version": "0.1.1"
+  },
+  "astrbot_plugin_restart": {
+    "desc": "用命令重启、定时自动重启 AstrBot，以解决bot长时间运行可能出现的“抽风”或内存泄漏问题",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_restart",
+    "tags": [
+      "重启"
+    ],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 2,
+    "updated_at": "2025-09-17T01:04:18Z",
+    "version": "v1.0.1"
+  },
+  "astrbot_plugin_tts_llm": {
+    "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
+    "author": "clown145",
+    "repo": "https://github.com/clown145/astrbot_plugin_tts_llm",
+    "tags": [
+      "TTS"
+    ],
+    "stars": 1,
+    "updated_at": "2025-09-19T01:26:49Z",
+    "version": "1.0.0"
+  },
+  "astrbot_plugin_angel_eye": {
+    "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
+    "author": "kawayiYokami",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_eye",
+    "tags": [
+      "搜索",
+      "知识"
+    ],
+    "social_link": "https://github.com/kawayiYokami",
+    "stars": 0,
+    "updated_at": "2025-09-18T01:46:02Z",
+    "version": "0.1.0"
+  },
   "astrbot_plugin_pollinations_images": {
     "desc": "使用 Pollinations AI生成图片。无需注册，开箱即用！",
     "author": "qa296",
