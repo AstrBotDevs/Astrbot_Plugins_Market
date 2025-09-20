@@ -265,8 +265,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-19T06:08:11Z",
-    "version": "1.1.6"
+    "updated_at": "2025-09-20T05:20:13Z",
+    "version": "1.1.7"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -703,8 +703,8 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 77,
-    "updated_at": "2025-09-19T12:23:11Z",
-    "version": "v2.0.7"
+    "updated_at": "2025-09-20T06:09:03Z",
+    "version": "v2.0.8"
   },
   "astrbot_plugin_Mirecraft_motd": {
     "desc": "Minecraft motd 探测服务器的插件",
@@ -774,8 +774,8 @@
     ],
     "social_link": "https://github.com/danfong1104",
     "stars": 1,
-    "updated_at": "2025-09-19T18:22:11Z",
-    "version": "v2.1.0"
+    "updated_at": "2025-09-20T05:41:21Z",
+    "version": "v2.1.1"
   },
   "astrbot_plugin_tts_emotion_router": {
     "desc": "按情绪路由到不同音色与语速的 TTS 插件（硅基流动 API，其他OpenAI语音接口api同样适配），支持隐藏标记与启发式情绪识别、概率/长度/冷却门控与会话开关。",
@@ -2527,8 +2527,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 5,
-    "updated_at": "2025-09-20T00:56:44Z",
+    "stars": 6,
+    "updated_at": "2025-09-20T06:12:12Z",
     "version": "2.1.4"
   },
   "astrbot_plugin_xiaoxue": {
