@@ -62,8 +62,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 0,
-    "updated_at": "2025-09-19T09:44:45Z",
+    "stars": 1,
+    "updated_at": "2025-09-20T10:07:10Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_personal_selfupdate": {
@@ -5422,8 +5422,8 @@
       "webui",
       "图床"
     ],
-    "stars": 80,
-    "updated_at": "2025-09-16T10:52:29Z",
+    "stars": 81,
+    "updated_at": "2025-09-20T09:36:47Z",
     "version": "v3.13"
   },
   "mccloud_command": {
