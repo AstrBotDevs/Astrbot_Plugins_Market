@@ -4280,8 +4280,8 @@
       "QQ群管"
     ],
     "stars": 41,
-    "updated_at": "2025-09-17T02:47:55Z",
-    "version": "v3.1.2"
+    "updated_at": "2025-09-20T13:58:26Z",
+    "version": "v3.1.3"
   },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
@@ -5319,8 +5319,8 @@
       "主动回复"
     ],
     "repo": "https://github.com/23q3/astrbot_plugin_SpectreCore",
-    "stars": 67,
-    "updated_at": "2025-09-09T07:39:23Z",
+    "stars": 68,
+    "updated_at": "2025-09-20T14:04:27Z",
     "version": "v2.1.5"
   },
   "astrbot_plugin_steamshot": {
