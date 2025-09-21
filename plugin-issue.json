@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-20T02:55:03.756Z",
-  "total_plugins": 33,
+  "updated_at": "2025-09-21T03:09:00.415Z",
+  "total_plugins": 25,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -40,7 +40,7 @@
     },
     {
       "name": "astrbot_plugin_admin_tools",
-      "desc": "允许LLM禁言、踢出、拉黑用户",
+      "desc": "允许LLM禁言、踢出用户",
       "author": "ctrlkk",
       "repo": "https://github.com/ctrlkk/astrbot_plugin_admin_tools",
       "tags": [],
@@ -48,22 +48,7 @@
       "issue_number": 2807,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2807",
       "created_at": "2025-09-18T11:27:49Z",
-      "updated_at": "2025-09-18T11:28:45Z"
-    },
-    {
-      "name": "astrbot_plugin_angel_eye",
-      "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
-      "author": "kawayiYokami",
-      "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_eye",
-      "tags": [
-        "搜索",
-        "知识"
-      ],
-      "social_link": "https://github.com/kawayiYokami",
-      "issue_number": 2766,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2766",
-      "created_at": "2025-09-15T11:36:27Z",
-      "updated_at": "2025-09-15T11:40:17Z"
+      "updated_at": "2025-09-20T03:31:47Z"
     },
     {
       "name": "astrbot_plugin_angel_heart",
@@ -75,24 +60,36 @@
         "主动应答"
       ],
       "social_link": "https://github.com/kawayiYokami",
-      "issue_number": 2765,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2765",
-      "created_at": "2025-09-15T11:05:08Z",
-      "updated_at": "2025-09-15T11:37:19Z"
+      "issue_number": 2829,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2829",
+      "created_at": "2025-09-20T17:29:38Z",
+      "updated_at": "2025-09-20T17:39:45Z"
     },
     {
-      "name": "astrbot_plugin_consoleapi",
-      "desc": "此插件可将AstrBot控制台的部分API接口，转为可由用户直接对话执行的注册指令（现已实现AstrBot重启和删除对话数据）",
-      "author": "laopanmemz",
-      "repo": "https://github.com/laopanmemz/astrbot_plugin_consoleapi",
+      "name": "astrbot_plugin_astrmetry",
+      "desc": "接入Astrometry.net进行星空图片解析。",
+      "author": "M42",
+      "repo": "https://github.com/XCM42-Orion/astrbot_plugin_astrmetry",
       "tags": [
-        "API"
+        "天文"
       ],
-      "social_link": "https://space.bilibili.com/447591776",
-      "issue_number": 2792,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2792",
-      "created_at": "2025-09-17T07:44:34Z",
-      "updated_at": "2025-09-17T07:48:09Z"
+      "social_link": "",
+      "issue_number": 2825,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2825",
+      "created_at": "2025-09-20T07:03:14Z",
+      "updated_at": "2025-09-20T17:18:21Z"
+    },
+    {
+      "name": "astrbot_plugin_blacklist_tools",
+      "desc": "允许管理员和 LLM 将用户添加到黑名单中，阻止他们的消息，自动拉黑！",
+      "author": "ctrlkk",
+      "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2823,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2823",
+      "created_at": "2025-09-20T03:09:29Z",
+      "updated_at": "2025-09-20T03:19:37Z"
     },
     {
       "name": "astrbot_plugin_fuckanka",
@@ -109,20 +106,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2701",
       "created_at": "2025-09-10T06:55:08Z",
       "updated_at": "2025-09-12T03:04:07Z"
-    },
-    {
-      "name": "astrbot_plugin_lottery",
-      "desc": "抽奖插件，可自定义抽奖活动的概率、奖品、奖品数量",
-      "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_lottery",
-      "tags": [
-        "抽奖"
-      ],
-      "social_link": "https://github.com/Zhalslar",
-      "issue_number": 2798,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2798",
-      "created_at": "2025-09-17T17:44:44Z",
-      "updated_at": "2025-09-19T02:09:07Z"
     },
     {
       "name": "astrbot_plugin_mc_admin",
@@ -170,52 +153,6 @@
       "updated_at": "2025-09-18T09:38:50Z"
     },
     {
-      "name": "astrbot_plugin_nene_bot",
-      "desc": "一款支持rag记忆功能的多模态llm聊天机器人。实现基于lancedb的rag自动化多模态聊天记录存储与向量数据库查询与基于大模型的动态自主回复概率，再也不用担心ai乱插话的问题",
-      "author": "sdy_zjx",
-      "repo": "https://github.com/sdyzjx/nene-astra-bot",
-      "tags": [
-        "拟人",
-        "RAG",
-        "记忆系统",
-        "多模态"
-      ],
-      "social_link": "",
-      "issue_number": 2728,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2728",
-      "created_at": "2025-09-12T03:20:53Z",
-      "updated_at": "2025-09-18T04:51:50Z"
-    },
-    {
-      "name": "astrbot_plugin_personal_selfupdate",
-      "desc": "一个用于自更新人格数据的插件。",
-      "author": "kterna",
-      "repo": "https://github.com/kterna/astrbot_plugin_personal_selfupdate",
-      "tags": [
-        "人格",
-        "llm"
-      ],
-      "social_link": "",
-      "issue_number": 2777,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2777",
-      "created_at": "2025-09-16T03:04:51Z",
-      "updated_at": "2025-09-16T03:08:06Z"
-    },
-    {
-      "name": "astrbot_plugin_restart",
-      "desc": "用命令重启、定时自动重启 AstrBot，以解决bot长时间运行可能出现的“抽风”或内存泄漏问题",
-      "author": "Zhalslar",
-      "repo": "https://github.com/Zhalslar/astrbot_plugin_restart",
-      "tags": [
-        "重启"
-      ],
-      "social_link": "https://github.com/Zhalslar",
-      "issue_number": 2789,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2789",
-      "created_at": "2025-09-16T15:29:25Z",
-      "updated_at": "2025-09-16T17:10:50Z"
-    },
-    {
       "name": "astrbot_plugin_stock",
       "desc": "基于AkShare和Binance的股市行情查询插件，支持数字货币、A股、港股、美股及指数的实时行情、历史数据和K线图表",
       "author": "anchor",
@@ -258,20 +195,6 @@
       "social_link": ""
     },
     {
-      "name": "astrbot_plugin_touchgal",
-      "desc": "基于TouchGal API的Galgame信息查询与下载插件",
-      "author": "CCYellowStar2",
-      "repo": "https://github.com/CCYellowStar2/astrbot_plugin_touchgal",
-      "tags": [
-        "galgame"
-      ],
-      "social_link": "",
-      "issue_number": 2794,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2794",
-      "created_at": "2025-09-17T14:37:17Z",
-      "updated_at": "2025-09-18T09:34:05Z"
-    },
-    {
       "name": "astrbot_plugin_TRPGdice_Complete",
       "desc": "为跑团玩家设计的仿Dice!骰子插件[升级版！]",
       "author": "shiroling",
@@ -286,16 +209,16 @@
       "social_link": ""
     },
     {
-      "name": "astrbot_plugin_tts_llm",
-      "desc": "将LLM的文本回复自动翻译成日语并合成为语音。支持使用自己训练的声音模型和通过指令动态注册、删除和切换不同的声音情感。",
-      "author": "clown145",
-      "repo": "https://github.com/clown145/astrbot_plugin_tts_llm",
+      "name": "astrbot_plugin_VITS_pro",
+      "desc": "硅基流动api语音合成（此版本相比于原插件改动较多，部分功能不稳定，故开一个新坑用于实验）",
+      "author": "Chris95743/第九位魔神",
+      "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
       "tags": [],
-      "social_link": "",
-      "issue_number": 2773,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2773",
-      "created_at": "2025-09-15T19:51:53Z",
-      "updated_at": "2025-09-15T19:52:45Z"
+      "social_link": "https://voice.gbkgov.cn",
+      "issue_number": 2824,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2824",
+      "created_at": "2025-09-20T06:11:44Z",
+      "updated_at": "2025-09-20T06:52:54Z"
     },
     {
       "name": "astrbot_plugin_xiuxian",
@@ -326,20 +249,6 @@
       "social_link": ""
     },
     {
-      "name": "astrbot_plugins_steam_shop_price",
-      "desc": "用于查询Steam游戏的国区价格、史低信息，并支持与其他区服价格对比。支持识别游戏中文名。",
-      "author": "猫耳",
-      "repo": "https://github.com/Maoer233/astrbot_plugins_steam_shop_price",
-      "tags": [
-        "steam"
-      ],
-      "social_link": "https://github.com/Maoer233",
-      "issue_number": 2818,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2818",
-      "created_at": "2025-09-19T09:36:33Z",
-      "updated_at": "2025-09-19T09:45:49Z"
-    },
-    {
       "name": "daily_checkin",
       "desc": "一个签到插件，包含签文系统、商店系统、人物养成系统、装备系统、强化系统、抽奖系统、PVP系统。",
       "author": "FisherNotFool",
@@ -357,16 +266,19 @@
       "updated_at": "2025-08-25T08:05:04Z"
     },
     {
-      "name": "festival-greeter",
-      "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
-      "author": "薄暝",
-      "repo": "https://github.com/xiaoxi68/astrbot_plugin_festival_greeter",
-      "tags": [],
+      "name": "Fishing Another!",
+      "desc": "升级版的钓鱼插件，附带后台管理界面（个性化钓鱼游戏！支持原版fashing2 1.4.6版本fishing存档继续游玩）\n另外一个作者tinker似乎不再继续维护了，我将接手钓鱼插件的后续开发。",
+      "author": "xxlemon",
+      "repo": "https://github.com/xxlemon-io/astrbot_plugin_fishing",
+      "tags": [
+        "game",
+        "fishing"
+      ],
       "social_link": "",
-      "issue_number": 2800,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2800",
-      "created_at": "2025-09-18T06:13:05Z",
-      "updated_at": "2025-09-18T07:41:59Z"
+      "issue_number": 2827,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2827",
+      "created_at": "2025-09-20T13:02:51Z",
+      "updated_at": "2025-09-20T13:25:27Z"
     },
     {
       "name": "gemini_tokens_limit",
@@ -398,24 +310,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2450",
       "created_at": "2025-08-15T18:18:32Z",
       "updated_at": "2025-08-25T11:38:08Z"
-    },
-    {
-      "name": "mc_admin",
-      "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
-      "author": "Xc_Star",
-      "repo": "https://github.com/Xc-Star/astrbot_plugin_mc_admin",
-      "tags": [
-        "mc",
-        "珍珠计算",
-        "白名单",
-        "坐标",
-        "备货"
-      ],
-      "social_link": "",
-      "issue_number": 2799,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2799",
-      "created_at": "2025-09-18T06:08:49Z",
-      "updated_at": "2025-09-18T06:11:28Z"
     },
     {
       "name": "qftp",
@@ -458,18 +352,6 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2204",
       "created_at": "2025-07-22T08:45:51Z",
       "updated_at": "2025-07-25T11:11:11Z"
-    },
-    {
-      "name": "群聊检测刷屏",
-      "desc": "群聊检测刷屏（防止机器人后台爆炸）",
-      "author": "宵夜awa",
-      "repo": "https://github.com/XY6678/QQ-bot-plugin",
-      "tags": [],
-      "social_link": "",
-      "issue_number": 2502,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2502",
-      "created_at": "2025-08-20T00:28:07Z",
-      "updated_at": "2025-08-24T04:24:53Z"
     }
   ]
 }
