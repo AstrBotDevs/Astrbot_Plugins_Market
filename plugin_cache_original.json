@@ -2084,8 +2084,8 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-08-14T10:58:38Z",
-    "version": "v1.1"
+    "updated_at": "2025-09-21T05:55:07Z",
+    "version": "v2.2"
   },
   "astrbot_plugin_cheru": {
     "author": "irs",
@@ -3284,7 +3284,7 @@
     ],
     "social_link": "https://github.com/GEMILUXVII",
     "stars": 38,
-    "updated_at": "2025-09-21T05:11:08Z",
+    "updated_at": "2025-09-21T05:56:53Z",
     "version": "1.1.0"
   },
   "astrbot_plugin_combine-messages": {
