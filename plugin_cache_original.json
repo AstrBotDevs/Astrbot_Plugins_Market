@@ -101,6 +101,19 @@
     "updated_at": "2025-09-21T03:13:41Z",
     "version": "1.0.0"
   },
+  "astrbot_plugin_angel_heart": {
+    "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
+    "author": "kawayiYokami",
+    "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
+    "tags": [
+      "群聊",
+      "主动应答"
+    ],
+    "social_link": "https://github.com/kawayiYokami",
+    "stars": 1,
+    "updated_at": "2025-09-20T17:38:40Z",
+    "version": "0.0.3"
+  },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
     "author": "kawayiYokami",
@@ -716,7 +729,7 @@
     "repo": "https://github.com/furryHM-mrz/asbot_plugin_furry-API-",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-21T08:46:42Z",
+    "updated_at": "2025-09-21T09:58:45Z",
     "version": "v2.3.0"
   },
   "asbot_plugin_furry-API-hy": {
@@ -818,7 +831,7 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "stars": 79,
-    "updated_at": "2025-09-21T08:47:44Z",
+    "updated_at": "2025-09-21T09:20:03Z",
     "version": "v2.0.9"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -1143,8 +1156,8 @@
     ],
     "social_link": "https://github.com/xiewoc",
     "stars": 0,
-    "updated_at": "2025-08-22T17:03:18Z",
-    "version": "v1.0.3"
+    "updated_at": "2025-09-21T09:25:28Z",
+    "version": "v1.0.4"
   },
   "astrbot_plugin_aolastar": {
     "desc": "通过Aolarhapsody后端 API 解析奥拉星游戏内容",
@@ -4271,11 +4284,11 @@
     "updated_at": "2025-08-24T16:22:44Z",
     "version": "v1.1.3"
   },
-  "astrbot_plugin_QQAdmin": {
-    "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏检测、宵禁等等",
+  "astrbot_plugin_qqadmin": {
+    "desc": "[仅aiocqhttp]QQ群管插件，功能包括：禁言、全体禁言、踢人、拉黑、改群昵称、改头衔、设管理员、设精华、发群公告、撤回消息、刷屏禁言、违禁词禁言、投票禁言、宵禁等等",
     "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQAdmin",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_qqadmin",
+    "social_link": "https://github.com/Zhalslar",
     "tags": [
       "QQ群管"
     ],
@@ -4391,14 +4404,14 @@
     "updated_at": "2025-06-23T09:22:56Z",
     "version": "v2.3"
   },
-  "astrbot_plugin_QQProfile": {
+  "astrbot_plugin_qqprofile": {
     "desc": "[仅aiocqhttp] 通过命令配置bot的头像、昵称、签名、状态, 切换人格时同步改变头像、昵称",
     "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_qqprofile",
     "tags": [
       "QQ资料"
     ],
-    "social_link": "https://github.com/Zhalslar/astrbot_plugin_QQProfile",
+    "social_link": "https://github.com/Zhalslar",
     "stars": 6,
     "updated_at": "2025-09-21T04:24:23Z",
     "version": "v1.1.2"
