@@ -2097,7 +2097,7 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-21T08:46:10Z",
+    "updated_at": "2025-09-21T22:17:03Z",
     "version": "v3.3"
   },
   "astrbot_plugin_cheru": {
@@ -2845,7 +2845,7 @@
     "repo": "https://github.com/enixi/astrbot_plugin_delete_and_block_filter",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-05-26T01:08:27Z",
+    "updated_at": "2025-09-21T22:53:42Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_gemini_artist": {
@@ -5394,8 +5394,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 286,
-    "updated_at": "2025-09-17T21:30:45Z",
+    "stars": 287,
+    "updated_at": "2025-09-21T23:06:03Z",
     "version": "v0.912"
   },
   "astrbot_plugin_superpoke": {
