@@ -2097,8 +2097,8 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-22T07:58:09Z",
-    "version": "v3.3"
+    "updated_at": "2025-09-22T11:54:20Z",
+    "version": "v3.4"
   },
   "astrbot_plugin_cheru": {
     "author": "irs",
@@ -4292,8 +4292,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 44,
-    "updated_at": "2025-09-22T08:45:12Z",
+    "stars": 45,
+    "updated_at": "2025-09-22T12:07:40Z",
     "version": "v3.1.5"
   },
   "astrbot_plugin_liars_bar": {
