@@ -439,8 +439,8 @@
       "memory",
       "rag"
     ],
-    "stars": 18,
-    "updated_at": "2025-09-10T13:23:34Z",
+    "stars": 19,
+    "updated_at": "2025-09-22T09:56:28Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_mathitools": {
@@ -1060,8 +1060,8 @@
       "记忆"
     ],
     "social_link": "https://github.com/qa296/",
-    "stars": 14,
-    "updated_at": "2025-09-13T02:00:33Z",
+    "stars": 15,
+    "updated_at": "2025-09-22T09:54:40Z",
     "version": "v0.2.4"
   },
   "astrbot_plugin_iearning_style": {
