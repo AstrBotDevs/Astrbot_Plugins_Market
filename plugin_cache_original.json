@@ -4006,8 +4006,8 @@
       "工具"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 22,
-    "updated_at": "2025-09-22T16:28:02Z",
+    "stars": 23,
+    "updated_at": "2025-09-22T17:46:20Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -4505,8 +4505,8 @@
       "QQ群管"
     ],
     "stars": 45,
-    "updated_at": "2025-09-22T14:44:42Z",
-    "version": "v3.1.6"
+    "updated_at": "2025-09-22T18:02:23Z",
+    "version": "v3.1.7"
   },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
