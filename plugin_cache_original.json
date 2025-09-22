@@ -2171,8 +2171,8 @@
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
     "stars": 24,
-    "updated_at": "2025-09-19T03:18:55Z",
-    "version": "v2.5.7"
+    "updated_at": "2025-09-22T09:13:56Z",
+    "version": "v2.5.8"
   },
   "astrbot_plugin_Astrsupermarket": {
     "author": "和泉智宏本人",
@@ -4293,8 +4293,8 @@
       "QQ群管"
     ],
     "stars": 44,
-    "updated_at": "2025-09-22T03:38:12Z",
-    "version": "v3.1.4"
+    "updated_at": "2025-09-22T08:45:12Z",
+    "version": "v3.1.5"
   },
   "astrbot_plugin_liars_bar": {
     "desc": "本插件是为 AstrBot 框架开发的游戏插件，实现了一个骗子酒馆",
