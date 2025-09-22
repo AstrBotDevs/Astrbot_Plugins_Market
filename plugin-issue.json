@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-09-21T03:09:00.415Z",
-  "total_plugins": 25,
+  "updated_at": "2025-09-22T03:08:37.174Z",
+  "total_plugins": 26,
   "plugins": [
     {
       "name": "AI_Memory_KG",
@@ -51,21 +51,6 @@
       "updated_at": "2025-09-20T03:31:47Z"
     },
     {
-      "name": "astrbot_plugin_angel_heart",
-      "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让AI成为懂分寸、有眼色的聊天伙伴。",
-      "author": "kawayiYokami",
-      "repo": "https://github.com/kawayiYokami/astrbot_plugin_angel_heart",
-      "tags": [
-        "群聊",
-        "主动应答"
-      ],
-      "social_link": "https://github.com/kawayiYokami",
-      "issue_number": 2829,
-      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2829",
-      "created_at": "2025-09-20T17:29:38Z",
-      "updated_at": "2025-09-20T17:39:45Z"
-    },
-    {
       "name": "astrbot_plugin_astrmetry",
       "desc": "接入Astrometry.net进行星空图片解析。",
       "author": "M42",
@@ -77,7 +62,7 @@
       "issue_number": 2825,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2825",
       "created_at": "2025-09-20T07:03:14Z",
-      "updated_at": "2025-09-20T17:18:21Z"
+      "updated_at": "2025-09-21T05:45:34Z"
     },
     {
       "name": "astrbot_plugin_blacklist_tools",
@@ -126,6 +111,20 @@
       "updated_at": "2025-09-18T06:43:26Z"
     },
     {
+      "name": "astrbot_plugin_mcman",
+      "desc": "一个基于RCON协议的MC服务器管理器插件",
+      "author": "卡带酱",
+      "repo": "https://github.com/PISOFT-Studio/astrbot_plugin_mcman",
+      "tags": [
+        "Minecraft"
+      ],
+      "social_link": "https://kdja.top",
+      "issue_number": 2835,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2835",
+      "created_at": "2025-09-21T10:37:42Z",
+      "updated_at": "2025-09-21T13:13:38Z"
+    },
+    {
       "name": "astrbot_plugin_meme_manager_lite",
       "desc": "允许LLM在回答中使用表情包 轻量级！",
       "author": "ctrlkk",
@@ -151,6 +150,18 @@
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2805",
       "created_at": "2025-09-18T09:30:04Z",
       "updated_at": "2025-09-18T09:38:50Z"
+    },
+    {
+      "name": "astrbot_plugin_nbnhhsh",
+      "desc": "神奇海螺缩写查询，支持“XX是什么/是啥/是什么意思”提问，需先@机器人",
+      "author": "薄暝",
+      "repo": "https://github.com/xiaoxi68/astrbot_plugin_nbnhhsh",
+      "tags": [],
+      "social_link": "",
+      "issue_number": 2833,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2833",
+      "created_at": "2025-09-21T08:27:13Z",
+      "updated_at": "2025-09-21T08:32:26Z"
     },
     {
       "name": "astrbot_plugin_stock",
@@ -180,7 +191,7 @@
       "issue_number": 2816,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2816",
       "created_at": "2025-09-19T08:27:07Z",
-      "updated_at": "2025-09-19T08:40:21Z"
+      "updated_at": "2025-09-22T02:43:32Z"
     },
     {
       "name": "astrbot_plugin_the_Big-3_Chinese_AI_conferences",
@@ -218,7 +229,7 @@
       "issue_number": 2824,
       "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2824",
       "created_at": "2025-09-20T06:11:44Z",
-      "updated_at": "2025-09-20T06:52:54Z"
+      "updated_at": "2025-09-21T03:38:31Z"
     },
     {
       "name": "astrbot_plugin_xiuxian",
