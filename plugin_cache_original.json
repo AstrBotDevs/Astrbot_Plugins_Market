@@ -458,7 +458,7 @@
     ],
     "social_link": "https://github.com/muyouzhi6",
     "stars": 5,
-    "updated_at": "2025-09-22T12:39:50Z",
+    "updated_at": "2025-09-22T16:32:41Z",
     "version": "2.0.0"
   },
   "astrbot_plugin_bilibili_up_notifier": {
@@ -4006,8 +4006,8 @@
       "工具"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 21,
-    "updated_at": "2025-09-22T04:59:33Z",
+    "stars": 22,
+    "updated_at": "2025-09-22T16:28:02Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -4087,8 +4087,8 @@
     "tags": [
       "pixiv"
     ],
-    "stars": 22,
-    "updated_at": "2025-09-18T00:39:43Z",
+    "stars": 23,
+    "updated_at": "2025-09-22T16:31:21Z",
     "version": "1.2.8"
   },
   "astrbot_plugin_gotify": {
