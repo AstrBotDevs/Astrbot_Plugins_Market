@@ -643,8 +643,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 14,
-    "updated_at": "2025-09-16T06:09:14Z",
+    "stars": 13,
+    "updated_at": "2025-09-22T07:39:27Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -2097,7 +2097,7 @@
     "desc": "通过调用 AnimeTrace 网站提供的 API 进行动漫识图",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-21T22:17:03Z",
+    "updated_at": "2025-09-22T07:58:09Z",
     "version": "v3.3"
   },
   "astrbot_plugin_cheru": {
@@ -3205,8 +3205,8 @@
       "game",
       "fish"
     ],
-    "stars": 39,
-    "updated_at": "2025-09-19T05:04:41Z",
+    "stars": 38,
+    "updated_at": "2025-09-22T07:39:42Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
@@ -3283,8 +3283,8 @@
       "戳一戳"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 29,
-    "updated_at": "2025-09-17T02:59:51Z",
+    "stars": 28,
+    "updated_at": "2025-09-22T07:39:35Z",
     "version": "v1.1.3"
   },
   "astrbot_plugin_jm_cosmos": {
@@ -3962,8 +3962,8 @@
     "social_link": "https://github.com/ttq7/meanig",
     "desc": "大锅里炖（小游戏等等超 25 个功能！）",
     "tags": [],
-    "stars": 10,
-    "updated_at": "2025-09-16T09:48:43Z",
+    "stars": 9,
+    "updated_at": "2025-09-22T07:39:54Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_openweaponscase": {
@@ -4163,8 +4163,8 @@
     "desc": "[仅QQ] 赞我！（一个名片点赞插件）。可选是否开启白名单。",
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
-    "stars": 15,
-    "updated_at": "2025-09-16T11:19:53Z",
+    "stars": 14,
+    "updated_at": "2025-09-22T07:40:01Z",
     "version": "v1.0.8"
   },
   "astrbot_plugin_ehentai_bot": {
@@ -5435,8 +5435,8 @@
       "webui",
       "图床"
     ],
-    "stars": 81,
-    "updated_at": "2025-09-20T09:36:47Z",
+    "stars": 80,
+    "updated_at": "2025-09-22T07:39:40Z",
     "version": "v3.13"
   },
   "mccloud_command": {
@@ -5750,8 +5750,8 @@
     "author": "w33d",
     "repo": "https://github.com/Last-emo-boy/astrbot_plugin_buckshot_roulette",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-09-16T06:09:11Z",
+    "stars": 7,
+    "updated_at": "2025-09-22T07:39:36Z",
     "version": "v1.1.1"
   },
   "astrbot_plugin_github_tracker": {
