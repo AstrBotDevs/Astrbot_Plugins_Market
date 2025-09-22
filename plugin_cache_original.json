@@ -1905,8 +1905,8 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 8,
-    "updated_at": "2025-09-16T10:52:19Z",
+    "stars": 9,
+    "updated_at": "2025-09-22T04:02:14Z",
     "version": "v1.4.0"
   },
   "astrbot_plugin_mp": {
@@ -5598,7 +5598,7 @@
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
     "stars": 18,
-    "updated_at": "2025-09-19T23:30:45Z",
+    "updated_at": "2025-09-22T04:15:32Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
