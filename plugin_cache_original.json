@@ -190,8 +190,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-09-18T08:22:59Z",
-    "version": "v0.2"
+    "updated_at": "2025-09-23T01:24:50Z",
+    "version": "v0.3"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -605,8 +605,8 @@
     ],
     "social_link": "https://github.com/Sic-x",
     "stars": 0,
-    "updated_at": "2025-09-22T01:24:19Z",
-    "version": "1.1.10"
+    "updated_at": "2025-09-23T01:34:11Z",
+    "version": "1.1.11"
   },
   "astrbot_plugin_m": {
     "desc": "AI自动识别对话中的歌名，支持发送音乐卡片、链接、语音、音频文件，集成网易云音乐数据接口",
@@ -4007,7 +4007,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 24,
-    "updated_at": "2025-09-23T00:01:41Z",
+    "updated_at": "2025-09-23T01:27:28Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -5809,8 +5809,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 18,
-    "updated_at": "2025-09-22T04:15:32Z",
+    "stars": 19,
+    "updated_at": "2025-09-23T02:05:59Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
