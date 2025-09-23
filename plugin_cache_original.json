@@ -68,8 +68,8 @@
       "game",
       "fishing"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-23T03:49:09Z",
+    "stars": 1,
+    "updated_at": "2025-09-23T06:30:17Z",
     "version": "1.7.5"
   },
   "astrbot_plugin_astrmetry": {
@@ -190,8 +190,8 @@
       "备货"
     ],
     "stars": 0,
-    "updated_at": "2025-09-23T02:18:10Z",
-    "version": "v0.3.2"
+    "updated_at": "2025-09-23T06:41:00Z",
+    "version": "v0.3.3"
   },
   "astrbot_plugin_admin_emoji_reply": {
     "desc": "自动为指定的用户回复表情消息，支持开关和自定义速度",
@@ -4800,8 +4800,8 @@
     "author": "AraragiEro",
     "repo": "https://github.com/AraragiEro/astrbot_plugin_kahunabot",
     "tags": [],
-    "stars": 7,
-    "updated_at": "2025-07-04T17:16:38Z",
+    "stars": 8,
+    "updated_at": "2025-09-23T06:23:08Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_qqpock": {
