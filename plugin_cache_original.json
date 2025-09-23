@@ -89,8 +89,8 @@
     "repo": "https://github.com/Chris95743/astrbot_plugin_VITS_pro",
     "social_link": "https://voice.gbkgov.cn",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-09-23T04:20:07Z",
+    "stars": 2,
+    "updated_at": "2025-09-23T07:20:47Z",
     "version": "v1.6.0"
   },
   "astrbot_plugin_blacklist_tools": {
@@ -309,8 +309,8 @@
     "tags": [
       "TTS"
     ],
-    "stars": 2,
-    "updated_at": "2025-09-22T13:32:32Z",
+    "stars": 1,
+    "updated_at": "2025-09-23T07:27:00Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_angel_heart": {
@@ -322,8 +322,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 3,
-    "updated_at": "2025-09-22T14:00:18Z",
+    "stars": 2,
+    "updated_at": "2025-09-23T07:20:48Z",
     "version": "0.0.3"
   },
   "astrbot_plugin_angel_eye": {
@@ -787,8 +787,8 @@
       "api",
       "表情包"
     ],
-    "stars": 5,
-    "updated_at": "2025-09-16T14:30:32Z",
+    "stars": 4,
+    "updated_at": "2025-09-23T08:00:47Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -813,8 +813,8 @@
       "番剧",
       "磁链"
     ],
-    "stars": 5,
-    "updated_at": "2025-09-02T22:10:39Z",
+    "stars": 6,
+    "updated_at": "2025-09-23T08:10:26Z",
     "version": "v1.0"
   },
   "astrbot_plugin_restrict_syscmd": {
@@ -1333,8 +1333,8 @@
       "STT",
       "语音转文字"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-19T01:42:04Z",
+    "stars": 3,
+    "updated_at": "2025-09-23T07:40:03Z",
     "version": "1.2.2"
   },
   "astrbot_plugin_bangumi": {
