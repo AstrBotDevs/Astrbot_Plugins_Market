@@ -69,8 +69,8 @@
       "fishing"
     ],
     "stars": 3,
-    "updated_at": "2025-09-24T13:52:53Z",
-    "version": "2.0.7"
+    "updated_at": "2025-09-24T14:43:41Z",
+    "version": "2.0.8"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -2943,8 +2943,8 @@
     "tags": [
       "玩具"
     ],
-    "stars": 10,
-    "updated_at": "2025-09-18T09:51:32Z",
+    "stars": 11,
+    "updated_at": "2025-09-24T14:28:04Z",
     "version": "v0.1"
   },
   "astrbot_plugin_music": {
