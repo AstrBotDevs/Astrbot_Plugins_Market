@@ -414,7 +414,7 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T12:21:35Z",
+    "updated_at": "2025-09-24T21:56:08Z",
     "version": "v1.0"
   },
   "astrbot_plugin_move3d": {
@@ -1659,7 +1659,7 @@
     "tags": [],
     "stars": 0,
     "updated_at": "2025-08-24T16:05:27Z",
-    "version": "v1.2.0"
+    "version": "1.0.0"
   },
   "astrbot_plugin_3dmapi": {
     "desc": "3dmmod 搜索插件，支持在 3dmgame Mod 站搜索相关 Mod 内容",
