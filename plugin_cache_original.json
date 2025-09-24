@@ -240,7 +240,7 @@
       "多模态"
     ],
     "stars": 0,
-    "updated_at": "2025-09-18T04:51:36Z",
+    "updated_at": "2025-09-24T03:22:06Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_lottery": {
@@ -1152,8 +1152,8 @@
       "MiBand"
     ],
     "social_link": "https://github.com/Futureppo",
-    "stars": 0,
-    "updated_at": "2025-09-09T13:57:26Z",
+    "stars": 1,
+    "updated_at": "2025-09-24T02:23:26Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_immersive_control": {
@@ -5809,8 +5809,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 19,
-    "updated_at": "2025-09-23T02:05:59Z",
+    "stars": 20,
+    "updated_at": "2025-09-24T02:56:07Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
