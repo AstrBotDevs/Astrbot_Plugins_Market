@@ -240,7 +240,7 @@
       "多模态"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T03:22:06Z",
+    "updated_at": "2025-09-24T03:43:27Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_lottery": {
@@ -1551,8 +1551,8 @@
     "tags": [
       "海龟汤"
     ],
-    "stars": 9,
-    "updated_at": "2025-09-18T06:17:58Z",
+    "stars": 10,
+    "updated_at": "2025-09-24T03:30:58Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_typst_render": {
