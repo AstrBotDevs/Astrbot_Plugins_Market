@@ -1,7 +1,22 @@
 {
-  "updated_at": "2025-09-23T02:59:01.435Z",
-  "total_plugins": 4,
+  "updated_at": "2025-09-24T03:00:05.626Z",
+  "total_plugins": 5,
   "plugins": [
+    {
+      "name": "astrbot_plugin_counter",
+      "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
+      "author": "hami",
+      "repo": "https://github.com/0x6861/astrbot_plugin_counter",
+      "tags": [
+        "工具",
+        "计数器"
+      ],
+      "social_link": "https://space.bilibili.com/1840073717",
+      "issue_number": 2855,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2855",
+      "created_at": "2025-09-23T05:47:46Z",
+      "updated_at": "2025-09-23T08:56:43Z"
+    },
     {
       "name": "astrbot_plugin_forward_reader",
       "desc": "一个使用 LLM 分析合并转发消息内容的插件。",
