@@ -513,8 +513,8 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 11,
-    "updated_at": "2025-09-23T08:18:28Z",
-    "version": "v1.2.2"
+    "updated_at": "2025-09-24T15:25:21Z",
+    "version": "v1.3.0"
   },
   "astrbot_plugin_group_chat": {
     "desc": "一个先进的群聊交互插件，采用AI算法实现智能回复决策，能像真人一样主动参与对话，实现拟人化的主动交互体验。",
@@ -834,8 +834,8 @@
       "JOJO"
     ],
     "social_link": "http://www.tripleying.com/jojo",
-    "stars": 2,
-    "updated_at": "2025-09-08T15:42:02Z",
+    "stars": 3,
+    "updated_at": "2025-09-24T15:51:14Z",
     "version": "v2.1.1"
   },
   "astrbot_plugin_qun_album": {
