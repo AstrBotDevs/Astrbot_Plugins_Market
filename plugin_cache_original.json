@@ -756,8 +756,8 @@
       "总结"
     ],
     "social_link": "https://github.com/SXP-Simon",
-    "stars": 24,
-    "updated_at": "2025-09-23T16:08:32Z",
+    "stars": 25,
+    "updated_at": "2025-09-24T00:46:23Z",
     "version": "v2.5.0"
   },
   "astrbot_plugin_boss_notifier": {
@@ -3426,8 +3426,8 @@
     "desc": "接入Bilibili直播",
     "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-08-23T03:32:30Z",
+    "stars": 5,
+    "updated_at": "2025-09-24T02:00:47Z",
     "version": "0.2.1"
   },
   "astrbot_plugin_bo": {
@@ -4007,7 +4007,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 24,
-    "updated_at": "2025-09-23T01:27:28Z",
+    "updated_at": "2025-09-24T01:28:09Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -4099,8 +4099,8 @@
       "通知",
       "主动消息"
     ],
-    "stars": 2,
-    "updated_at": "2025-05-16T09:19:31Z",
+    "stars": 3,
+    "updated_at": "2025-09-24T01:01:51Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_hello-bye": {
@@ -5872,8 +5872,8 @@
     "author": "Flartiny & Soulter",
     "repo": "https://github.com/Soulter/astrbot_plugin_bilibili",
     "tags": [],
-    "stars": 30,
-    "updated_at": "2025-09-18T02:31:27Z",
+    "stars": 31,
+    "updated_at": "2025-09-24T01:59:53Z",
     "version": "v1.4.12"
   },
   "astrbot_plugin_leetcode": {
