@@ -68,8 +68,8 @@
       "game",
       "fishing"
     ],
-    "stars": 2,
-    "updated_at": "2025-09-24T11:17:15Z",
+    "stars": 3,
+    "updated_at": "2025-09-24T13:02:16Z",
     "version": "2.0.6"
   },
   "astrbot_plugin_astrmetry": {
@@ -123,7 +123,7 @@
       "骰子"
     ],
     "stars": 2,
-    "updated_at": "2025-09-24T10:19:58Z",
+    "updated_at": "2025-09-24T12:20:49Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -414,7 +414,7 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T11:05:30Z",
+    "updated_at": "2025-09-24T12:21:35Z",
     "version": "v1.0"
   },
   "astrbot_plugin_move3d": {
@@ -1042,8 +1042,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 82,
-    "updated_at": "2025-09-23T08:35:31Z",
+    "stars": 83,
+    "updated_at": "2025-09-24T12:54:02Z",
     "version": "v2.1.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -2811,8 +2811,8 @@
     "tags": [
       "占卜"
     ],
-    "stars": 0,
-    "updated_at": "2025-06-17T06:18:19Z",
+    "stars": 1,
+    "updated_at": "2025-09-24T12:29:26Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_cook": {
