@@ -99,8 +99,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-21T11:39:47Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-24T07:17:34Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -122,8 +122,8 @@
     "tags": [
       "骰子"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-19T03:39:17Z",
+    "stars": 1,
+    "updated_at": "2025-09-24T07:23:03Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -2382,8 +2382,8 @@
     "desc": "三角洲鼠鼠偷吃模拟器（简易）",
     "repo": "https://github.com/sa1guu/astrbot_plugin_touchi",
     "tags": [],
-    "stars": 24,
-    "updated_at": "2025-09-22T09:13:56Z",
+    "stars": 25,
+    "updated_at": "2025-09-24T08:00:17Z",
     "version": "v2.5.8"
   },
   "astrbot_plugin_Astrsupermarket": {
@@ -3799,8 +3799,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 82,
-    "updated_at": "2025-09-22T06:12:46Z",
+    "stars": 83,
+    "updated_at": "2025-09-24T07:29:42Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
