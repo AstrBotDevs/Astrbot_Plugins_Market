@@ -69,8 +69,8 @@
       "fishing"
     ],
     "stars": 3,
-    "updated_at": "2025-09-24T13:02:16Z",
-    "version": "2.0.6"
+    "updated_at": "2025-09-24T13:52:53Z",
+    "version": "2.0.7"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -4006,8 +4006,8 @@
       "工具"
     ],
     "social_link": "https://wenturc.com/",
-    "stars": 24,
-    "updated_at": "2025-09-24T01:28:09Z",
+    "stars": 25,
+    "updated_at": "2025-09-24T14:11:48Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
@@ -5809,8 +5809,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 21,
-    "updated_at": "2025-09-24T11:31:01Z",
+    "stars": 22,
+    "updated_at": "2025-09-24T14:06:11Z",
     "version": "v1.3.5"
   },
   "ai_memory": {
