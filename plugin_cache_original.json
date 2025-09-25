@@ -44,8 +44,8 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "stars": 3,
-    "updated_at": "2025-09-25T16:46:28Z",
-    "version": "v0.2"
+    "updated_at": "2025-09-25T18:44:20Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
