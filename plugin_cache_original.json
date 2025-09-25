@@ -37,7 +37,7 @@
     ],
     "social_link": "https://space.bilibili.com/1840073717",
     "stars": 0,
-    "updated_at": "2025-09-23T08:56:06Z",
+    "updated_at": "2025-09-25T13:06:24Z",
     "version": "v0.1.2"
   },
   "astrbot_plugin_forward_reader": {
@@ -1896,9 +1896,9 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_url_2_knowledge_base",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 4,
+    "updated_at": "2025-08-04T12:06:22Z",
+    "version": "v1.0.0"
   },
   "astrbot_plugin_plea_mercy": {
     "name": "astrbot_plugin_plea_mercy",
