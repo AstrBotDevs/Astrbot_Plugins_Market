@@ -1,4 +1,80 @@
 {
+  "jrrp_lite": {
+    "desc": "一个只有今日人品功能的轻量级插件，数据重启后自动清除，每人每天只能随机生成一次，除此外调用第一次数据，欢迎pr~",
+    "author": "kuank",
+    "repo": "https://github.com/kuankqaq/astr_bot_jrrp",
+    "tags": [
+      "轻量",
+      "娱乐"
+    ],
+    "stars": 2,
+    "updated_at": "2025-09-24T16:24:37Z",
+    "version": "v1.0.6"
+  },
+  "AstrBot_plugin_MaimaiDX": {
+    "desc": "A maimaidx helper for Astrbot.",
+    "author": "0xa7973908",
+    "repo": "https://github.com/404MaximWang/astrbot_plugin_maimaidx",
+    "tags": [
+      "maimai",
+      "maimaidx",
+      "舞萌",
+      "电棍",
+      "otto"
+    ],
+    "social_link": "maxim2811705608@outlook.com",
+    "stars": 1,
+    "updated_at": "2025-09-24T11:09:51Z",
+    "version": "v0.1"
+  },
+  "astrbot_plugin_counter": {
+    "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
+    "author": "hami",
+    "repo": "https://github.com/0x6861/astrbot_plugin_counter",
+    "tags": [
+      "工具",
+      "计数器"
+    ],
+    "social_link": "https://space.bilibili.com/1840073717",
+    "stars": 0,
+    "updated_at": "2025-09-23T08:56:06Z",
+    "version": "v0.1.2"
+  },
+  "astrbot_plugin_forward_reader": {
+    "desc": "一个使用 LLM 分析合并转发消息内容的插件。",
+    "author": "EraAsh",
+    "repo": "https://github.com/EraAsh/astrbot_plugin_forward_reader",
+    "tags": [
+      "合并消息分析与回复"
+    ],
+    "stars": 1,
+    "updated_at": "2025-09-23T01:54:15Z",
+    "version": "1.0.8"
+  },
+  "zhiyu-astrbot-qqquery": {
+    "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-qqquery",
+    "tags": [
+      "空间",
+      "音乐",
+      "查询",
+      "信息"
+    ],
+    "social_link": " https://github.com/ovoox",
+    "stars": 0,
+    "updated_at": "2025-09-24T04:45:06Z",
+    "version": "v1.0"
+  },
+  "弗一把": {
+    "desc": "仿blast.tv猜csplayer",
+    "author": "oldPeter616",
+    "repo": "https://github.com/oldPeter616/astrbot_plugin_friberg",
+    "tags": [],
+    "stars": 1,
+    "updated_at": "2025-08-25T07:10:23Z",
+    "version": "v1.6.0"
+  },
   "群成员查询": {
     "desc": "[仅aiocqhttp]群成员查询工具，用于获取群成员的群昵称、QQ名称、QQ号、群内身份，返回给LLM的工具",
     "author": "糯米茨",
@@ -2036,9 +2112,9 @@
     "author": "和泉智宏",
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_RecallGuard",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-07-29T06:04:38Z",
-    "version": "v2.0"
+    "stars": 0,
+    "updated_at": "",
+    "version": "1.0.0"
   },
   "astrbot_plugin_reply_directly": {
     "name": "astrbot_plugin_reply_directly",
@@ -4007,7 +4083,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 25,
-    "updated_at": "2025-09-25T01:37:02Z",
+    "updated_at": "2025-09-25T02:55:22Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
