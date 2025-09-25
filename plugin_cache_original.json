@@ -144,8 +144,8 @@
       "game",
       "fishing"
     ],
-    "stars": 3,
-    "updated_at": "2025-09-24T17:12:29Z",
+    "stars": 4,
+    "updated_at": "2025-09-25T04:00:52Z",
     "version": "2.0.9"
   },
   "astrbot_plugin_astrmetry": {
@@ -2112,9 +2112,9 @@
     "author": "和泉智宏",
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_RecallGuard",
     "tags": [],
-    "stars": 0,
-    "updated_at": "",
-    "version": "1.0.0"
+    "stars": 1,
+    "updated_at": "2025-07-29T06:04:38Z",
+    "version": "v2.0"
   },
   "astrbot_plugin_reply_directly": {
     "name": "astrbot_plugin_reply_directly",
@@ -4083,7 +4083,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 25,
-    "updated_at": "2025-09-25T02:55:22Z",
+    "updated_at": "2025-09-25T03:57:01Z",
     "version": "v1.6.4"
   },
   "astrbot_plugin_status-pro": {
