@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_GroupFS": {
+    "desc": "管理QQ群文件(仅限napcat)。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_GroupFS",
+    "tags": [
+      "群文件"
+    ],
+    "stars": 0,
+    "updated_at": "2025-09-25T12:04:55Z",
+    "version": "v0.8"
+  },
+  "group_notice_manager": {
+    "desc": "当群主,管理员发布群公告或@全体时自动响应 \"td\" 的管理插件",
+    "author": "薄暝",
+    "repo": "https://github.com/xiaoxi68/astrbot_plugin_group_notice_manager",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-25T09:03:47Z",
+    "version": "v0.2.0"
+  },
   "jrrp_lite": {
     "desc": "一个只有今日人品功能的轻量级插件，数据重启后自动清除，每人每天只能随机生成一次，除此外调用第一次数据，欢迎pr~",
     "author": "kuank",
@@ -24,8 +44,8 @@
     ],
     "social_link": "maxim2811705608@outlook.com",
     "stars": 3,
-    "updated_at": "2025-09-25T08:06:14Z",
-    "version": "v0.1"
+    "updated_at": "2025-09-25T16:46:28Z",
+    "version": "v0.2"
   },
   "astrbot_plugin_counter": {
     "desc": "计数器插件; 用法 /cnt add|del|list ; 当消息包含计数器或其别名时自动+1; JSON持久化",
@@ -863,8 +883,8 @@
       "api",
       "表情包"
     ],
-    "stars": 4,
-    "updated_at": "2025-09-23T08:00:47Z",
+    "stars": 5,
+    "updated_at": "2025-09-25T17:08:11Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
