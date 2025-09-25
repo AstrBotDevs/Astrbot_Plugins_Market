@@ -23,8 +23,8 @@
       "otto"
     ],
     "social_link": "maxim2811705608@outlook.com",
-    "stars": 2,
-    "updated_at": "2025-09-25T05:35:58Z",
+    "stars": 3,
+    "updated_at": "2025-09-25T08:06:14Z",
     "version": "v0.1"
   },
   "astrbot_plugin_counter": {
@@ -145,8 +145,8 @@
       "fishing"
     ],
     "stars": 4,
-    "updated_at": "2025-09-25T04:00:52Z",
-    "version": "2.0.9"
+    "updated_at": "2025-09-25T07:10:09Z",
+    "version": "2.0.10"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
@@ -931,8 +931,8 @@
     "author": "天各一方",
     "repo": "https://github.com/Catfish872/astrbot_plugin_favourpro",
     "tags": [],
-    "stars": 13,
-    "updated_at": "2025-09-22T07:39:27Z",
+    "stars": 14,
+    "updated_at": "2025-09-25T08:02:02Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_vtb_adapter": {
@@ -2943,8 +2943,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 7,
-    "updated_at": "2025-09-22T06:10:33Z",
+    "stars": 8,
+    "updated_at": "2025-09-25T08:13:23Z",
     "version": "2.1.5"
   },
   "astrbot_plugin_xiaoxue": {
@@ -4083,8 +4083,8 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 25,
-    "updated_at": "2025-09-25T03:57:01Z",
-    "version": "v1.6.4"
+    "updated_at": "2025-09-25T08:13:51Z",
+    "version": "v1.6.5"
   },
   "astrbot_plugin_status-pro": {
     "author": "tiker",
