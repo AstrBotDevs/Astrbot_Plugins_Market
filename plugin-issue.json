@@ -1,5 +1,67 @@
 {
-  "updated_at": "2025-09-25T03:02:14.529Z",
-  "total_plugins": 0,
-  "plugins": []
+  "updated_at": "2025-09-26T03:00:53.220Z",
+  "total_plugins": 4,
+  "plugins": [
+    {
+      "name": "astrbot_plugin_file_checker",
+      "desc": "用于QQ群文件失效检查(仅限napcat)",
+      "author": "Foolllll",
+      "repo": "https://github.com/Foolllll-J/astrbot_plugin_file_checker",
+      "tags": [
+        "群文件"
+      ],
+      "social_link": "",
+      "issue_number": 2874,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2874",
+      "created_at": "2025-09-25T12:08:41Z",
+      "updated_at": "2025-09-25T16:07:59Z"
+    },
+    {
+      "name": "astrbot_plugin_simulation-xiuxian",
+      "desc": "一个简单的文字模拟修仙插件",
+      "author": "Victical",
+      "repo": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
+      "tags": [
+        "模拟",
+        "修仙"
+      ],
+      "social_link": "",
+      "issue_number": 2876,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2876",
+      "created_at": "2025-09-25T15:59:27Z",
+      "updated_at": "2025-09-25T16:10:03Z"
+    },
+    {
+      "name": "zhiyu-astrbot-beautyvideo",
+      "desc": "一款随机美女视频的AstrBot插件",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
+      "tags": [
+        "美女",
+        "视频",
+        "美女视频"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "issue_number": 2877,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2877",
+      "created_at": "2025-09-26T01:02:52Z",
+      "updated_at": "2025-09-26T02:11:19Z"
+    },
+    {
+      "name": "zhiyu-astrbot-violationquery",
+      "desc": "一款QQ违规记录查询的AstrBot插件",
+      "author": "知鱼",
+      "repo": "https://github.com/ovoox/zhiyu-astrbot-violationquery",
+      "tags": [
+        "违规",
+        "查询",
+        "违规记录"
+      ],
+      "social_link": "https://github.com/ovoox",
+      "issue_number": 2878,
+      "issue_url": "https://github.com/AstrBotDevs/AstrBot/issues/2878",
+      "created_at": "2025-09-26T01:07:43Z",
+      "updated_at": "2025-09-26T02:12:45Z"
+    }
+  ]
 }
