@@ -231,8 +231,8 @@
       "小游戏"
     ],
     "stars": 4,
-    "updated_at": "2025-09-22T07:23:29Z",
-    "version": "v2.0.2"
+    "updated_at": "2025-09-27T08:22:58Z",
+    "version": "v2.0.3"
   },
   "astrbot_plugin_admin_tools": {
     "desc": "允许LLM禁言、踢出用户",
@@ -1464,7 +1464,7 @@
     ],
     "social_link": "https://github.com/xiewoc",
     "stars": 0,
-    "updated_at": "2025-09-21T09:25:28Z",
+    "updated_at": "2025-09-27T08:56:51Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_aolastar": {
@@ -4600,8 +4600,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 47,
-    "updated_at": "2025-09-26T01:25:17Z",
+    "stars": 48,
+    "updated_at": "2025-09-27T08:50:47Z",
     "version": "v3.1.7"
   },
   "astrbot_plugin_liars_bar": {
