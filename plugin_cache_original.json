@@ -164,8 +164,8 @@
       "game",
       "fishing"
     ],
-    "stars": 6,
-    "updated_at": "2025-09-26T09:30:46Z",
+    "stars": 7,
+    "updated_at": "2025-09-27T14:16:33Z",
     "version": "2.0.10"
   },
   "astrbot_plugin_astrmetry": {
@@ -195,8 +195,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-24T07:17:34Z",
-    "version": "v1.1"
+    "updated_at": "2025-09-27T14:58:55Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -240,8 +240,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_admin_tools",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-09-26T07:59:01Z",
-    "version": "v1.1"
+    "updated_at": "2025-09-27T15:04:05Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_msg_search": {
     "desc": "[仅aiocqhttp]搜消息插件，比如搜索 谁at我",
@@ -634,8 +634,8 @@
       "GitHub"
     ],
     "social_link": "https://wenturc.com",
-    "stars": 1,
-    "updated_at": "2025-09-24T09:24:10Z",
+    "stars": 0,
+    "updated_at": "2025-09-27T14:32:04Z",
     "version": "v1.3.6"
   },
   "input_state_by_napcat": {
@@ -4103,7 +4103,7 @@
     ],
     "social_link": "https://wenturc.com/",
     "stars": 15,
-    "updated_at": "2025-09-27T01:25:00Z",
+    "updated_at": "2025-09-27T15:07:37Z",
     "version": "v1.6.5"
   },
   "astrbot_plugin_status-pro": {
