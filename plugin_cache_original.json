@@ -158,8 +158,8 @@
     "tags": [
       "合并消息分析与回复"
     ],
-    "stars": 1,
-    "updated_at": "2025-09-23T01:54:15Z",
+    "stars": 2,
+    "updated_at": "2025-09-28T21:00:42Z",
     "version": "1.0.8"
   },
   "zhiyu-astrbot-qqquery": {
@@ -197,8 +197,8 @@
       "成员查询"
     ],
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
-    "stars": 1,
-    "updated_at": "2025-09-23T09:23:09Z",
+    "stars": 2,
+    "updated_at": "2025-09-28T20:59:39Z",
     "version": "v0.1.0"
   },
   "qftp": {
@@ -2089,8 +2089,8 @@
     ],
     "social_link": "https://github.com/advent259141",
     "pinned": true,
-    "stars": 42,
-    "updated_at": "2025-09-23T06:07:48Z",
+    "stars": 43,
+    "updated_at": "2025-09-28T20:45:27Z",
     "version": "1.3.0"
   },
   "cngal_search": {
