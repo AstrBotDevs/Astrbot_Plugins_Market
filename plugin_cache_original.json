@@ -5188,8 +5188,8 @@
       "禁言"
     ],
     "stars": 2,
-    "updated_at": "2025-09-28T02:15:55Z",
-    "version": "v0.1.4"
+    "updated_at": "2025-09-28T03:21:47Z",
+    "version": "v0.1.5"
   },
   "astrbot_plugin_custom_menu": {
     "desc": "自定义菜单图片，图片放置在 menu 目录下，支持格式jpg,jpeg,png,gif,bmp。",
