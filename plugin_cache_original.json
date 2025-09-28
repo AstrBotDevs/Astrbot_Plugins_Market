@@ -883,8 +883,8 @@
       "api",
       "表情包"
     ],
-    "stars": 5,
-    "updated_at": "2025-09-25T17:08:11Z",
+    "stars": 6,
+    "updated_at": "2025-09-28T00:43:48Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -5743,8 +5743,8 @@
       "webui",
       "图床"
     ],
-    "stars": 80,
-    "updated_at": "2025-09-22T07:39:40Z",
+    "stars": 81,
+    "updated_at": "2025-09-28T00:00:04Z",
     "version": "v3.13"
   },
   "mccloud_command": {
