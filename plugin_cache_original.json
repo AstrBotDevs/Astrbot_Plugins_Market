@@ -362,8 +362,8 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-09-29T02:27:29Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-29T08:39:47Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_mc_admin": {
     "desc": "这是 MC服务器 的管理插件，支持list，珍珠炮落点计算，服务器工程坐标，备货清单，白名单管理等功能",
@@ -3054,8 +3054,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 12,
-    "updated_at": "2025-09-29T07:37:48Z",
+    "stars": 13,
+    "updated_at": "2025-09-29T08:21:10Z",
     "version": "2.1.7"
   },
   "astrbot_plugin_xiaoxue": {
