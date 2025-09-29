@@ -64,6 +64,20 @@
     "updated_at": "2025-09-25T07:29:41Z",
     "version": "v1.0"
   },
+  "zhiyu-astrbot-beautyvideo": {
+    "desc": "一款随机美女视频的AstrBot插件",
+    "author": "知鱼",
+    "repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
+    "tags": [
+      "美女",
+      "视频",
+      "美女视频"
+    ],
+    "social_link": "https://github.com/ovoox",
+    "stars": 0,
+    "updated_at": "2025-09-29T05:10:12Z",
+    "version": "v1.0"
+  },
   "astrbot_plugin_simulation-xiuxian": {
     "desc": "一个简单的文字模拟修仙插件",
     "author": "Victical",
@@ -72,8 +86,8 @@
       "模拟",
       "修仙"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-27T06:13:13Z",
+    "stars": 1,
+    "updated_at": "2025-09-29T04:19:46Z",
     "version": "v0.0.9"
   },
   "astrbot_plugin_GroupFS": {
@@ -3868,7 +3882,7 @@
     "social_link": "https://github.com/zhewang448",
     "stars": 6,
     "updated_at": "2025-05-27T01:52:21Z",
-    "version": "1.0.0"
+    "version": "v2.0.0"
   },
   "astrBot_plugin_0721anime": {
     "author": "明日香奈",
