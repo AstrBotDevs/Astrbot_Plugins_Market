@@ -361,8 +361,8 @@
     "author": "RC-CHN",
     "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-09-29T08:39:47Z",
+    "stars": 2,
+    "updated_at": "2025-09-29T09:51:36Z",
     "version": "v1.2"
   },
   "astrbot_plugin_mc_admin": {
@@ -974,8 +974,8 @@
       "api",
       "表情包"
     ],
-    "stars": 7,
-    "updated_at": "2025-09-28T06:30:03Z",
+    "stars": 8,
+    "updated_at": "2025-09-29T09:28:49Z",
     "version": "v1.0.1"
   },
   "wxauto_repost": {
@@ -3054,8 +3054,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 13,
-    "updated_at": "2025-09-29T08:21:10Z",
+    "stars": 14,
+    "updated_at": "2025-09-29T09:35:40Z",
     "version": "2.1.7"
   },
   "astrbot_plugin_xiaoxue": {
@@ -3394,7 +3394,7 @@
     ],
     "social_link": "https://space.bilibili.com/447591776",
     "stars": 2,
-    "updated_at": "2025-08-06T16:06:40Z",
+    "updated_at": "2025-09-29T09:44:33Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_embedding_adapter": {
