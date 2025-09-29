@@ -47,8 +47,8 @@
     ],
     "social_link": "https://github.com/PaloMiku/",
     "stars": 0,
-    "updated_at": "2025-09-26T21:45:44Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-09-29T03:26:10Z",
+    "version": "v1.0.2"
   },
   "zhiyu-astrbot-violationquery": {
     "desc": "一款QQ违规记录查询的AstrBot插件",
@@ -62,20 +62,6 @@
     "social_link": "https://github.com/ovoox",
     "stars": 0,
     "updated_at": "2025-09-25T07:29:41Z",
-    "version": "v1.0"
-  },
-  "zhiyu-astrbot-beautyvideo": {
-    "desc": "一款随机美女视频的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-beautyvideo",
-    "tags": [
-      "美女",
-      "视频",
-      "美女视频"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "stars": 0,
-    "updated_at": "2025-09-26T00:56:26Z",
     "version": "v1.0"
   },
   "astrbot_plugin_simulation-xiuxian": {
@@ -97,8 +83,8 @@
     "tags": [
       "群文件"
     ],
-    "stars": 0,
-    "updated_at": "2025-09-25T12:04:55Z",
+    "stars": 1,
+    "updated_at": "2025-09-29T02:44:25Z",
     "version": "v0.8"
   },
   "group_notice_manager": {
@@ -362,7 +348,7 @@
     "repo": "https://github.com/RC-CHN/astrbot_plugin_the_Big-3_Chinese_AI_conferences",
     "tags": [],
     "stars": 1,
-    "updated_at": "2025-09-26T09:04:44Z",
+    "updated_at": "2025-09-29T02:27:29Z",
     "version": "v1.0"
   },
   "astrbot_plugin_mc_admin": {
@@ -427,7 +413,7 @@
       "多模态"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T03:43:27Z",
+    "updated_at": "2025-09-29T02:49:40Z",
     "version": "1.0.0"
   },
   "astrbot_plugin_lottery": {
