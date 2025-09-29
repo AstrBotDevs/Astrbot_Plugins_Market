@@ -699,8 +699,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 11,
-    "updated_at": "2025-09-25T10:09:32Z",
+    "stars": 12,
+    "updated_at": "2025-09-29T14:08:53Z",
     "version": "v1.3.1"
   },
   "astrbot_plugin_group_chat": {
@@ -5591,8 +5591,8 @@
     "social_link": "https://space.bilibili.com/447591776",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
     "stars": 1,
-    "updated_at": "2025-05-19T07:50:13Z",
-    "version": "v1.0.4"
+    "updated_at": "2025-09-29T13:43:45Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_bv": {
     "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
