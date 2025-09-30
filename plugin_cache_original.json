@@ -46,9 +46,9 @@
       "图片识别"
     ],
     "social_link": "https://github.com/PaloMiku/",
-    "stars": 2,
-    "updated_at": "2025-09-30T01:37:46Z",
-    "version": "v1.0.6"
+    "stars": 3,
+    "updated_at": "2025-09-30T03:05:05Z",
+    "version": "v1.0.7"
   },
   "zhiyu-astrbot-violationquery": {
     "desc": "一款QQ违规记录查询的AstrBot插件",
@@ -286,8 +286,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-27T14:58:55Z",
-    "version": "v1.2"
+    "updated_at": "2025-09-30T03:12:10Z",
+    "version": "v1.3"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -5591,8 +5591,8 @@
     "social_link": "https://space.bilibili.com/447591776",
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
     "stars": 1,
-    "updated_at": "2025-09-29T13:43:45Z",
-    "version": "v1.0.3"
+    "updated_at": "2025-09-30T02:45:45Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_bv": {
     "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
