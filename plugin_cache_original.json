@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_guijishiping": {
+    "desc": "硅基流动api视频，可以制作动态壁纸之类的",
+    "author": "shskjw",
+    "repo": "https://github.com/shskjw/astrbot_plugin_guijishiping",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-30T04:36:37Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_user_inject": {
+    "desc": "根据用户id动态注入system_prompt",
+    "author": "RC-CHN",
+    "repo": "https://github.com/RC-CHN/astrbot_plugin_user_inject",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-09-30T06:41:48Z",
+    "version": "1.0.0"
+  },
   "astrbot_plugin_CourseSchedule": {
     "desc": "一个用于绑定、查询和分享课程表的插件",
     "author": "Jason.Joestar",
@@ -255,8 +273,8 @@
       "game",
       "fishing"
     ],
-    "stars": 7,
-    "updated_at": "2025-09-27T14:16:33Z",
+    "stars": 8,
+    "updated_at": "2025-09-30T16:15:40Z",
     "version": "2.0.10"
   },
   "astrbot_plugin_astrmetry": {
@@ -3054,8 +3072,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 22,
-    "updated_at": "2025-09-30T12:19:13Z",
+    "stars": 23,
+    "updated_at": "2025-09-30T16:49:27Z",
     "version": "2.1.7"
   },
   "astrbot_plugin_xiaoxue": {
@@ -5793,8 +5811,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 288,
-    "updated_at": "2025-09-22T06:09:43Z",
+    "stars": 289,
+    "updated_at": "2025-09-30T16:38:45Z",
     "version": "v0.912"
   },
   "astrbot_plugin_superpoke": {
