@@ -601,8 +601,8 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-09-24T21:56:08Z",
-    "version": "v1.0"
+    "updated_at": "2025-09-30T12:15:35Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_move3d": {
     "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
@@ -3054,8 +3054,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 20,
-    "updated_at": "2025-09-30T09:02:21Z",
+    "stars": 22,
+    "updated_at": "2025-09-30T12:19:13Z",
     "version": "2.1.7"
   },
   "astrbot_plugin_xiaoxue": {
