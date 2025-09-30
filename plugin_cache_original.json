@@ -46,9 +46,9 @@
       "图片识别"
     ],
     "social_link": "https://github.com/PaloMiku/",
-    "stars": 0,
-    "updated_at": "2025-09-30T00:41:41Z",
-    "version": "v1.0.4"
+    "stars": 2,
+    "updated_at": "2025-09-30T01:37:46Z",
+    "version": "v1.0.6"
   },
   "zhiyu-astrbot-violationquery": {
     "desc": "一款QQ违规记录查询的AstrBot插件",
@@ -404,8 +404,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-20T23:34:37Z",
-    "version": "v1.1"
+    "updated_at": "2025-09-30T01:19:20Z",
+    "version": "v1.2"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -3054,8 +3054,8 @@
       "Steam"
     ],
     "social_link": "https://github.com/Maoer233",
-    "stars": 17,
-    "updated_at": "2025-09-29T15:45:16Z",
+    "stars": 18,
+    "updated_at": "2025-09-30T00:54:21Z",
     "version": "2.1.7"
   },
   "astrbot_plugin_xiaoxue": {
