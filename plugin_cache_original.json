@@ -619,8 +619,8 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-09-30T12:15:35Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-10-01T13:36:33Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_move3d": {
     "desc": "将用户引用的图片转换为简笔画风格裸眼3D图的 AstrBot 插件。",
@@ -1332,8 +1332,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 27,
-    "updated_at": "2025-10-01T12:15:58Z",
+    "stars": 28,
+    "updated_at": "2025-10-01T13:49:22Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
