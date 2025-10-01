@@ -1332,8 +1332,8 @@
       "SiliconFlow"
     ],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 26,
-    "updated_at": "2025-09-30T10:36:02Z",
+    "stars": 27,
+    "updated_at": "2025-10-01T12:15:58Z",
     "version": "0.4.3"
   },
   "astrbot_plugin_keyword_monitor": {
@@ -2081,7 +2081,7 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-09-26T07:16:40Z",
+    "updated_at": "2025-10-01T12:02:11Z",
     "version": "v1.9.0"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -2864,8 +2864,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 18,
-    "updated_at": "2025-09-19T00:54:44Z",
+    "stars": 19,
+    "updated_at": "2025-10-01T11:54:35Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
