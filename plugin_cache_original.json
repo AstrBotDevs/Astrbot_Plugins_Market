@@ -764,8 +764,8 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-10T04:33:38Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-10-02T09:20:10Z",
+    "version": "v1.1.0"
   },
   "Codex": {
     "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
@@ -1259,8 +1259,8 @@
       "Minecraft",
       "motd"
     ],
-    "stars": 2,
-    "updated_at": "2025-08-24T08:55:20Z",
+    "stars": 3,
+    "updated_at": "2025-10-02T09:17:26Z",
     "version": "v1.7.0"
   },
   "astrbot-plugin-huaer-bot": {
