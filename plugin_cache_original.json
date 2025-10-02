@@ -274,8 +274,8 @@
       "fishing"
     ],
     "stars": 8,
-    "updated_at": "2025-10-02T14:32:51Z",
-    "version": "2.1.0"
+    "updated_at": "2025-10-02T16:08:38Z",
+    "version": "2.1.1"
   },
   "astrbot_plugin_astrmetry": {
     "desc": "接入Astrometry.net进行星空图片解析。",
