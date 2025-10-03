@@ -764,8 +764,8 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-02T09:20:10Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-10-03T12:00:57Z",
+    "version": "v1.1.1"
   },
   "Codex": {
     "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
@@ -2303,8 +2303,8 @@
     "repo": "https://github.com/mmyddd/astrbot_plugin_group_sign",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-07-30T00:51:48Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-10-03T12:16:41Z",
+    "version": "v1.1.0"
   },
   "astrbot_plugin_wwbirthday": {
     "desc": "鸣潮角色生日播报",
