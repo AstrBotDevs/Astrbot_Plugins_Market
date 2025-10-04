@@ -764,7 +764,7 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-03T12:00:57Z",
+    "updated_at": "2025-10-04T14:14:03Z",
     "version": "v1.1.1"
   },
   "Codex": {
@@ -2760,8 +2760,8 @@
       "调教"
     ],
     "social_link": "https://github.com/oyxning",
-    "stars": 20,
-    "updated_at": "2025-09-16T10:52:32Z",
+    "stars": 21,
+    "updated_at": "2025-10-04T14:46:09Z",
     "version": "v3.0.0"
   },
   "astrbot_plugin_alistfile": {
@@ -3652,8 +3652,8 @@
       "词云"
     ],
     "social_link": "https://github.com/GEMILUXVII",
-    "stars": 15,
-    "updated_at": "2025-09-14T03:32:03Z",
+    "stars": 16,
+    "updated_at": "2025-10-04T14:52:38Z",
     "version": "v2.0.1"
   },
   "astrbot_plugin_liblibapi": {
@@ -4313,8 +4313,8 @@
     "desc": "[仅aiocqhttp] 为用户进群退群发送信息提示",
     "repo": "https://github.com/1113-yangfanou/astrbot_plugin_hello-bye",
     "tags": [],
-    "stars": 13,
-    "updated_at": "2025-08-31T01:59:54Z",
+    "stars": 14,
+    "updated_at": "2025-10-04T14:53:55Z",
     "version": "v1.10"
   },
   "astrbot_plugin_pexels": {
