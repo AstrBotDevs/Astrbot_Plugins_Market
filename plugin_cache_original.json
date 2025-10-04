@@ -784,8 +784,8 @@
     "author": "薄暝",
     "repo": "https://github.com/xiaoxi68/AstrBot_plugin_openai_image-command",
     "tags": [],
-    "stars": 3,
-    "updated_at": "2025-09-23T08:19:59Z",
+    "stars": 4,
+    "updated_at": "2025-10-04T13:51:25Z",
     "version": "v1.9"
   },
   "astrbot_plugin_sleep_tracker": {
@@ -3631,8 +3631,8 @@
     "desc": "接入Bilibili直播",
     "repo": "https://github.com/Raven95676/astrbot_plugin_bilibili_live",
     "tags": [],
-    "stars": 5,
-    "updated_at": "2025-09-24T02:00:47Z",
+    "stars": 4,
+    "updated_at": "2025-10-04T13:59:39Z",
     "version": "0.2.1"
   },
   "astrbot_plugin_bo": {
