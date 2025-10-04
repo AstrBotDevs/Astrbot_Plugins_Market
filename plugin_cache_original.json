@@ -962,8 +962,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 29,
-    "updated_at": "2025-10-01T15:53:54Z",
-    "version": "v2.6.0"
+    "updated_at": "2025-10-04T11:59:42Z",
+    "version": "v2.6.1"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
