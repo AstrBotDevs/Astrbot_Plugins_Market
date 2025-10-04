@@ -2094,8 +2094,8 @@
     ],
     "social_link": "https://github.com/zhewang448",
     "stars": 13,
-    "updated_at": "2025-09-28T21:19:38Z",
-    "version": "v1.1.1"
+    "updated_at": "2025-10-04T00:29:57Z",
+    "version": "v1.1.2"
   },
   "astrbot_plugin_Heartflow": {
     "desc": "基于简单的心流机制的群聊主动回复插件，带来更生动的主动回复体验",
