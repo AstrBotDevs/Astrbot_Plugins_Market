@@ -515,8 +515,8 @@
       "TTS"
     ],
     "stars": 3,
-    "updated_at": "2025-10-04T08:56:31Z",
-    "version": "1.1.0"
+    "updated_at": "2025-10-04T09:14:58Z",
+    "version": "1.2.0"
   },
   "astrbot_plugin_angel_heart": {
     "desc": "天使心秘书，是一个专为 AstrBot 平台设计的智能群聊交互插件。它采用创新的两级AI协作架构，实现高质量、低成本的智能对话交互，让 AI 成为懂分寸、有眼色的聊天伙伴。",
@@ -2864,8 +2864,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 19,
-    "updated_at": "2025-10-01T11:54:35Z",
+    "stars": 20,
+    "updated_at": "2025-10-04T09:52:45Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
