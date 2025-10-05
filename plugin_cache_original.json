@@ -2081,8 +2081,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-01T12:02:11Z",
-    "version": "v1.9.0"
+    "updated_at": "2025-10-05T14:46:38Z",
+    "version": "v1.9.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -5870,8 +5870,8 @@
     "author": "榛子小猹猹",
     "repo": "https://github.com/Hazellol/astrbot_plugin_music-search",
     "tags": [],
-    "stars": 11,
-    "updated_at": "2025-09-11T11:50:43Z",
+    "stars": 12,
+    "updated_at": "2025-10-05T14:51:46Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_wake_enhance": {
