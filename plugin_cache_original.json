@@ -177,8 +177,8 @@
       "合并消息分析与回复"
     ],
     "stars": 3,
-    "updated_at": "2025-10-02T14:00:33Z",
-    "version": "1.0.8"
+    "updated_at": "2025-10-05T10:50:03Z",
+    "version": "1.1.1"
   },
   "zhiyu-astrbot-qqquery": {
     "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
@@ -718,7 +718,7 @@
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
     "stars": 12,
-    "updated_at": "2025-09-30T03:31:43Z",
+    "updated_at": "2025-10-05T10:13:51Z",
     "version": "v1.3.1"
   },
   "astrbot_plugin_group_chat": {
