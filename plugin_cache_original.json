@@ -1641,7 +1641,7 @@
     ],
     "social_link": "https://github.com/vmoranv",
     "stars": 1,
-    "updated_at": "2025-10-04T02:46:00Z",
+    "updated_at": "2025-10-06T14:26:32Z",
     "version": "1.0.3"
   },
   "astrbot_plugin_identity_strategy": {
@@ -2137,8 +2137,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-05T14:46:38Z",
-    "version": "v1.9.2"
+    "updated_at": "2025-10-06T15:05:39Z",
+    "version": "v1.10.0"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -4060,8 +4060,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 84,
-    "updated_at": "2025-10-02T12:48:09Z",
+    "stars": 85,
+    "updated_at": "2025-10-06T14:52:19Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
