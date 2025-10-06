@@ -1,4 +1,60 @@
 {
+  "astrbot_plugin_tg_button": {
+    "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
+    "author": "随风潜入夜",
+    "repo": "https://github.com/clown145/astrbot_plugin_tg_button",
+    "tags": [
+      "Telegram"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-05T21:12:55Z",
+    "version": "1.0.1"
+  },
+  "astrbot_plugin_markdown2img": {
+    "desc": "允许 LLM 将复杂的 Markdown 格式内容转换为图片发送，提升消息的可读性。",
+    "author": "tosaki",
+    "repo": "https://github.com/t0saki/astrbot_plugin_markdown2img",
+    "tags": [
+      "Markdown",
+      "Image"
+    ],
+    "social_link": "https://zhxwu.com",
+    "stars": 0,
+    "updated_at": "2025-10-04T18:30:52Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_auto_approve_all": {
+    "desc": "自动同意所有的群邀请和好友申请",
+    "author": "Nahida",
+    "repo": "https://github.com/Nahida364/astrbot_plugin_auto_approve_all",
+    "social_link": "https://qm.qq.com/q/RiUSQsrZ0A",
+    "tags": [],
+    "stars": 0,
+    "updated_at": "2025-10-04T16:00:48Z",
+    "version": "v1.0.0"
+  },
+  "astrbot_plugin_galplayer": {
+    "desc": "一个可以让你和群友一起推galgame的插件，需要在windows电脑上运行galgame本体。",
+    "author": "随风潜入夜",
+    "repo": "https://github.com/clown145/astrbot_plugin_galplayer",
+    "tags": [
+      "galgame"
+    ],
+    "stars": 0,
+    "updated_at": "2025-10-05T16:11:41Z",
+    "version": "1.0.1"
+  },
+  "astrbot_plugin_sha_fork": {
+    "desc": "基于原仓库 IGCrystal-NEO/astrbot_plugin_sha 的fork版本",
+    "author": "ChuranNeko",
+    "repo": "https://github.com/ChuranNeko/astrbot_plugin_sha",
+    "tags": [
+      "群管"
+    ],
+    "stars": 1,
+    "updated_at": "2025-09-30T18:07:41Z",
+    "version": "v1.4.1"
+  },
   "astrbot_plugin_guijishiping": {
     "desc": "硅基流动api视频，可以制作动态壁纸之类的",
     "author": "shskjw",
@@ -422,8 +478,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_meme_manager_lite",
     "tags": [],
     "stars": 2,
-    "updated_at": "2025-09-30T01:19:20Z",
-    "version": "v1.2"
+    "updated_at": "2025-10-06T03:47:21Z",
+    "version": "v1.3"
   },
   "astrbot_plugin_festival_greeter": {
     "desc": "在节日期间为群聊推送使用LLM生成的祝福消息",
@@ -5548,8 +5604,8 @@
     "author": "大沙北",
     "repo": "https://github.com/bigshabei/astrbot_plugin_picture_manager",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-04-21T12:46:14Z",
+    "stars": 5,
+    "updated_at": "2025-10-06T03:37:25Z",
     "version": "v1.8.0"
   },
   "astrbot_plugin_InitiativeDialogue": {
