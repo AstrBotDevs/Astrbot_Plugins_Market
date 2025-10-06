@@ -675,7 +675,7 @@
       "PRTS"
     ],
     "stars": 0,
-    "updated_at": "2025-10-03T02:39:14Z",
+    "updated_at": "2025-10-06T13:57:10Z",
     "version": "v1.1"
   },
   "astrbot_plugin_move3d": {
@@ -1289,8 +1289,8 @@
     "author": "idk114-514",
     "repo": "https://github.com/idk114-514/should_I_respond",
     "tags": [],
-    "stars": 1,
-    "updated_at": "2025-08-25T08:57:50Z",
+    "stars": 2,
+    "updated_at": "2025-10-06T13:27:22Z",
     "version": "v0.0.1"
   },
   "astrbot_plugin_lmarena": {
