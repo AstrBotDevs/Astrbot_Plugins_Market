@@ -232,8 +232,8 @@
     "tags": [
       "合并消息分析与回复"
     ],
-    "stars": 3,
-    "updated_at": "2025-10-05T10:50:03Z",
+    "stars": 4,
+    "updated_at": "2025-10-07T09:02:05Z",
     "version": "1.1.1"
   },
   "zhiyu-astrbot-qqquery": {
@@ -360,8 +360,8 @@
     "repo": "https://github.com/ctrlkk/astrbot_plugin_blacklist_tools",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-09-30T03:12:10Z",
-    "version": "v1.3"
+    "updated_at": "2025-10-07T08:38:33Z",
+    "version": "v1.4"
   },
   "astrbot_plugin_text_renderer": {
     "desc": "文本文件生成图片",
@@ -5908,8 +5908,8 @@
       "webui",
       "图床"
     ],
-    "stars": 82,
-    "updated_at": "2025-10-05T06:56:47Z",
+    "stars": 83,
+    "updated_at": "2025-10-07T09:14:41Z",
     "version": "v3.13"
   },
   "mccloud_command": {
