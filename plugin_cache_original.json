@@ -1061,8 +1061,8 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 1,
-    "updated_at": "2025-08-31T15:08:16Z",
+    "stars": 2,
+    "updated_at": "2025-10-07T04:37:25Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
@@ -2137,8 +2137,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-06T15:34:01Z",
-    "version": "v1.10.0"
+    "updated_at": "2025-10-07T04:24:04Z",
+    "version": "v1.10.1"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -4109,8 +4109,8 @@
       "游戏"
     ],
     "stars": 6,
-    "updated_at": "2025-09-13T02:32:50Z",
-    "version": "v1.7.3"
+    "updated_at": "2025-10-07T04:27:42Z",
+    "version": "v1.8.0"
   },
   "astrbot_plugin_Group-Verification": {
     "author": "huotuo146",
@@ -5556,8 +5556,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 44,
-    "updated_at": "2025-09-30T14:59:37Z",
+    "stars": 45,
+    "updated_at": "2025-10-07T04:27:24Z",
     "version": "v0.2.13"
   },
   "astrbot_plugin_sjzb": {
