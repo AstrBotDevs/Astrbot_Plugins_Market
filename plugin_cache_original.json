@@ -329,8 +329,8 @@
       "game",
       "fishing"
     ],
-    "stars": 7,
-    "updated_at": "2025-10-07T00:10:15Z",
+    "stars": 8,
+    "updated_at": "2025-10-07T03:08:30Z",
     "version": "2.1.1"
   },
   "astrbot_plugin_astrmetry": {
@@ -3864,8 +3864,8 @@
     ],
     "social_link": "https://space.bilibili.com/26584382",
     "stars": 5,
-    "updated_at": "2025-07-02T00:30:10Z",
-    "version": "v1.0"
+    "updated_at": "2025-10-07T02:59:03Z",
+    "version": "v1.1"
   },
   "astrbot_plugin_supervisor": {
     "author": "Zhalslar",
