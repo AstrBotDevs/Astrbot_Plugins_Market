@@ -40,8 +40,8 @@
     "tags": [
       "galgame"
     ],
-    "stars": 0,
-    "updated_at": "2025-10-05T16:11:41Z",
+    "stars": 1,
+    "updated_at": "2025-10-07T17:21:07Z",
     "version": "1.0.1"
   },
   "astrbot_plugin_sha_fork": {
@@ -5201,8 +5201,8 @@
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
     "stars": 7,
-    "updated_at": "2025-10-07T13:24:58Z",
-    "version": "v1.1.0"
+    "updated_at": "2025-10-07T17:17:37Z",
+    "version": "v1.1.1"
   },
   "astrbot_plugin_nachoneko": {
     "desc": "一款获取甘城猫猫图片的插件",
