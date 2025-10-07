@@ -383,8 +383,8 @@
     "tags": [
       "骰子"
     ],
-    "stars": 2,
-    "updated_at": "2025-09-24T12:20:49Z",
+    "stars": 3,
+    "updated_at": "2025-10-07T15:38:09Z",
     "version": "v2.1.0"
   },
   "astrbot_plugin_xiuxian": {
@@ -2137,7 +2137,7 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-07T14:45:09Z",
+    "updated_at": "2025-10-07T15:34:18Z",
     "version": "v1.10.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
@@ -6520,8 +6520,8 @@
     "author": "lxfight",
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "tags": [],
-    "stars": 126,
-    "updated_at": "2025-10-02T18:58:41Z",
+    "stars": 127,
+    "updated_at": "2025-10-07T16:17:40Z",
     "version": "v0.5.1"
   },
   "FateTrial_img_identify": {
