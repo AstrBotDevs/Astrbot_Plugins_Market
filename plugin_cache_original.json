@@ -1061,8 +1061,8 @@
       "wxauto"
     ],
     "social_link": "blog.isla.ltd",
-    "stars": 2,
-    "updated_at": "2025-10-07T04:37:25Z",
+    "stars": 3,
+    "updated_at": "2025-10-07T15:06:23Z",
     "version": "1.2.0"
   },
   "astrbot_plugin_AnimeMagnet": {
@@ -2137,8 +2137,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-07T04:24:04Z",
-    "version": "v1.10.1"
+    "updated_at": "2025-10-07T14:45:09Z",
+    "version": "v1.10.2"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
