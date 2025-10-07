@@ -172,8 +172,8 @@
       "群文件"
     ],
     "stars": 1,
-    "updated_at": "2025-09-29T02:44:25Z",
-    "version": "v0.8"
+    "updated_at": "2025-10-07T05:56:46Z",
+    "version": "v0.8.1"
   },
   "group_notice_manager": {
     "desc": "当群主,管理员发布群公告或@全体时自动响应 \"td\" 的管理插件",
