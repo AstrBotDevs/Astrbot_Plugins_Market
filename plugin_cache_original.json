@@ -6,8 +6,8 @@
     "tags": [
       "Telegram"
     ],
-    "stars": 1,
-    "updated_at": "2025-10-06T07:11:13Z",
+    "stars": 2,
+    "updated_at": "2025-10-07T12:24:02Z",
     "version": "1.0.2"
   },
   "astrbot_plugin_markdown2img": {
@@ -1696,8 +1696,8 @@
       "语音转化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 4,
-    "updated_at": "2025-09-19T00:56:28Z",
+    "stars": 5,
+    "updated_at": "2025-10-07T12:35:42Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_spark_tts": {
@@ -5200,8 +5200,8 @@
       "番剧"
     ],
     "repo": "https://github.com/xco2/astrbot_plugin_anime_gacha",
-    "stars": 6,
-    "updated_at": "2025-08-02T08:36:54Z",
+    "stars": 7,
+    "updated_at": "2025-10-07T13:24:58Z",
     "version": "v1.1.0"
   },
   "astrbot_plugin_nachoneko": {
