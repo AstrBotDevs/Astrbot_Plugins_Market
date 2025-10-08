@@ -598,8 +598,8 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-10-08T14:09:50Z",
-    "version": "0.0.3"
+    "updated_at": "2025-10-08T14:28:05Z",
+    "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
     "desc": "在调用大模型之前，通过小模型识别对话中的专有名词并链接百科知识，为大模型补充上下文，使其更“见多识广”。",
@@ -6084,8 +6084,8 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
     "tags": [],
-    "stars": 22,
-    "updated_at": "2025-09-30T05:03:58Z",
+    "stars": 23,
+    "updated_at": "2025-10-08T14:37:03Z",
     "version": "v1.3.6"
   },
   "ai_memory": {
