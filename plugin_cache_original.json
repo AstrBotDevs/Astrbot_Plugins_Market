@@ -44,7 +44,7 @@
     "social_link": "https://qm.qq.com/q/RiUSQsrZ0A",
     "tags": [],
     "stars": 0,
-    "updated_at": "2025-10-04T16:00:48Z",
+    "updated_at": "2025-10-08T16:35:40Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_galplayer": {
@@ -787,8 +787,8 @@
     "author": "shskjw",
     "repo": "https://github.com/shskjw/astrbot_plugin_shoubanhua",
     "tags": [],
-    "stars": 13,
-    "updated_at": "2025-10-08T10:27:58Z",
+    "stars": 14,
+    "updated_at": "2025-10-08T17:02:52Z",
     "version": "v1.3.1"
   },
   "astrbot_plugin_group_chat": {
