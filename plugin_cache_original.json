@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_33recognition": {
+    "desc": "调用大模型检测图片中关键词",
+    "author": "bushikq",
+    "repo": "https://github.com/zhewang448/astrbot_plugin_33recognition",
+    "tags": [
+      "LLM",
+      "图片识别",
+      "关键词"
+    ],
+    "social_link": "https://github.com/zhewang448",
+    "stars": 1,
+    "updated_at": "2025-10-07T13:43:35Z",
+    "version": "v1.0.0"
+  },
   "astrbot_plugin_tg_button": {
     "desc": "一个可以把指令或者网址绑定到Telegram的按钮上的插件",
     "author": "随风潜入夜",
@@ -584,7 +598,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-10-08T09:02:06Z",
+    "updated_at": "2025-10-08T14:09:50Z",
     "version": "0.0.3"
   },
   "astrbot_plugin_angel_eye": {
@@ -4060,8 +4074,8 @@
       "api"
     ],
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_apis",
-    "stars": 85,
-    "updated_at": "2025-10-06T14:52:19Z",
+    "stars": 86,
+    "updated_at": "2025-10-08T14:10:52Z",
     "version": "v2.0.4"
   },
   "astrbot_plugin_help": {
