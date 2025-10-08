@@ -584,7 +584,7 @@
     ],
     "social_link": "https://github.com/kawayiYokami",
     "stars": 7,
-    "updated_at": "2025-10-07T10:03:31Z",
+    "updated_at": "2025-10-08T09:02:06Z",
     "version": "0.0.3"
   },
   "astrbot_plugin_angel_eye": {
@@ -3399,8 +3399,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 62,
-    "updated_at": "2025-09-27T10:24:17Z",
+    "stars": 63,
+    "updated_at": "2025-10-08T08:54:12Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
