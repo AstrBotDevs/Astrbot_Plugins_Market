@@ -1317,8 +1317,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 95,
-    "updated_at": "2025-10-08T10:28:01Z",
+    "stars": 96,
+    "updated_at": "2025-10-09T02:35:31Z",
     "version": "v2.1.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -2151,8 +2151,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-07T15:34:18Z",
-    "version": "v1.10.2"
+    "updated_at": "2025-10-09T03:21:55Z",
+    "version": "v1.10.3"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -6202,7 +6202,7 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_SDGen",
     "tags": [],
     "stars": 16,
-    "updated_at": "2025-09-22T15:40:39Z",
+    "updated_at": "2025-10-09T02:41:29Z",
     "version": "v1.1.2"
   },
   "astrbot_plugin_sysinfo": {
