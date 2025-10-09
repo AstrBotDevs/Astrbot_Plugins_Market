@@ -825,8 +825,8 @@
       "napcat"
     ],
     "stars": 0,
-    "updated_at": "2025-09-20T03:37:58Z",
-    "version": "v1.0"
+    "updated_at": "2025-10-09T09:11:32Z",
+    "version": "v1.1"
   },
   "model_mcp_bridge": {
     "desc": "用于为不支持tool_use的模型提供一个调用MCP的途径的插件。",
@@ -1472,8 +1472,8 @@
       "人格"
     ],
     "social_link": "https://github.com/NickCharlie",
-    "stars": 23,
-    "updated_at": "2025-09-28T21:10:46Z",
+    "stars": 24,
+    "updated_at": "2025-10-09T10:08:50Z",
     "version": "1.2.5"
   },
   "astrbot_plugin_baiduocr": {
@@ -3130,8 +3130,8 @@
     "desc": "Bilibili视频字幕总结插件，获取B站视频字幕并使用LLM生成内容总结",
     "repo": "https://github.com/VincenttHo/astrbot_plugin_bilibili_summary",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-06-05T02:13:24Z",
+    "stars": 3,
+    "updated_at": "2025-10-09T09:29:32Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_steam_status_monitor": {
@@ -5570,8 +5570,8 @@
       "bilibili"
     ],
     "social_link": "https://github.com/miaoxutao123/",
-    "stars": 46,
-    "updated_at": "2025-10-08T04:56:37Z",
+    "stars": 47,
+    "updated_at": "2025-10-09T09:30:23Z",
     "version": "v0.2.13"
   },
   "astrbot_plugin_sjzb": {
