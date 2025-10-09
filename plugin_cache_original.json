@@ -1317,8 +1317,8 @@
       "手办化"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 96,
-    "updated_at": "2025-10-09T02:35:31Z",
+    "stars": 97,
+    "updated_at": "2025-10-09T14:09:07Z",
     "version": "v2.1.2"
   },
   "astrbot_plugin_Mirecraft_motd": {
@@ -1523,8 +1523,8 @@
       "运势"
     ],
     "stars": 5,
-    "updated_at": "2025-10-09T13:24:32Z",
-    "version": "v1.0.0"
+    "updated_at": "2025-10-09T13:46:29Z",
+    "version": "v1.0.1"
   },
   "astrbot_plugin_wakepro": {
     "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
@@ -3562,8 +3562,8 @@
       "教育",
       "调停"
     ],
-    "stars": 4,
-    "updated_at": "2025-08-27T13:54:48Z",
+    "stars": 5,
+    "updated_at": "2025-10-09T13:43:59Z",
     "version": "v1.01"
   },
   "astrbot_plugin_prefix_filter": {
