@@ -1522,8 +1522,8 @@
     "tags": [
       "运势"
     ],
-    "stars": 5,
-    "updated_at": "2025-10-09T15:43:37Z",
+    "stars": 6,
+    "updated_at": "2025-10-09T16:53:30Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_wakepro": {
@@ -3143,7 +3143,7 @@
     ],
     "social_link": "https://github.com/Maoer233",
     "stars": 28,
-    "updated_at": "2025-10-07T12:13:37Z",
+    "updated_at": "2025-10-09T16:40:39Z",
     "version": "2.1.8"
   },
   "astrbot_plugin_xiaoxue": {
