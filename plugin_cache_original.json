@@ -122,7 +122,7 @@
     ],
     "social_link": "https://catyun.cyou/",
     "stars": 0,
-    "updated_at": "2025-10-09T12:07:13Z",
+    "updated_at": "2025-10-09T12:27:14Z",
     "version": "v1.0.3"
   },
   "astrbot_plugin_search_tracemoe": {
@@ -1523,7 +1523,7 @@
       "运势"
     ],
     "stars": 5,
-    "updated_at": "2025-08-21T08:18:28Z",
+    "updated_at": "2025-10-09T13:24:32Z",
     "version": "v1.0.0"
   },
   "astrbot_plugin_wakepro": {
@@ -3832,8 +3832,8 @@
       "我的世界"
     ],
     "social_link": "https://github.com/QiChenSn",
-    "stars": 5,
-    "updated_at": "2025-10-09T11:21:41Z",
+    "stars": 6,
+    "updated_at": "2025-10-09T13:21:19Z",
     "version": "v1.5.0"
   },
   "astrbot_plugin_yinlish": {
