@@ -122,8 +122,8 @@
     ],
     "social_link": "https://catyun.cyou/",
     "stars": 0,
-    "updated_at": "2025-09-28T07:20:55Z",
-    "version": "v1.0.2"
+    "updated_at": "2025-10-09T12:07:13Z",
+    "version": "v1.0.3"
   },
   "astrbot_plugin_search_tracemoe": {
     "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
@@ -3833,8 +3833,8 @@
     ],
     "social_link": "https://github.com/QiChenSn",
     "stars": 5,
-    "updated_at": "2025-10-09T10:34:53Z",
-    "version": "v1.4.0"
+    "updated_at": "2025-10-09T11:21:41Z",
+    "version": "v1.5.0"
   },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
