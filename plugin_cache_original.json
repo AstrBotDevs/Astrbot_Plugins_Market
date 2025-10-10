@@ -122,8 +122,8 @@
     ],
     "social_link": "https://catyun.cyou/",
     "stars": 0,
-    "updated_at": "2025-10-09T12:27:14Z",
-    "version": "v1.0.3"
+    "updated_at": "2025-10-10T12:10:02Z",
+    "version": "v1.0.4"
   },
   "astrbot_plugin_search_tracemoe": {
     "desc": "基于 trace.moe API 的动漫场景识别插件，支持通过图片搜索动漫截图场景出处。",
@@ -431,8 +431,8 @@
       "搜消息"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 2,
-    "updated_at": "2025-10-07T07:49:54Z",
+    "stars": 3,
+    "updated_at": "2025-10-10T11:22:27Z",
     "version": "v1.0.1"
   },
   "scheduled_reply": {
@@ -610,8 +610,8 @@
       "知识"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 2,
-    "updated_at": "2025-10-10T09:31:46Z",
+    "stars": 4,
+    "updated_at": "2025-10-10T11:39:17Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_pollinations_images": {
@@ -1032,8 +1032,8 @@
     ],
     "social_link": "https://github.com/SXP-Simon",
     "stars": 29,
-    "updated_at": "2025-10-04T11:59:42Z",
-    "version": "v2.6.1"
+    "updated_at": "2025-10-10T11:33:00Z",
+    "version": "v2.7.1"
   },
   "astrbot_plugin_boss_notifier": {
     "desc": "AstrBot头目通知插件，可更新头目信息并通知订阅者",
@@ -3692,8 +3692,8 @@
       "game",
       "fish"
     ],
-    "stars": 39,
-    "updated_at": "2025-09-26T08:19:22Z",
+    "stars": 40,
+    "updated_at": "2025-10-10T11:17:49Z",
     "version": "1.4.6"
   },
   "astrbot_plugin_bilibili_live": {
