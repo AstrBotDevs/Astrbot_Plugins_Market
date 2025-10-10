@@ -2392,8 +2392,8 @@
     "author": "Chris",
     "repo": "https://github.com/Chris95743/astrbot_plugin_balance",
     "tags": [],
-    "stars": 9,
-    "updated_at": "2025-09-22T04:02:14Z",
+    "stars": 10,
+    "updated_at": "2025-10-10T07:56:22Z",
     "version": "v1.4.0"
   },
   "astrbot_plugin_mp": {
@@ -2934,8 +2934,8 @@
     ],
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
-    "stars": 20,
-    "updated_at": "2025-10-04T09:52:45Z",
+    "stars": 21,
+    "updated_at": "2025-10-10T07:37:10Z",
     "version": "v1.0.4"
   },
   "astrbot_plugin_reimage": {
@@ -3413,8 +3413,8 @@
       "RAG",
       "知识库"
     ],
-    "stars": 63,
-    "updated_at": "2025-10-08T08:54:12Z",
+    "stars": 64,
+    "updated_at": "2025-10-10T07:21:34Z",
     "version": "v0.5.9"
   },
   "astrbot_uptime_kuma_webhook_plugin": {
@@ -5881,8 +5881,8 @@
       "功能",
       "搬史"
     ],
-    "stars": 291,
-    "updated_at": "2025-10-06T03:05:57Z",
+    "stars": 292,
+    "updated_at": "2025-10-10T07:41:12Z",
     "version": "v0.913"
   },
   "astrbot_plugin_superpoke": {
@@ -6678,8 +6678,8 @@
     "author": "zhuiye",
     "repo": "https://github.com/zhuiye8/astrbot_plugin_txsc",
     "tags": [],
-    "stars": 4,
-    "updated_at": "2025-09-04T13:09:12Z",
+    "stars": 5,
+    "updated_at": "2025-10-10T08:07:11Z",
     "version": "v2.0.0"
   },
   "astrbot_plugin_keyword_reply": {
