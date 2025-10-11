@@ -597,8 +597,8 @@
       "主动应答"
     ],
     "social_link": "https://github.com/kawayiYokami",
-    "stars": 7,
-    "updated_at": "2025-10-09T06:06:10Z",
+    "stars": 8,
+    "updated_at": "2025-10-11T12:13:59Z",
     "version": "0.1.0"
   },
   "astrbot_plugin_angel_eye": {
@@ -2151,8 +2151,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-09T07:46:04Z",
-    "version": "v1.10.3"
+    "updated_at": "2025-10-11T11:56:23Z",
+    "version": "v1.11.0"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -4779,8 +4779,8 @@
     "tags": [
       "QQ群管"
     ],
-    "stars": 51,
-    "updated_at": "2025-10-07T10:28:28Z",
+    "stars": 53,
+    "updated_at": "2025-10-11T11:55:27Z",
     "version": "v3.1.7"
   },
   "astrbot_plugin_liars_bar": {
