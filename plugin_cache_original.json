@@ -2454,8 +2454,8 @@
       "工具"
     ],
     "social_link": "astrbot.uk",
-    "stars": 4,
-    "updated_at": "2025-09-29T18:13:29Z",
+    "stars": 5,
+    "updated_at": "2025-10-11T05:21:33Z",
     "version": "v1.4.0"
   },
   "astrbot_plugin_bw_monitor": {
@@ -4221,8 +4221,8 @@
     "desc": "一个基于 AstrBot 框架的塔罗牌占卜插件，支持多牌阵和单张牌占卜，并通过 AI 生成详细解析。",
     "repo": "https://github.com/XziXmn/astrbot_plugin_tarot",
     "tags": [],
-    "stars": 2,
-    "updated_at": "2025-06-28T18:23:02Z",
+    "stars": 3,
+    "updated_at": "2025-10-11T05:56:28Z",
     "version": "v0.1.1"
   },
   "astrbot_plugin_a2s": {
