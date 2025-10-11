@@ -1522,8 +1522,8 @@
     "tags": [
       "运势"
     ],
-    "stars": 6,
-    "updated_at": "2025-10-10T08:21:33Z",
+    "stars": 7,
+    "updated_at": "2025-10-11T14:34:08Z",
     "version": "v1.0.1"
   },
   "astrbot_plugin_wakepro": {
@@ -5656,8 +5656,8 @@
       "推送"
     ],
     "stars": 15,
-    "updated_at": "2025-09-19T16:44:54Z",
-    "version": "v2.0"
+    "updated_at": "2025-10-11T14:45:41Z",
+    "version": "v2.1.0"
   },
   "astrbot_plugin_gemini_exp": {
     "desc": "让你在 AstrBot 调用 Gemini2.0-flash-exp 来生成图片或者 P 图。Gemini2.0-flash-exp为原生多模态模型，其既是语言模型，也是生图模型，因此能够对图像使用简单的自然语言命令进行处理。",
