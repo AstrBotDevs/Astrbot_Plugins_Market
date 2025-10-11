@@ -1523,8 +1523,8 @@
       "运势"
     ],
     "stars": 7,
-    "updated_at": "2025-10-11T14:34:08Z",
-    "version": "v1.0.1"
+    "updated_at": "2025-10-11T15:58:02Z",
+    "version": "v1.0.2"
   },
   "astrbot_plugin_wakepro": {
     "desc": "更强大的唤醒增强插件：唤醒CD、唤醒合并、提及唤醒、唤醒延长、空@唤醒、话题相关性唤醒、答疑唤醒、无聊唤醒、闭嘴机制、被骂沉默机制、屏蔽人机",
@@ -2151,8 +2151,8 @@
       "战地风云"
     ],
     "stars": 7,
-    "updated_at": "2025-10-11T11:56:23Z",
-    "version": "v1.11.0"
+    "updated_at": "2025-10-11T15:44:14Z",
+    "version": "v1.11.1"
   },
   "astrbot_plugin_SteamSaleTracker": {
     "desc": "这是一个 Steam 游戏价格监控插件",
@@ -3230,8 +3230,8 @@
       "音乐"
     ],
     "social_link": "https://github.com/Zhalslar",
-    "stars": 56,
-    "updated_at": "2025-10-06T11:53:01Z",
+    "stars": 57,
+    "updated_at": "2025-10-11T16:06:47Z",
     "version": "v1.0.2"
   },
   "astrbot_plugin_renjian": {
